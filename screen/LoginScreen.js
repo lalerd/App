@@ -16,6 +16,7 @@ export default function LoginScreen() {
 
     const handleOnPress = () => {
        // Forget Pasword
+       Alert.alert('say hi')
     }
   
     return (
@@ -56,20 +57,17 @@ export default function LoginScreen() {
 {/* .......................................Forget password ........................ */}
 
          <Pressable style={styles.button} onPress={handleOnPress}>
-           <Text style={{fontSize:18, color: 'gray', marginTop:'15%'}}>Forget Password?</Text> 
+           <Text style={{fontSize:13, color: 'gray', marginTop:'15%'}}>Forget Password?</Text> 
        </Pressable>
       
 {/* .......................................Register ............................. */}
 
-       <Pressable style={styles.button} >
-           <Text style={{fontSize:15, color: 'gray', marginTop:'5%'}}>REGISTER</Text>  
+       <Pressable style={styles.button} onPress={handleOnPress}>
+           <Text style={{fontSize:15, color: 'gray', marginTop:'5%'}}>Don't have an account ?</Text>  
        </Pressable>
 
    
-
-
          </View>
-     
       </View>
       
     );
