@@ -9,7 +9,7 @@ import WelcomeScreen from './screen/WelcomeScreen';
 export default function App() {
   return (
     <View >
-      <WelcomeScreen />
+      <LoginScreen />
     </View>
   );
 }

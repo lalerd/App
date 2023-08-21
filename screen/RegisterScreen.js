@@ -55,7 +55,7 @@ const RegisterScreen = () => {
 {/* .............................................Sign In........................................ */}
 
       <Pressable style={styles.button}>
-           <Text style={{fontSize:13, color: 'gray', marginTop:'5%'}}>Sign In</Text>  
+           <Text style={{fontSize:13, color: 'gray', marginTop:'5%'}}>Do you already have an account ?</Text>  
        </Pressable>
       </View>
     </View>

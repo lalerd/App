@@ -56,9 +56,9 @@ export default function LoginScreen() {
 
 {/* .......................................Forget password ........................ */}
 
-         <Pressable style={styles.button} onPress={handleOnPress}>
+         {/* <Pressable style={styles.button} onPress={handleOnPress}>
            <Text style={{fontSize:13, color: 'gray', marginTop:'15%'}}>Forget Password?</Text> 
-       </Pressable>
+       </Pressable> */}
       
 {/* .......................................Register ............................. */}
 
