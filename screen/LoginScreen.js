@@ -50,9 +50,6 @@ export default function LoginScreen() {
                     marginBottom:20
                 }}>
         <Button title="Login" onPress={handleLogin}/>
-        </TouchableHighlight>
-
- 
 
 {/* .......................................Forget password ........................ */}
 
