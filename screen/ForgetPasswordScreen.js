@@ -8,7 +8,7 @@ import RoundedButton, {
 } from '../../components/buttons/RoundedButton';
 import AppColors from '../../constants/AppColors';
 
-export default function RegisterScreen() {
+export default function ForgetPasswordScreen() {
   const [email, setEmail] = useState('');
 
   const handleForgetPassword = () => {
