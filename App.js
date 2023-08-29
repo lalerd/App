@@ -3,13 +3,14 @@ import { Button, StyleSheet, Text, View } from 'react-native';
 import RegisterScreen from './screen/RegisterScreen';
 import LoginScreen from './screen/LoginScreen';
 import WelcomeScreen from './screen/WelcomeScreen';
+import DictionaryScreen from './screen/DictionaryScreen';
 
 
 
 export default function App() {
   return (
     <View >
-      <LoginScreen />
+      <DictionaryScreen />
     </View>
   );
 }

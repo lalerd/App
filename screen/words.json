@@ -1,0 +1,8732 @@
+﻿[
+    {
+        "word": "ab",
+        "meaning": "itibaren"
+    },
+    {
+        "word": "abbiegen",
+        "meaning": "yoldan sapmak"
+    },
+    {
+        "word": "Abend",
+        "meaning": "akşam (der)"
+    },
+    {
+        "word": "aber",
+        "meaning": "ama"
+    },
+    {
+        "word": "abfahren",
+        "meaning": "kalkmak, ayrılabilir fiil!"
+    },
+    {
+        "word": "abholen",
+        "meaning": "almak"
+    },
+    {
+        "word": "absagen",
+        "meaning": "iptal etmek"
+    },
+    {
+        "word": "Abschied",
+        "meaning": "vedalaşma (der)"
+    },
+    {
+        "word": "abschließen",
+        "meaning": "bitirmek"
+    },
+    {
+        "word": "abtrocknen",
+        "meaning": "kurutmak"
+    },
+    {
+        "word": "abwaschen, spülen",
+        "meaning": "yıkamak"
+    },
+    {
+        "word": "Ach so",
+        "meaning": "ha böyle!"
+    },
+    {
+        "word": "achten",
+        "meaning": "dikkat etmek"
+    },
+    {
+        "word": "Achtung!",
+        "meaning": "dikkat!"
+    },
+    {
+        "word": "Adresse",
+        "meaning": "adres (die)"
+    },
+    {
+        "word": "alle",
+        "meaning": "hepsi"
+    },
+    {
+        "word": "allein",
+        "meaning": "tek başına"
+    },
+    {
+        "word": "Alles Gute!",
+        "meaning": "Tebrik etmek "
+    },
+    {
+        "word": "Alphabet",
+        "meaning": "alfabe (das)"
+    },
+    {
+        "word": "also",
+        "meaning": "o zaman"
+    },
+    {
+        "word": "Alter",
+        "meaning": "yaş (das)"
+    },
+    {
+        "word": "Ampel",
+        "meaning": "trafik lambası (die)"
+    },
+    {
+        "word": "an",
+        "meaning": "yanında (temas ile)"
+    },
+    {
+        "word": "anfangen",
+        "meaning": "başlamak, ayrılabilir fiil!"
+    },
+    {
+        "word": "Angebot",
+        "meaning": "indirim (das)"
+    },
+    {
+        "word": "Angst",
+        "meaning": "korku (die)"
+    },
+    {
+        "word": "anhaben",
+        "meaning": "giymek"
+    },
+    {
+        "word": "ankommen",
+        "meaning": "varmak, ayrılabilir fiil!"
+    },
+    {
+        "word": "anmachen",
+        "meaning": "açmak"
+    },
+    {
+        "word": "anmelden",
+        "meaning": "kayıt olmak"
+    },
+    {
+        "word": "Anruf",
+        "meaning": "telefon görüşmesi (der)"
+    },
+    {
+        "word": "Anrufbeantworter",
+        "meaning": "telesekreter (der)"
+    },
+    {
+        "word": "anrufen",
+        "meaning": "telefon etmek"
+    },
+    {
+        "word": "Antwort",
+        "meaning": "cevap (die)"
+    },
+    {
+        "word": "antworten",
+        "meaning": "cevap vermek"
+    },
+    {
+        "word": "Anzeige",
+        "meaning": "ilan (die)"
+    },
+    {
+        "word": "anziehen",
+        "meaning": "üzerine giymek"
+    },
+    {
+        "word": "Apfel",
+        "meaning": "elma (der)"
+    },
+    {
+        "word": "Apotheke",
+        "meaning": "eczane (die)"
+    },
+    {
+        "word": "April",
+        "meaning": "nisan (der)"
+    },
+    {
+        "word": "Arbeit",
+        "meaning": "iş (die)"
+    },
+    {
+        "word": "arbeiten",
+        "meaning": "çalışmak"
+    },
+    {
+        "word": "Arbeitgeber",
+        "meaning": "işveren (der)"
+    },
+    {
+        "word": "arbeitslos",
+        "meaning": "işsiz"
+    },
+    {
+        "word": "Arbeitsplatz",
+        "meaning": "iş yeri (der)"
+    },
+    {
+        "word": "Arbeitszimmer",
+        "meaning": "çalışma odası (das)"
+    },
+    {
+        "word": "Architekt",
+        "meaning": "mimar (der)"
+    },
+    {
+        "word": "Arm",
+        "meaning": "kol (der)"
+    },
+    {
+        "word": "Arzt",
+        "meaning": "doktor (der)"
+    },
+    {
+        "word": "auch",
+        "meaning": "de/da; Ich bin auch Lehrer / Ben de öğretmenim"
+    },
+    {
+        "word": "auf",
+        "meaning": "üstünde (temas ile)"
+    },
+    {
+        "word": "auf keinen Fall",
+        "meaning": "asla"
+    },
+    {
+        "word": "Auf Wiedersehen",
+        "meaning": "Hoşça kalın"
+    },
+    {
+        "word": "aufhören",
+        "meaning": "bitmek, ayrılabilir fiil!"
+    },
+    {
+        "word": "aufräumen",
+        "meaning": "toplamak, ayrılabilir fiil!"
+    },
+    {
+        "word": "aufstehen",
+        "meaning": "\"kalkmak, \"\"get up\"\" anlamında\""
+    },
+    {
+        "word": "Aufzug",
+        "meaning": "asansör (der)"
+    },
+    {
+        "word": "Auge",
+        "meaning": "göz (das)"
+    },
+    {
+        "word": "August",
+        "meaning": "ağustos (der)"
+    },
+    {
+        "word": "aus",
+        "meaning": "-den/-dan; Ich komme aus der Türkei / Türkiye'den geliyorum"
+    },
+    {
+        "word": "aus Glas",
+        "meaning": "camdan"
+    },
+    {
+        "word": "Ausbildung",
+        "meaning": "eğitim (die)"
+    },
+    {
+        "word": "Ausflug",
+        "meaning": "gezi (der)"
+    },
+    {
+        "word": "Ausland",
+        "meaning": "yurtdışı (das)"
+    },
+    {
+        "word": "Ausländer",
+        "meaning": "yabancı (der)"
+    },
+    {
+        "word": "ausmachen",
+        "meaning": "kapatmak, bir cihazı kapatmak anlamında"
+    },
+    {
+        "word": "aussehen (fiil)",
+        "meaning": "görünmek"
+    },
+    {
+        "word": "Aussehen (isim)",
+        "meaning": "dış görünüs (das)"
+    },
+    {
+        "word": "aussteigen",
+        "meaning": "inmek, ayrılabilir fiil!"
+    },
+    {
+        "word": "Ausstellung",
+        "meaning": "sergi (die)"
+    },
+    {
+        "word": "Auto",
+        "meaning": "araba (das)"
+    },
+    {
+        "word": "Baby",
+        "meaning": "bebek (das)"
+    },
+    {
+        "word": "backen",
+        "meaning": "fırında pişirmek"
+    },
+    {
+        "word": "Bäckerei",
+        "meaning": "fırın (die)"
+    },
+    {
+        "word": "Bad",
+        "meaning": "banyo (das)"
+    },
+    {
+        "word": "baden",
+        "meaning": "suya girmek"
+    },
+    {
+        "word": "Bahnhof",
+        "meaning": "tren istasyonu (der)"
+    },
+    {
+        "word": "Bahnsteig",
+        "meaning": "peron (der)"
+    },
+    {
+        "word": "bald",
+        "meaning": "yakında"
+    },
+    {
+        "word": "Balkon",
+        "meaning": "balkon (der)"
+    },
+    {
+        "word": "Bank",
+        "meaning": "banka (die)"
+    },
+    {
+        "word": "Bart",
+        "meaning": "sakal (der)"
+    },
+    {
+        "word": "Bauch",
+        "meaning": "karın (der)"
+    },
+    {
+        "word": "Baum",
+        "meaning": "ağaç (der)"
+    },
+    {
+        "word": "Begrüßung",
+        "meaning": "selamlaşma (die)"
+    },
+    {
+        "word": "beide",
+        "meaning": "ikisi"
+    },
+    {
+        "word": "Bein",
+        "meaning": "bacak (das)"
+    },
+    {
+        "word": "Beispiel",
+        "meaning": "örnek (das)"
+    },
+    {
+        "word": "Bekannte",
+        "meaning": "tanıdık (der)"
+    },
+    {
+        "word": "bekommen",
+        "meaning": "\"almak; İngilizce \"\"receive\"\" fiilinin anlamında\""
+    },
+    {
+        "word": "Berg",
+        "meaning": "dağ (der)"
+    },
+    {
+        "word": "Beruf",
+        "meaning": "meslek (der)"
+    },
+    {
+        "word": "Bescheid sagen",
+        "meaning": "haber vermek"
+    },
+    {
+        "word": "beschreiben",
+        "meaning": "tarif etmek"
+    },
+    {
+        "word": "Beschwerde",
+        "meaning": "şikayet (die)"
+    },
+    {
+        "word": "beschweren (sich)",
+        "meaning": "şikayet etmek"
+    },
+    {
+        "word": "besonders",
+        "meaning": "özellikle"
+    },
+    {
+        "word": "bestehen",
+        "meaning": "geçmek"
+    },
+    {
+        "word": "besuchen",
+        "meaning": "ziyaret etmek"
+    },
+    {
+        "word": "Bett",
+        "meaning": "yatak (das)"
+    },
+    {
+        "word": "bewerten",
+        "meaning": "değerlendirmek"
+    },
+    {
+        "word": "bezahlen",
+        "meaning": "ödemek"
+    },
+    {
+        "word": "Bibliothek",
+        "meaning": "kütüphane (die)"
+    },
+    {
+        "word": "Bier",
+        "meaning": "bira"
+    },
+    {
+        "word": "bieten",
+        "meaning": "sunmak"
+    },
+    {
+        "word": "Bild",
+        "meaning": "resim (das)"
+    },
+    {
+        "word": "Bildschirm",
+        "meaning": "ekran (der)"
+    },
+    {
+        "word": "bis dann!",
+        "meaning": "sonra görüşürüz"
+    },
+    {
+        "word": "bitte",
+        "meaning": "lütfen"
+    },
+    {
+        "word": "Bitte, gern",
+        "meaning": "rica ederim, ne demek"
+    },
+    {
+        "word": "blau",
+        "meaning": "mavi"
+    },
+    {
+        "word": "bleiben",
+        "meaning": "kalmak"
+    },
+    {
+        "word": "Bleistift",
+        "meaning": "kurşun kalem (der)"
+    },
+    {
+        "word": "Blick",
+        "meaning": "manzara (der)"
+    },
+    {
+        "word": "blond",
+        "meaning": "sarışın"
+    },
+    {
+        "word": "Blume",
+        "meaning": "çiçek (die)"
+    },
+    {
+        "word": "Bluse",
+        "meaning": "bluz (die)"
+    },
+    {
+        "word": "Boden",
+        "meaning": "yer (der), ör. yeri silmek, mekan değil"
+    },
+    {
+        "word": "Braten",
+        "meaning": "rosto (der)"
+    },
+    {
+        "word": "brauchen",
+        "meaning": "ihtiyaç olmak"
+    },
+    {
+        "word": "braun",
+        "meaning": "kahverengi"
+    },
+    {
+        "word": "Brief",
+        "meaning": "mektup (der)"
+    },
+    {
+        "word": "Briefmarke",
+        "meaning": "pul (die)"
+    },
+    {
+        "word": "Brille",
+        "meaning": "gözlük (die)"
+    },
+    {
+        "word": "bringen",
+        "meaning": "getirmek"
+    },
+    {
+        "word": "Brot",
+        "meaning": "ekmek (das)"
+    },
+    {
+        "word": "Brötchen",
+        "meaning": "sandviç (das)"
+    },
+    {
+        "word": "Brücke",
+        "meaning": "köprü (die)"
+    },
+    {
+        "word": "Bruder",
+        "meaning": "erkek kardeş (der)"
+    },
+    {
+        "word": "Brust",
+        "meaning": "göğüs (die)"
+    },
+    {
+        "word": "Buch",
+        "meaning": "kitap (das)"
+    },
+    {
+        "word": "buchstabieren",
+        "meaning": "hecelemek"
+    },
+    {
+        "word": "Büro",
+        "meaning": "ofis (das)"
+    },
+    {
+        "word": "Bus",
+        "meaning": "otobüs (der)"
+    },
+    {
+        "word": "Butter",
+        "meaning": "tereyağı (die)"
+    },
+    {
+        "word": "Café",
+        "meaning": "cafe (das)"
+    },
+    {
+        "word": "CD",
+        "meaning": "CD (die)"
+    },
+    {
+        "word": "Chance",
+        "meaning": "fırsat (die)"
+    },
+    {
+        "word": "Charakter",
+        "meaning": "karakter (der)"
+    },
+    {
+        "word": "Chef",
+        "meaning": "patron (der)"
+    },
+    {
+        "word": "Computer",
+        "meaning": "bilgisayar (der)"
+    },
+    {
+        "word": "Couch",
+        "meaning": "kanepe (das)"
+    },
+    {
+        "word": "Dach",
+        "meaning": "çatı (das)"
+    },
+    {
+        "word": "danke",
+        "meaning": "teşekkürler"
+    },
+    {
+        "word": "danken",
+        "meaning": "teşekkür etmek"
+    },
+    {
+        "word": "Dankeschön!",
+        "meaning": "teşekkür ederim!"
+    },
+    {
+        "word": "das geht nicht",
+        "meaning": "olmaz"
+    },
+    {
+        "word": "dauern",
+        "meaning": "sürmek"
+    },
+    {
+        "word": "dein",
+        "meaning": "senin"
+    },
+    {
+        "word": "denken",
+        "meaning": "düşünmek"
+    },
+    {
+        "word": "Deutsch",
+        "meaning": "Almanca"
+    },
+    {
+        "word": "Deutschland",
+        "meaning": "Almanya (das)"
+    },
+    {
+        "word": "Dezember",
+        "meaning": "aralık (der)"
+    },
+    {
+        "word": "dick",
+        "meaning": "şişman"
+    },
+    {
+        "word": "Dienstag",
+        "meaning": "salı (der)"
+    },
+    {
+        "word": "Dienstreise",
+        "meaning": "iş seyahati"
+    },
+    {
+        "word": "Disco",
+        "meaning": "disko (die)"
+    },
+    {
+        "word": "doch",
+        "meaning": "bilakis"
+    },
+    {
+        "word": "Dom",
+        "meaning": "katedral (der)"
+    },
+    {
+        "word": "Donnerstag",
+        "meaning": "perşembe (der)"
+    },
+    {
+        "word": "draußen",
+        "meaning": "dışarıda"
+    },
+    {
+        "word": "Drucker",
+        "meaning": "yazıcı (der)"
+    },
+    {
+        "word": "dumm",
+        "meaning": "aptal"
+    },
+    {
+        "word": "dünn/schlank",
+        "meaning": "zayıf"
+    },
+    {
+        "word": "dürfen",
+        "meaning": "izinli olmak"
+    },
+    {
+        "word": "Durst",
+        "meaning": "susama (der)"
+    },
+    {
+        "word": "Dusche",
+        "meaning": "duş (die)"
+    },
+    {
+        "word": "eckig",
+        "meaning": "köşeli"
+    },
+    {
+        "word": "Ehefrau",
+        "meaning": "eş, karı (die)"
+    },
+    {
+        "word": "Ehemann",
+        "meaning": "eş, koca (der)"
+    },
+    {
+        "word": "Ei",
+        "meaning": "yumurta (das)"
+    },
+    {
+        "word": "ein bisschen",
+        "meaning": "biraz"
+    },
+    {
+        "word": "eine Prüfung schaffen",
+        "meaning": "sınavı geçmek"
+    },
+    {
+        "word": "Einen Moment!",
+        "meaning": "bir dakika!"
+    },
+    {
+        "word": "einkaufen",
+        "meaning": "alışveriş yapmak, ayrılabilir fiil!"
+    },
+    {
+        "word": "einladen",
+        "meaning": "davet etmek, ayrılabilir fiil!"
+    },
+    {
+        "word": "Einladung",
+        "meaning": "davetiye"
+    },
+    {
+        "word": "einsteigen",
+        "meaning": "binmek, ayrılabilir fiil!"
+    },
+    {
+        "word": "Eis",
+        "meaning": "dondurma (das)"
+    },
+    {
+        "word": "Eltern",
+        "meaning": "ebeveynler (die)"
+    },
+    {
+        "word": "endlich",
+        "meaning": "sonunda"
+    },
+    {
+        "word": "Enkel",
+        "meaning": "erkek torun (der)"
+    },
+    {
+        "word": "Enkelin",
+        "meaning": "kız torun (die)"
+    },
+    {
+        "word": "Entschuldigen Sie!",
+        "meaning": "Affedersiniz"
+    },
+    {
+        "word": "Entschuldigung",
+        "meaning": "Özür dilerim"
+    },
+    {
+        "word": "Erdgeschoss",
+        "meaning": "giriş katı (das)"
+    },
+    {
+        "word": "erkennen",
+        "meaning": "tanımak"
+    },
+    {
+        "word": "erlaubt",
+        "meaning": "izinli"
+    },
+    {
+        "word": "erzählen, hat",
+        "meaning": "anlatmak"
+    },
+    {
+        "word": "es geht",
+        "meaning": "idare eder"
+    },
+    {
+        "word": "es gibt",
+        "meaning": "var (kalıp)"
+    },
+    {
+        "word": "essen (fiil)",
+        "meaning": "yemek yemek, düzensiz fiil! (ich esse, du isst, er isst)"
+    },
+    {
+        "word": "Essen (isim)",
+        "meaning": "yemek (das)"
+    },
+    {
+        "word": "etwas",
+        "meaning": "bir şey"
+    },
+    {
+        "word": "Europa",
+        "meaning": "avrupa (die)"
+    },
+    {
+        "word": "Fabrik",
+        "meaning": "fabrika (die)"
+    },
+    {
+        "word": "fahren",
+        "meaning": "sürmek, düzensiz fiil! (ich fahre, du fährst, er fährt)"
+    },
+    {
+        "word": "Fahrer",
+        "meaning": "sürücü (der)"
+    },
+    {
+        "word": "Fahrrad",
+        "meaning": "bisiklet (das)"
+    },
+    {
+        "word": "falsch",
+        "meaning": "yanlış"
+    },
+    {
+        "word": "Familie",
+        "meaning": "aile (die)"
+    },
+    {
+        "word": "Familienname",
+        "meaning": "soyadı (der)"
+    },
+    {
+        "word": "Familienstand",
+        "meaning": "medeni durum (der)"
+    },
+    {
+        "word": "Farbe",
+        "meaning": "renk (die)"
+    },
+    {
+        "word": "fast",
+        "meaning": "neredeyse"
+    },
+    {
+        "word": "Februar",
+        "meaning": "şubat (der)"
+    },
+    {
+        "word": "fehlen",
+        "meaning": "eksik olmak"
+    },
+    {
+        "word": "Feier",
+        "meaning": "kutlama (die)"
+    },
+    {
+        "word": "feiern",
+        "meaning": "kutlamak"
+    },
+    {
+        "word": "Fenster",
+        "meaning": "pencere (das)"
+    },
+    {
+        "word": "fernsehen (fiil)",
+        "meaning": "televizyon izlemek, ayrılabilir fiil!"
+    },
+    {
+        "word": "Fernsehen (isim)",
+        "meaning": "televizyon (das)"
+    },
+    {
+        "word": "fertig",
+        "meaning": "hazır"
+    },
+    {
+        "word": "fertig (sein)",
+        "meaning": "bitirmiş olmak; Ich bin fertig / Ben bitirdim"
+    },
+    {
+        "word": "Fest",
+        "meaning": "bayram (das)"
+    },
+    {
+        "word": "Feuerzeug",
+        "meaning": "çakmak (das)"
+    },
+    {
+        "word": "Fieber",
+        "meaning": "ateş (das)"
+    },
+    {
+        "word": "Film",
+        "meaning": "film (der)"
+    },
+    {
+        "word": "finden",
+        "meaning": "bulmak"
+    },
+    {
+        "word": "Finger",
+        "meaning": "parmak (der)"
+    },
+    {
+        "word": "Firma",
+        "meaning": "şirket (die)"
+    },
+    {
+        "word": "Fisch",
+        "meaning": "balık (der)"
+    },
+    {
+        "word": "Flasche",
+        "meaning": "şişe (die)"
+    },
+    {
+        "word": "Fleisch",
+        "meaning": "et (das)"
+    },
+    {
+        "word": "fliegen",
+        "meaning": "uçmak"
+    },
+    {
+        "word": "Flughafen",
+        "meaning": "havalimanı (der)"
+    },
+    {
+        "word": "Flugzeug",
+        "meaning": "uçak (das)"
+    },
+    {
+        "word": "Flur",
+        "meaning": "koridor (der)"
+    },
+    {
+        "word": "Fluss",
+        "meaning": "nehir (der)"
+    },
+    {
+        "word": "Föhn",
+        "meaning": "fön (der)"
+    },
+    {
+        "word": "Form",
+        "meaning": "şekil (die)"
+    },
+    {
+        "word": "Formular",
+        "meaning": "form (das)"
+    },
+    {
+        "word": "Foto",
+        "meaning": "fotoğraf (das)"
+    },
+    {
+        "word": "Fotoapparat",
+        "meaning": "fotoğraf makinesi (der)"
+    },
+    {
+        "word": "fotografieren",
+        "meaning": "fotoğraf çekmek"
+    },
+    {
+        "word": "Frage",
+        "meaning": "soru (die)"
+    },
+    {
+        "word": "fragen",
+        "meaning": "sormak"
+    },
+    {
+        "word": "Frau",
+        "meaning": "bayan (hitap ise), kadın (die)"
+    },
+    {
+        "word": "Freitag",
+        "meaning": "cuma (der)"
+    },
+    {
+        "word": "Freizeit",
+        "meaning": "boş zaman (die)"
+    },
+    {
+        "word": "fremd",
+        "meaning": "yabancı"
+    },
+    {
+        "word": "Fremdsprache",
+        "meaning": "yabancı dil (die)"
+    },
+    {
+        "word": "Freund",
+        "meaning": "arkadaş (der)"
+    },
+    {
+        "word": "freundlich",
+        "meaning": "dostça"
+    },
+    {
+        "word": "Friseur",
+        "meaning": "kuaför (der)"
+    },
+    {
+        "word": "Frohe Weihnachten!",
+        "meaning": "iyi Noeller!"
+    },
+    {
+        "word": "fröhlich",
+        "meaning": "neşeli"
+    },
+    {
+        "word": "Frühling, Frühjahr",
+        "meaning": "ilkbahar (der Frühling/das Frühjahr)"
+    },
+    {
+        "word": "Frühstück",
+        "meaning": "kahvaltı (das)"
+    },
+    {
+        "word": "frühstücken",
+        "meaning": "kahvaltı yapmak"
+    },
+    {
+        "word": "Führerschein",
+        "meaning": "ehliyet"
+    },
+    {
+        "word": "funktionieren",
+        "meaning": "çalışmak, çalışma anlamında değil, bir cihazın çalışıp çalışmadığı anlamında"
+    },
+    {
+        "word": "für",
+        "meaning": "için"
+    },
+    {
+        "word": "Fuß",
+        "meaning": "ayak (der)"
+    },
+    {
+        "word": "ganz",
+        "meaning": "tam"
+    },
+    {
+        "word": "Garage",
+        "meaning": "garaj (die)"
+    },
+    {
+        "word": "Garten",
+        "meaning": "bahçe (der)"
+    },
+    {
+        "word": "Gast",
+        "meaning": "misafir (der)"
+    },
+    {
+        "word": "geben",
+        "meaning": "vermek"
+    },
+    {
+        "word": "geboren sein",
+        "meaning": "doğmuş olmak"
+    },
+    {
+        "word": "Geburtsdatum",
+        "meaning": "doğum tarihi (das)"
+    },
+    {
+        "word": "gefährlich",
+        "meaning": "tehlikeli"
+    },
+    {
+        "word": "gefallen",
+        "meaning": "hoşuna gitmek"
+    },
+    {
+        "word": "gegen",
+        "meaning": "karşı"
+    },
+    {
+        "word": "Gegenstand",
+        "meaning": "şey, eşya (der)"
+    },
+    {
+        "word": "gehen",
+        "meaning": "gitmek"
+    },
+    {
+        "word": "gehören",
+        "meaning": "ait olmak"
+    },
+    {
+        "word": "gelb",
+        "meaning": "sarı"
+    },
+    {
+        "word": "Geld",
+        "meaning": "para (das)"
+    },
+    {
+        "word": "Geldbörse",
+        "meaning": "cüzdan (die)"
+    },
+    {
+        "word": "gemütlich",
+        "meaning": "rahat, huzurlu"
+    },
+    {
+        "word": "genau",
+        "meaning": "aynen"
+    },
+    {
+        "word": "genauso schön wie",
+        "meaning": "...-kadar güzel"
+    },
+    {
+        "word": "Gepäck",
+        "meaning": "bagaj (das)"
+    },
+    {
+        "word": "gerade",
+        "meaning": "düz"
+    },
+    {
+        "word": "gern",
+        "meaning": "seve seve"
+    },
+    {
+        "word": "Geschäft",
+        "meaning": "mağaza (das)"
+    },
+    {
+        "word": "Geschenk",
+        "meaning": "hediye (das)"
+    },
+    {
+        "word": "geschieden",
+        "meaning": "boşanmış"
+    },
+    {
+        "word": "Geschirr",
+        "meaning": "kap kacak, bulaşık (das)"
+    },
+    {
+        "word": "Geschirr spülen",
+        "meaning": "bulaşık yıkamak"
+    },
+    {
+        "word": "Geschwister",
+        "meaning": "kardeşler (die)"
+    },
+    {
+        "word": "Gespräch",
+        "meaning": "konuşma (das)"
+    },
+    {
+        "word": "gestern",
+        "meaning": "dün"
+    },
+    {
+        "word": "gesund",
+        "meaning": "sağlıklı"
+    },
+    {
+        "word": "Gesundheit",
+        "meaning": "sağlık (die)"
+    },
+    {
+        "word": "Getränk",
+        "meaning": "içecek (das)"
+    },
+    {
+        "word": "gewinnen",
+        "meaning": "kazanmak"
+    },
+    {
+        "word": "Gewitter",
+        "meaning": "fırtına (das)"
+    },
+    {
+        "word": "Gitarre",
+        "meaning": "gitar (die)"
+    },
+    {
+        "word": "Glas",
+        "meaning": "cam, bardak (das)"
+    },
+    {
+        "word": "glatt",
+        "meaning": "düz"
+    },
+    {
+        "word": "glauben",
+        "meaning": "düşünmek, inanmak"
+    },
+    {
+        "word": "gleich",
+        "meaning": "aynı"
+    },
+    {
+        "word": "gleichfalls / ebenfalls",
+        "meaning": "\"size de / sana da; \"\"Guten Appetit\"\"e yanıt\""
+    },
+    {
+        "word": "Gleis",
+        "meaning": "ray (das)"
+    },
+    {
+        "word": "Glück",
+        "meaning": "şans (das)"
+    },
+    {
+        "word": "glücklich",
+        "meaning": "mutlu"
+    },
+    {
+        "word": "Glückwünsche",
+        "meaning": "tebrikler"
+    },
+    {
+        "word": "Grad",
+        "meaning": "derece (das)"
+    },
+    {
+        "word": "gratulieren",
+        "meaning": "tebrik etmek"
+    },
+    {
+        "word": "grau",
+        "meaning": "gri"
+    },
+    {
+        "word": "grillen",
+        "meaning": "mangal yapmak"
+    },
+    {
+        "word": "groß",
+        "meaning": "büyük"
+    },
+    {
+        "word": "Größe",
+        "meaning": "büyüklük (die)"
+    },
+    {
+        "word": "Großeltern",
+        "meaning": "büyük anne-baba (die)"
+    },
+    {
+        "word": "Großmutter/Oma",
+        "meaning": "büyükanne (die)"
+    },
+    {
+        "word": "Großvater/Opa",
+        "meaning": "büyükbaba (der)"
+    },
+    {
+        "word": "grün",
+        "meaning": "yeşil"
+    },
+    {
+        "word": "Gruß",
+        "meaning": "selam  (der)"
+    },
+    {
+        "word": "günstig/billig",
+        "meaning": "ucuz"
+    },
+    {
+        "word": "Gürtel",
+        "meaning": "kemer (der)"
+    },
+    {
+        "word": "gut",
+        "meaning": "iyi"
+    },
+    {
+        "word": "Gut gemacht!",
+        "meaning": "iyi yaptın!"
+    },
+    {
+        "word": "Gute Idee!",
+        "meaning": "iyi fikir"
+    },
+    {
+        "word": "Gute Nacht",
+        "meaning": "İyi geceler"
+    },
+    {
+        "word": "Guten Abend",
+        "meaning": "İyi akşamlar"
+    },
+    {
+        "word": "Guten Appetit",
+        "meaning": "afiyet olsun"
+    },
+    {
+        "word": "Guten Morgen",
+        "meaning": "Günaydın"
+    },
+    {
+        "word": "Guten Tag",
+        "meaning": "İyi günler"
+    },
+    {
+        "word": "Gutes / Frohes neues Jahr!",
+        "meaning": "iyi yeni yıllar!"
+    },
+    {
+        "word": "Haar",
+        "meaning": "saç (das)"
+    },
+    {
+        "word": "haben",
+        "meaning": "sahip olmak"
+    },
+    {
+        "word": "Hafen",
+        "meaning": "liman (der)"
+    },
+    {
+        "word": "halb …",
+        "meaning": "buçuk..."
+    },
+    {
+        "word": "halb sechs",
+        "meaning": "beş buçuk"
+    },
+    {
+        "word": "Hallo",
+        "meaning": "Merhaba"
+    },
+    {
+        "word": "Hals",
+        "meaning": "boğaz, boyun (der)"
+    },
+    {
+        "word": "Haltestelle",
+        "meaning": "durak (die)"
+    },
+    {
+        "word": "Hand",
+        "meaning": "el (die)"
+    },
+    {
+        "word": "Handtuch",
+        "meaning": "el havlusu (das)"
+    },
+    {
+        "word": "Handy",
+        "meaning": "cep telefonu (das)"
+    },
+    {
+        "word": "hassen",
+        "meaning": "nefret etmek"
+    },
+    {
+        "word": "hässlich",
+        "meaning": "çirkin"
+    },
+    {
+        "word": "Haus",
+        "meaning": "ev (das)"
+    },
+    {
+        "word": "Hausaufgabe",
+        "meaning": "ödev (die)"
+    },
+    {
+        "word": "Hausfrau",
+        "meaning": "ev kadını (die)"
+    },
+    {
+        "word": "Haushalt",
+        "meaning": "ev işleri (der)"
+    },
+    {
+        "word": "Hausnummer",
+        "meaning": "ev numarası (die)"
+    },
+    {
+        "word": "heiraten",
+        "meaning": "evlenmek"
+    },
+    {
+        "word": "heißen",
+        "meaning": "adı olmak"
+    },
+    {
+        "word": "Heizung",
+        "meaning": "kalorifer (die)"
+    },
+    {
+        "word": "helfen",
+        "meaning": "yardım etmek, düzensiz fiil! (ich helfe, du hilfst, er hilft)"
+    },
+    {
+        "word": "Helm",
+        "meaning": "kask (der)"
+    },
+    {
+        "word": "Hemd",
+        "meaning": "gömlek (das)"
+    },
+    {
+        "word": "Herbst",
+        "meaning": "sonbahar (der)"
+    },
+    {
+        "word": "Herkunft",
+        "meaning": "memleket (die)"
+    },
+    {
+        "word": "Herr",
+        "meaning": "bay (der)"
+    },
+    {
+        "word": "Herzlichen Glückwunsch!",
+        "meaning": "içten tebrikler!"
+    },
+    {
+        "word": "heute",
+        "meaning": "bugün"
+    },
+    {
+        "word": "hier",
+        "meaning": "burada"
+    },
+    {
+        "word": "Hilfe",
+        "meaning": "yardım (die)"
+    },
+    {
+        "word": "Hilfe rufen",
+        "meaning": "yardıma çağırmak"
+    },
+    {
+        "word": "Himmel",
+        "meaning": "gökyüzü (der)"
+    },
+    {
+        "word": "Himmelsrichtung",
+        "meaning": "kompas yönü (die)"
+    },
+    {
+        "word": "hinten",
+        "meaning": "arkada"
+    },
+    {
+        "word": "hinter",
+        "meaning": "arkasında"
+    },
+    {
+        "word": "Hobby",
+        "meaning": "hobi (das)"
+    },
+    {
+        "word": "hoch",
+        "meaning": "yüksek"
+    },
+    {
+        "word": "Hochzeit",
+        "meaning": "düğün (die)"
+    },
+    {
+        "word": "hoffentlich",
+        "meaning": "umarım"
+    },
+    {
+        "word": "höflich",
+        "meaning": "kibar"
+    },
+    {
+        "word": "Holz",
+        "meaning": "ahşap (das)"
+    },
+    {
+        "word": "hören",
+        "meaning": "dinlemek"
+    },
+    {
+        "word": "Hose",
+        "meaning": "pantolon (die)"
+    },
+    {
+        "word": "Hotel",
+        "meaning": "otel (das)"
+    },
+    {
+        "word": "hübsch",
+        "meaning": "güzel"
+    },
+    {
+        "word": "Hund",
+        "meaning": "köpek (der)"
+    },
+    {
+        "word": "Hunger",
+        "meaning": "açlık (der)"
+    },
+    {
+        "word": "Hunger haben",
+        "meaning": "aç olmak"
+    },
+    {
+        "word": "hupen",
+        "meaning": "korna çalmak"
+    },
+    {
+        "word": "Husten",
+        "meaning": "öksürük (der)"
+    },
+    {
+        "word": "husten",
+        "meaning": "öksürmek"
+    },
+    {
+        "word": "Hut",
+        "meaning": "şapka (der)"
+    },
+    {
+        "word": "Idee",
+        "meaning": "fikir (die)"
+    },
+    {
+        "word": "immer",
+        "meaning": "her zaman"
+    },
+    {
+        "word": "in",
+        "meaning": "-de/da, içinde, Ich lebe in Berlin / Berlin'de yaşıyorum"
+    },
+    {
+        "word": "in Ordnung",
+        "meaning": "yolunda"
+    },
+    {
+        "word": "Information",
+        "meaning": "enformasyon (die)"
+    },
+    {
+        "word": "Ingenieur",
+        "meaning": "mühendis (der)"
+    },
+    {
+        "word": "Instrument",
+        "meaning": "enstrüman (das)"
+    },
+    {
+        "word": "interessant",
+        "meaning": "ilginç"
+    },
+    {
+        "word": "Internet",
+        "meaning": "internet (das)"
+    },
+    {
+        "word": "Internetverbindung",
+        "meaning": "internet bağlantısı (die)"
+    },
+    {
+        "word": "ja",
+        "meaning": "evet"
+    },
+    {
+        "word": "Jacke",
+        "meaning": "ceket (die)"
+    },
+    {
+        "word": "Jahre alt sein",
+        "meaning": "...yaşında olmak; Ich bin 30 Jahre alt / 30 yaşındayım"
+    },
+    {
+        "word": "Jahreszeit",
+        "meaning": "mevsim (die)"
+    },
+    {
+        "word": "Januar",
+        "meaning": "ocak (der)"
+    },
+    {
+        "word": "jeder",
+        "meaning": "herkes"
+    },
+    {
+        "word": "jetzt",
+        "meaning": "şimdi"
+    },
+    {
+        "word": "Journalist",
+        "meaning": "gazeteci (der)"
+    },
+    {
+        "word": "Jugendherberge",
+        "meaning": "gençlik hosteli (die)"
+    },
+    {
+        "word": "Juli",
+        "meaning": "temmuz (der)"
+    },
+    {
+        "word": "Juni",
+        "meaning": "haziran (der)"
+    },
+    {
+        "word": "Kaffee",
+        "meaning": "kahve (der)"
+    },
+    {
+        "word": "Kalender",
+        "meaning": "takvim (der)"
+    },
+    {
+        "word": "kaputt",
+        "meaning": "bozuk"
+    },
+    {
+        "word": "Karneval",
+        "meaning": "karnaval (der)"
+    },
+    {
+        "word": "Kartoffel",
+        "meaning": "patates (die)"
+    },
+    {
+        "word": "Käse",
+        "meaning": "peynir (der)"
+    },
+    {
+        "word": "kaufen",
+        "meaning": "\"almak, İngilizce \"\"buy\"\" fiilinin anlamında\""
+    },
+    {
+        "word": "Kein Problem",
+        "meaning": "sorun değil"
+    },
+    {
+        "word": "keine Lust",
+        "meaning": "canım istemiyor"
+    },
+    {
+        "word": "Keller",
+        "meaning": "bodrum (der)"
+    },
+    {
+        "word": "Kellner",
+        "meaning": "garson (der)"
+    },
+    {
+        "word": "kennen",
+        "meaning": "tanımak"
+    },
+    {
+        "word": "kennenlernen",
+        "meaning": "tanışmak"
+    },
+    {
+        "word": "Kette",
+        "meaning": "kolye (die)"
+    },
+    {
+        "word": "Kilometer",
+        "meaning": "kilometre (der)"
+    },
+    {
+        "word": "Kind",
+        "meaning": "çocuk (das)"
+    },
+    {
+        "word": "Kindergarten",
+        "meaning": "anaokulu (der)"
+    },
+    {
+        "word": "Kinderzimmer",
+        "meaning": "çocuk odası (das)"
+    },
+    {
+        "word": "Kino",
+        "meaning": "sinema (das)"
+    },
+    {
+        "word": "Kirche",
+        "meaning": "kilise (die)"
+    },
+    {
+        "word": "klar",
+        "meaning": "tabii ki"
+    },
+    {
+        "word": "Kleid",
+        "meaning": "elbise (das)"
+    },
+    {
+        "word": "Kleidung",
+        "meaning": "kıyafet (die)"
+    },
+    {
+        "word": "klein",
+        "meaning": "küçük"
+    },
+    {
+        "word": "Klimaanlage",
+        "meaning": "klima (die)"
+    },
+    {
+        "word": "klingeln",
+        "meaning": "zili çalmak"
+    },
+    {
+        "word": "klug",
+        "meaning": "akıllı"
+    },
+    {
+        "word": "Kneipe",
+        "meaning": "meyhane (die)"
+    },
+    {
+        "word": "Knie",
+        "meaning": "diz (das)"
+    },
+    {
+        "word": "kochen",
+        "meaning": "yemek yapmak"
+    },
+    {
+        "word": "Koffer",
+        "meaning": "valiz (der)"
+    },
+    {
+        "word": "Kollege",
+        "meaning": "iş arkadaşı (der)"
+    },
+    {
+        "word": "komisch",
+        "meaning": "komik"
+    },
+    {
+        "word": "kommen",
+        "meaning": "gelmek"
+    },
+    {
+        "word": "können",
+        "meaning": "yapabilmek, düzensiz fiil! (ich kann, du kannst, er kann)"
+    },
+    {
+        "word": "Konzert",
+        "meaning": "konser (das)"
+    },
+    {
+        "word": "Kopf",
+        "meaning": "baş (der)"
+    },
+    {
+        "word": "Körper",
+        "meaning": "vücut (der)"
+    },
+    {
+        "word": "kosten",
+        "meaning": "fiyatı ... olmak"
+    },
+    {
+        "word": "krank",
+        "meaning": "hasta"
+    },
+    {
+        "word": "Krankenhaus",
+        "meaning": "hastane (das)"
+    },
+    {
+        "word": "Krankenschwester",
+        "meaning": "hemşire (die)"
+    },
+    {
+        "word": "Krankheit",
+        "meaning": "hastalık (die)"
+    },
+    {
+        "word": "Kreditkarte",
+        "meaning": "kredi kartı (die)"
+    },
+    {
+        "word": "Küche",
+        "meaning": "mutfak (die)"
+    },
+    {
+        "word": "Kuchen",
+        "meaning": "kek (der)"
+    },
+    {
+        "word": "Kugelschreiber",
+        "meaning": "tükenmez kalem (der)"
+    },
+    {
+        "word": "kühl",
+        "meaning": "serin"
+    },
+    {
+        "word": "Kühlschrank",
+        "meaning": "buzdolabı (der)"
+    },
+    {
+        "word": "kümmern",
+        "meaning": "ilgilenmek"
+    },
+    {
+        "word": "Kunststoff",
+        "meaning": "plastik (das)"
+    },
+    {
+        "word": "Kurs",
+        "meaning": "kurs (der)"
+    },
+    {
+        "word": "kurz",
+        "meaning": "kısa"
+    },
+    {
+        "word": "lachen",
+        "meaning": "gülmek"
+    },
+    {
+        "word": "Laden",
+        "meaning": "dükkan (der)"
+    },
+    {
+        "word": "Lampe",
+        "meaning": "lamba (die)"
+    },
+    {
+        "word": "Land",
+        "meaning": "ülke (das)"
+    },
+    {
+        "word": "lang",
+        "meaning": "uzun"
+    },
+    {
+        "word": "lange",
+        "meaning": "uzun"
+    },
+    {
+        "word": "langsam",
+        "meaning": "yavaş"
+    },
+    {
+        "word": "langweilig",
+        "meaning": "sıkıcı"
+    },
+    {
+        "word": "Laptop",
+        "meaning": "laptop (der)"
+    },
+    {
+        "word": "laufen",
+        "meaning": "koşmak"
+    },
+    {
+        "word": "Laune",
+        "meaning": "keyif, ruh hali (die)"
+    },
+    {
+        "word": "laut",
+        "meaning": "gürültülü"
+    },
+    {
+        "word": "leben (fiil)",
+        "meaning": "yaşamak"
+    },
+    {
+        "word": "Leben (isim)",
+        "meaning": "hayat (das)"
+    },
+    {
+        "word": "Lebensmittel",
+        "meaning": "yiyecek (die)"
+    },
+    {
+        "word": "ledig",
+        "meaning": "bekar"
+    },
+    {
+        "word": "leer",
+        "meaning": "boş"
+    },
+    {
+        "word": "Lehrer",
+        "meaning": "öğretmen (der)"
+    },
+    {
+        "word": "leicht",
+        "meaning": "hafif, kolay"
+    },
+    {
+        "word": "leider",
+        "meaning": "maalesef"
+    },
+    {
+        "word": "leise",
+        "meaning": "sessiz"
+    },
+    {
+        "word": "lernen",
+        "meaning": "öğrenmek, ders çalışmak"
+    },
+    {
+        "word": "lesen",
+        "meaning": "okumak, düzensiz fiil! (ich lese, du liest, er liest)"
+    },
+    {
+        "word": "letzt-",
+        "meaning": "geçen, letzten Freitag / geçen cuma"
+    },
+    {
+        "word": "Leute",
+        "meaning": "insanlar (die)"
+    },
+    {
+        "word": "Licht",
+        "meaning": "ışık (das)"
+    },
+    {
+        "word": "lieben",
+        "meaning": "sevmek"
+    },
+    {
+        "word": "Lieblings-",
+        "meaning": "en sevdiği..."
+    },
+    {
+        "word": "Lied",
+        "meaning": "şarkı (das)"
+    },
+    {
+        "word": "links",
+        "meaning": "sol"
+    },
+    {
+        "word": "Lust",
+        "meaning": "heves (die)"
+    },
+    {
+        "word": "lustig",
+        "meaning": "komik"
+    },
+    {
+        "word": "machen",
+        "meaning": "yapmak"
+    },
+    {
+        "word": "Mai",
+        "meaning": "mayıs (der)"
+    },
+    {
+        "word": "Mal",
+        "meaning": "kez (das)"
+    },
+    {
+        "word": "malen",
+        "meaning": "resim yapmak"
+    },
+    {
+        "word": "manchmal",
+        "meaning": "bazen"
+    },
+    {
+        "word": "Mantel",
+        "meaning": "palto (der)"
+    },
+    {
+        "word": "Markt",
+        "meaning": "pazar (der)"
+    },
+    {
+        "word": "März",
+        "meaning": "mart (der)"
+    },
+    {
+        "word": "Material",
+        "meaning": "malzeme (das)"
+    },
+    {
+        "word": "Maus",
+        "meaning": "maus (die)"
+    },
+    {
+        "word": "Medikament",
+        "meaning": "ilaç (as)"
+    },
+    {
+        "word": "Medizin",
+        "meaning": "tıp (die)"
+    },
+    {
+        "word": "Meer",
+        "meaning": "deniz (das)"
+    },
+    {
+        "word": "meinen",
+        "meaning": "düşünmek; bir fikre sahip olmak anlamında; Ich meine, es ist eine gute Idee / Bence bu iyi bir fikir"
+    },
+    {
+        "word": "Menge",
+        "meaning": "miktar (die)"
+    },
+    {
+        "word": "Mensch",
+        "meaning": "insan (der)"
+    },
+    {
+        "word": "Metall",
+        "meaning": "metal (das)"
+    },
+    {
+        "word": "Meter",
+        "meaning": "metre (der)"
+    },
+    {
+        "word": "Miete",
+        "meaning": "kira (die)"
+    },
+    {
+        "word": "Milch",
+        "meaning": "süt (die)"
+    },
+    {
+        "word": "Minute",
+        "meaning": "dakika (die)"
+    },
+    {
+        "word": "mit",
+        "meaning": "ile"
+    },
+    {
+        "word": "Mit freundlichen Grüßen",
+        "meaning": "Saygılarımla"
+    },
+    {
+        "word": "mitbringen",
+        "meaning": "yanında getirmek, ayrılabilir fiil!"
+    },
+    {
+        "word": "mitnehmen",
+        "meaning": "yanına almak"
+    },
+    {
+        "word": "Mittag",
+        "meaning": "öğlen (der)"
+    },
+    {
+        "word": "Mitte",
+        "meaning": "orta (die)"
+    },
+    {
+        "word": "Mittwoch",
+        "meaning": "çarşamba (der)"
+    },
+    {
+        "word": "Möbel",
+        "meaning": "mobilya (die)"
+    },
+    {
+        "word": "möbliert",
+        "meaning": "eşyalı"
+    },
+    {
+        "word": "möchten",
+        "meaning": "kibarca istemek"
+    },
+    {
+        "word": "mögen",
+        "meaning": "beğenmek, hoşlanmak, düzensiz fiil! (ich mag, du magst, er mag)"
+    },
+    {
+        "word": "Mome",
+        "meaning": "an (der)"
+    },
+    {
+        "word": "Monat",
+        "meaning": "ay (der)"
+    },
+    {
+        "word": "Montag",
+        "meaning": "pazartesi (der)"
+    },
+    {
+        "word": "Morgen",
+        "meaning": "\"sabah (der); \"\"Morgen\"\" bir isim olarak sabah anlamına gelir\""
+    },
+    {
+        "word": "morgen",
+        "meaning": "\"yarın; \"\"morgen\"\" zarf olarak yarın anlamına gelir\""
+    },
+    {
+        "word": "Motorrad",
+        "meaning": "motosiklet (das)"
+    },
+    {
+        "word": "Müll",
+        "meaning": "çöp (der)"
+    },
+    {
+        "word": "Mund",
+        "meaning": "ağız (der)"
+    },
+    {
+        "word": "Museum",
+        "meaning": "müze (das)"
+    },
+    {
+        "word": "Musik",
+        "meaning": "müzik (die)"
+    },
+    {
+        "word": "müssen",
+        "meaning": "zorunda olmak"
+    },
+    {
+        "word": "Mutter",
+        "meaning": "anne (die)"
+    },
+    {
+        "word": "Mütze",
+        "meaning": "bere (die)"
+    },
+    {
+        "word": "Nachbar",
+        "meaning": "komşu (der)"
+    },
+    {
+        "word": "Nachmittag",
+        "meaning": "öğleden sonra (der)"
+    },
+    {
+        "word": "nächste",
+        "meaning": "bir sonraki"
+    },
+    {
+        "word": "Nacht",
+        "meaning": "gece (die)"
+    },
+    {
+        "word": "Nähe",
+        "meaning": "yakınlık (die)"
+    },
+    {
+        "word": "Name",
+        "meaning": "isim (der)"
+    },
+    {
+        "word": "Nase",
+        "meaning": "burun (die)"
+    },
+    {
+        "word": "Natur",
+        "meaning": "doğa (die)"
+    },
+    {
+        "word": "natürlich",
+        "meaning": "elbette"
+    },
+    {
+        "word": "Nebel",
+        "meaning": "sis (der)"
+    },
+    {
+        "word": "neben",
+        "meaning": "yanında (temassız)"
+    },
+    {
+        "word": "neblig",
+        "meaning": "sisli"
+    },
+    {
+        "word": "nehmen",
+        "meaning": "\"almak; İngilizce \"\"get\"\" fiilinin anlamında, düzensiz fiil! (ich nehme, du nimmst, er nimmt)\""
+    },
+    {
+        "word": "nein",
+        "meaning": "hayır"
+    },
+    {
+        "word": "nett",
+        "meaning": "hoş"
+    },
+    {
+        "word": "neu",
+        "meaning": "yeni"
+    },
+    {
+        "word": "Neujahr",
+        "meaning": "yılbaşı (das)"
+    },
+    {
+        "word": "nicht so gut",
+        "meaning": "çok iyi değil"
+    },
+    {
+        "word": "nichts",
+        "meaning": "hiçbir şey"
+    },
+    {
+        "word": "nie",
+        "meaning": "hiçbir zaman"
+    },
+    {
+        "word": "noch",
+        "meaning": "henüz"
+    },
+    {
+        "word": "noch einmal",
+        "meaning": "bir kez daha"
+    },
+    {
+        "word": "noch nicht",
+        "meaning": "henüz değil"
+    },
+    {
+        "word": "Norden",
+        "meaning": "kuzey (der)"
+    },
+    {
+        "word": "Notizbuch",
+        "meaning": "not defteri (das)"
+    },
+    {
+        "word": "November",
+        "meaning": "kasım (der)"
+    },
+    {
+        "word": "Nummer",
+        "meaning": "numara (die)"
+    },
+    {
+        "word": "nur",
+        "meaning": "sadece"
+    },
+    {
+        "word": "oben",
+        "meaning": "yukarıda"
+    },
+    {
+        "word": "Obst",
+        "meaning": "meyve (das)"
+    },
+    {
+        "word": "oder",
+        "meaning": "veya"
+    },
+    {
+        "word": "oft",
+        "meaning": "sıklıkla"
+    },
+    {
+        "word": "ohne",
+        "meaning": "-siz, ohne Auto / arabasız"
+    },
+    {
+        "word": "Ohr",
+        "meaning": "kulak (das)"
+    },
+    {
+        "word": "Oktober",
+        "meaning": "ekim (der)"
+    },
+    {
+        "word": "orange",
+        "meaning": "turuncu"
+    },
+    {
+        "word": "ordentlich",
+        "meaning": "düzenli"
+    },
+    {
+        "word": "Ordnung",
+        "meaning": "düzen (die)"
+    },
+    {
+        "word": "Ort",
+        "meaning": "yer (der)"
+    },
+    {
+        "word": "Osten",
+        "meaning": "doğu (der)"
+    },
+    {
+        "word": "Ostern",
+        "meaning": "Paskalya (das)"
+    },
+    {
+        "word": "Österreich",
+        "meaning": "Avusturya (das)"
+    },
+    {
+        "word": "Paar",
+        "meaning": "çift (das)"
+    },
+    {
+        "word": "Papier",
+        "meaning": "kağıt (das)"
+    },
+    {
+        "word": "Park",
+        "meaning": "park (der)"
+    },
+    {
+        "word": "parken",
+        "meaning": "park etmek"
+    },
+    {
+        "word": "Party",
+        "meaning": "parti (die)"
+    },
+    {
+        "word": "passen",
+        "meaning": "uymak"
+    },
+    {
+        "word": "Passt es dir?",
+        "meaning": "sana uyar mı?"
+    },
+    {
+        "word": "Pause",
+        "meaning": "mola (die)"
+    },
+    {
+        "word": "Person",
+        "meaning": "kişi (die)"
+    },
+    {
+        "word": "Pflaster",
+        "meaning": "yara bandı (das)"
+    },
+    {
+        "word": "Picknick",
+        "meaning": "piknik (das)"
+    },
+    {
+        "word": "Plan",
+        "meaning": "plan (der)"
+    },
+    {
+        "word": "Plastik",
+        "meaning": "plastik (das)"
+    },
+    {
+        "word": "PLZ (Postleitzahl)",
+        "meaning": "posta kodu (die)"
+    },
+    {
+        "word": "Politiker",
+        "meaning": "politikacı (der)"
+    },
+    {
+        "word": "Polizei",
+        "meaning": "polis (die)"
+    },
+    {
+        "word": "Post",
+        "meaning": "postahane (die)"
+    },
+    {
+        "word": "Praktikum",
+        "meaning": "staj (das)"
+    },
+    {
+        "word": "praktisch",
+        "meaning": "pratik"
+    },
+    {
+        "word": "Praxis",
+        "meaning": "muayenehane (die)"
+    },
+    {
+        "word": "Preis",
+        "meaning": "fiyat (der)"
+    },
+    {
+        "word": "Privatreise",
+        "meaning": "özel seyahat"
+    },
+    {
+        "word": "Problem",
+        "meaning": "problem (das)"
+    },
+    {
+        "word": "Produkt",
+        "meaning": "ürün (das)"
+    },
+    {
+        "word": "Prüfung",
+        "meaning": "sınav (die)"
+    },
+    {
+        "word": "Pullover",
+        "meaning": "kazak (der)"
+    },
+    {
+        "word": "pünktlich",
+        "meaning": "vaktinde, dakik"
+    },
+    {
+        "word": "putzen",
+        "meaning": "temizlemek"
+    },
+    {
+        "word": "Quadratmeter",
+        "meaning": "metrekare (der)"
+    },
+    {
+        "word": "Rad",
+        "meaning": "bisiklet (das)"
+    },
+    {
+        "word": "Rad fahren",
+        "meaning": "bisiklet sürmek"
+    },
+    {
+        "word": "Radio",
+        "meaning": "radyo (das)"
+    },
+    {
+        "word": "Rathaus",
+        "meaning": "belediye binası (das)"
+    },
+    {
+        "word": "rauchen",
+        "meaning": "sigara içmek"
+    },
+    {
+        "word": "Rechnung",
+        "meaning": "fatura, hesap (die)"
+    },
+    {
+        "word": "rechts",
+        "meaning": "sağ"
+    },
+    {
+        "word": "reden",
+        "meaning": "konuşmak"
+    },
+    {
+        "word": "Regel",
+        "meaning": "kural (die)"
+    },
+    {
+        "word": "Regen",
+        "meaning": "yağmur (der)"
+    },
+    {
+        "word": "Regenschirm",
+        "meaning": "şemsiye (der)"
+    },
+    {
+        "word": "regnen",
+        "meaning": "yağmur yağmak"
+    },
+    {
+        "word": "Reis",
+        "meaning": "pılav, pirinç (der)"
+    },
+    {
+        "word": "Reise",
+        "meaning": "seyahat (die)"
+    },
+    {
+        "word": "Reisebüro",
+        "meaning": "seyahat acentası (das)"
+    },
+    {
+        "word": "Reiseführer",
+        "meaning": "seyahat kılavuzu (der)"
+    },
+    {
+        "word": "reisen",
+        "meaning": "seyahat etmek"
+    },
+    {
+        "word": "reparieren",
+        "meaning": "tamir etmek"
+    },
+    {
+        "word": "Restaurant",
+        "meaning": "restoran (das)"
+    },
+    {
+        "word": "Rezept",
+        "meaning": "reçete (das)"
+    },
+    {
+        "word": "richtig",
+        "meaning": "doğru"
+    },
+    {
+        "word": "Ring",
+        "meaning": "yüzük (der)"
+    },
+    {
+        "word": "Rock",
+        "meaning": "etek (der)"
+    },
+    {
+        "word": "rot",
+        "meaning": "kırmızı"
+    },
+    {
+        "word": "Rücken",
+        "meaning": "sırt (der)"
+    },
+    {
+        "word": "rund",
+        "meaning": "yuvarlak"
+    },
+    {
+        "word": "sagen",
+        "meaning": "söylemek"
+    },
+    {
+        "word": "Sahne",
+        "meaning": "krema (die)"
+    },
+    {
+        "word": "Salat",
+        "meaning": "salata (der)"
+    },
+    {
+        "word": "Salbe",
+        "meaning": "merhem (die)"
+    },
+    {
+        "word": "Samstag",
+        "meaning": "çumartesi (der)"
+    },
+    {
+        "word": "Sänger",
+        "meaning": "şarkıcı (der)"
+    },
+    {
+        "word": "sauber",
+        "meaning": "temiz"
+    },
+    {
+        "word": "S-Bahn",
+        "meaning": "banliyö treni"
+    },
+    {
+        "word": "Schade.",
+        "meaning": "yazık"
+    },
+    {
+        "word": "Schauspieler",
+        "meaning": "oyuncu (der)"
+    },
+    {
+        "word": "scheinen",
+        "meaning": "parlamak"
+    },
+    {
+        "word": "schenken",
+        "meaning": "hediye etmek"
+    },
+    {
+        "word": "schicken",
+        "meaning": "göndermek"
+    },
+    {
+        "word": "schieben",
+        "meaning": "itmek"
+    },
+    {
+        "word": "Schild",
+        "meaning": "levha (das)"
+    },
+    {
+        "word": "Schinken",
+        "meaning": "jambon (der)"
+    },
+    {
+        "word": "schlafen",
+        "meaning": "uyumak"
+    },
+    {
+        "word": "Schlafzimmer",
+        "meaning": "yatak odası (das)"
+    },
+    {
+        "word": "schlecht",
+        "meaning": "kötü"
+    },
+    {
+        "word": "schlimm",
+        "meaning": "kötü"
+    },
+    {
+        "word": "Schloss",
+        "meaning": "şato (das)"
+    },
+    {
+        "word": "Schlüssel",
+        "meaning": "anahtar (der)"
+    },
+    {
+        "word": "schmecken",
+        "meaning": "tatmak"
+    },
+    {
+        "word": "Schmerz",
+        "meaning": "ağrı (der)"
+    },
+    {
+        "word": "schmutzig",
+        "meaning": "kirli"
+    },
+    {
+        "word": "Schnee",
+        "meaning": "kar (der)"
+    },
+    {
+        "word": "schneien",
+        "meaning": "kar yağmak"
+    },
+    {
+        "word": "schnell",
+        "meaning": "hızlı"
+    },
+    {
+        "word": "Schnupfen",
+        "meaning": "nezle (der)"
+    },
+    {
+        "word": "Schokolade",
+        "meaning": "çikolata (die)"
+    },
+    {
+        "word": "schön",
+        "meaning": "güzel"
+    },
+    {
+        "word": "schöner als",
+        "meaning": "...-dan daha güzel"
+    },
+    {
+        "word": "Schrank",
+        "meaning": "dolap (der)"
+    },
+    {
+        "word": "schreiben",
+        "meaning": "yazmak"
+    },
+    {
+        "word": "Schuh",
+        "meaning": "ayakkabı (der)"
+    },
+    {
+        "word": "Schule",
+        "meaning": "okul (die)"
+    },
+    {
+        "word": "Schüler",
+        "meaning": "okul öğrencisi (der)"
+    },
+    {
+        "word": "schwanger",
+        "meaning": "hamile"
+    },
+    {
+        "word": "schwarz",
+        "meaning": "siyah"
+    },
+    {
+        "word": "Schweiz die",
+        "meaning": "İsviçre (die)"
+    },
+    {
+        "word": "schwer",
+        "meaning": "ağır, zor"
+    },
+    {
+        "word": "Schwester",
+        "meaning": "kız kardeş (die)"
+    },
+    {
+        "word": "Schwimmbad",
+        "meaning": "yüzme havuzu (das)"
+    },
+    {
+        "word": "schwimmen",
+        "meaning": "yüzmek"
+    },
+    {
+        "word": "See",
+        "meaning": "göl (der)"
+    },
+    {
+        "word": "sehen",
+        "meaning": "görmek"
+    },
+    {
+        "word": "sehr",
+        "meaning": "çok"
+    },
+    {
+        "word": "Sehr geehrte / geehrter",
+        "meaning": "sayın..."
+    },
+    {
+        "word": "sehr gut",
+        "meaning": "çok iyi"
+    },
+    {
+        "word": "Seife",
+        "meaning": "sabun (die)"
+    },
+    {
+        "word": "sein",
+        "meaning": "olmak"
+    },
+    {
+        "word": "seit",
+        "meaning": "-beri, seit 2000 / 2000 yılından beri"
+    },
+    {
+        "word": "Sekretär",
+        "meaning": "sekreter (der)"
+    },
+    {
+        "word": "selbst",
+        "meaning": "kendi"
+    },
+    {
+        "word": "seltsam",
+        "meaning": "tuhaf"
+    },
+    {
+        "word": "September",
+        "meaning": "eylül (der)"
+    },
+    {
+        "word": "Sessel",
+        "meaning": "sandalye (der)"
+    },
+    {
+        "word": "sicher",
+        "meaning": "kesin"
+    },
+    {
+        "word": "Silvester",
+        "meaning": "yılbaşı gecesi (das)"
+    },
+    {
+        "word": "singen",
+        "meaning": "şarkı söylemek"
+    },
+    {
+        "word": "sitzen",
+        "meaning": "\"oturmak, \"\"sit\"\" anlamında\""
+    },
+    {
+        "word": "Sitzung",
+        "meaning": "toplantı (die)"
+    },
+    {
+        "word": "Socke, Strumpf",
+        "meaning": "çorap (der Strumpf/die Socke)"
+    },
+    {
+        "word": "Sofa",
+        "meaning": "kanepe (das)"
+    },
+    {
+        "word": "sofort",
+        "meaning": "hemen"
+    },
+    {
+        "word": "Sohn",
+        "meaning": "oğul (der)"
+    },
+    {
+        "word": "sollen",
+        "meaning": "-meli/-malı"
+    },
+    {
+        "word": "Sommer",
+        "meaning": "yaz (der)"
+    },
+    {
+        "word": "Sonderangebot",
+        "meaning": "özel indirim (das)"
+    },
+    {
+        "word": "Sonne",
+        "meaning": "güneş (der)"
+    },
+    {
+        "word": "sonnig",
+        "meaning": "güneşli"
+    },
+    {
+        "word": "Sonntag",
+        "meaning": "pazar (der)"
+    },
+    {
+        "word": "Spaß",
+        "meaning": "eğlence (der)"
+    },
+    {
+        "word": "spät",
+        "meaning": "geç"
+    },
+    {
+        "word": "spazieren gehen",
+        "meaning": "yürüyüşe çıkmak"
+    },
+    {
+        "word": "Speisekarte",
+        "meaning": "menü (die)"
+    },
+    {
+        "word": "spielen",
+        "meaning": "oynamak"
+    },
+    {
+        "word": "Spielplatz",
+        "meaning": "çocuk parkı"
+    },
+    {
+        "word": "Sport",
+        "meaning": "spor (der)"
+    },
+    {
+        "word": "Sprache",
+        "meaning": "dil (die)"
+    },
+    {
+        "word": "sprechen",
+        "meaning": "konuşmak (düzensiz fiil!)"
+    },
+    {
+        "word": "springen",
+        "meaning": "atlamak"
+    },
+    {
+        "word": "Spülmaschine",
+        "meaning": "bulaşık makinesi (die)"
+    },
+    {
+        "word": "Stadt",
+        "meaning": "şehir (die)"
+    },
+    {
+        "word": "Stadtmitte",
+        "meaning": "şehir merkezi (die)"
+    },
+    {
+        "word": "Stadtplan",
+        "meaning": "şehir planı (der)"
+    },
+    {
+        "word": "stehen",
+        "meaning": "durmak"
+    },
+    {
+        "word": "Stelle",
+        "meaning": "iş (die)"
+    },
+    {
+        "word": "Stift",
+        "meaning": "kalem (der)"
+    },
+    {
+        "word": "stimmen",
+        "meaning": "doğru olmak"
+    },
+    {
+        "word": "Stock",
+        "meaning": "kat (der)"
+    },
+    {
+        "word": "Straße",
+        "meaning": "sokak, cadde (die)"
+    },
+    {
+        "word": "Straßenbahn",
+        "meaning": "tramvay (die)"
+    },
+    {
+        "word": "Streichholz",
+        "meaning": "kibrit (das)"
+    },
+    {
+        "word": "Stress",
+        "meaning": "stres (der)"
+    },
+    {
+        "word": "Strumpfhose",
+        "meaning": "külotlu çorap (die)"
+    },
+    {
+        "word": "Stück",
+        "meaning": "tane (das)"
+    },
+    {
+        "word": "Student",
+        "meaning": "üniversite öğrencisi (der)"
+    },
+    {
+        "word": "studieren",
+        "meaning": "üniversitede okumak"
+    },
+    {
+        "word": "Stuhl",
+        "meaning": "koltuk (der)"
+    },
+    {
+        "word": "Stunde",
+        "meaning": "saat (die); süre için zaman birimi olarak (Der Film dauert 1 Stunde / Film 1 saat sürüyor)"
+    },
+    {
+        "word": "Sturm",
+        "meaning": "kasırga (der)"
+    },
+    {
+        "word": "suchen",
+        "meaning": "aramak"
+    },
+    {
+        "word": "Süden",
+        "meaning": "güney (der)"
+    },
+    {
+        "word": "Suppe",
+        "meaning": "çorba (die)"
+    },
+    {
+        "word": "surfen",
+        "meaning": "sörf yapmak"
+    },
+    {
+        "word": "sympathisch",
+        "meaning": "sempatik"
+    },
+    {
+        "word": "Tablette",
+        "meaning": "tablet (die)"
+    },
+    {
+        "word": "Tag",
+        "meaning": "gün (der)"
+    },
+    {
+        "word": "Tageszeit",
+        "meaning": "günü saati"
+    },
+    {
+        "word": "täglich",
+        "meaning": "her gün"
+    },
+    {
+        "word": "tanzen",
+        "meaning": "dans etmek"
+    },
+    {
+        "word": "Tasche",
+        "meaning": "çanta (die)"
+    },
+    {
+        "word": "Taxi",
+        "meaning": "taksi (das)"
+    },
+    {
+        "word": "Tee",
+        "meaning": "çay (der)"
+    },
+    {
+        "word": "Telefon",
+        "meaning": "telefon (das)"
+    },
+    {
+        "word": "Telefonnummer",
+        "meaning": "telefon numarası (die)"
+    },
+    {
+        "word": "Tennis",
+        "meaning": "tenis (das)"
+    },
+    {
+        "word": "Teppich",
+        "meaning": "halı (der)"
+    },
+    {
+        "word": "Termin",
+        "meaning": "randevu (der)"
+    },
+    {
+        "word": "teuer",
+        "meaning": "pahalı"
+    },
+    {
+        "word": "Text",
+        "meaning": "metin (der)"
+    },
+    {
+        "word": "Theater",
+        "meaning": "tiyatro (das)"
+    },
+    {
+        "word": "Ticket",
+        "meaning": "bilet (das)"
+    },
+    {
+        "word": "Tisch",
+        "meaning": "masa (der)"
+    },
+    {
+        "word": "Tochter",
+        "meaning": "kız çocuk (die)"
+    },
+    {
+        "word": "Toilette",
+        "meaning": "tuvalet (die)"
+    },
+    {
+        "word": "Toll!",
+        "meaning": "Harika!"
+    },
+    {
+        "word": "Tomate",
+        "meaning": "domates (die)"
+    },
+    {
+        "word": "tragen",
+        "meaning": "taşımak, düzensiz fiil! (ich trage, du trägst, er trägt)"
+    },
+    {
+        "word": "Traum",
+        "meaning": "rüya (der)"
+    },
+    {
+        "word": "traurig",
+        "meaning": "üzgün"
+    },
+    {
+        "word": "treffen",
+        "meaning": "buluşmak, düzensiz fiil! (ich treffe, du triffst, er trifft)"
+    },
+    {
+        "word": "Treppe",
+        "meaning": "merdiven (die)"
+    },
+    {
+        "word": "trinken",
+        "meaning": "içmek"
+    },
+    {
+        "word": "Tschüss",
+        "meaning": "Görüşürüz"
+    },
+    {
+        "word": "T-Shirt",
+        "meaning": "tişört (das)"
+    },
+    {
+        "word": "tun",
+        "meaning": "yapmak"
+    },
+    {
+        "word": "Türkei",
+        "meaning": "Türkiye (die)"
+    },
+    {
+        "word": "Turm",
+        "meaning": "kule (der)"
+    },
+    {
+        "word": "U-Bahn",
+        "meaning": "metro (die)"
+    },
+    {
+        "word": "über",
+        "meaning": "üstünde (temassız)"
+    },
+    {
+        "word": "Uhr",
+        "meaning": "saat (die)"
+    },
+    {
+        "word": "um ... vier",
+        "meaning": "saat 4'te"
+    },
+    {
+        "word": "umsteigen",
+        "meaning": "aktarma yapmak, ayrılabilir fiil!"
+    },
+    {
+        "word": "umziehen",
+        "meaning": "taşınmak"
+    },
+    {
+        "word": "unbedingt",
+        "meaning": "kesinlikle"
+    },
+    {
+        "word": "und",
+        "meaning": "ve"
+    },
+    {
+        "word": "unfreundlich",
+        "meaning": "kaba"
+    },
+    {
+        "word": "unglücklich",
+        "meaning": "mutsuz"
+    },
+    {
+        "word": "unhöflich",
+        "meaning": "kaba"
+    },
+    {
+        "word": "Universität",
+        "meaning": "üniversite (die)"
+    },
+    {
+        "word": "Unordnung",
+        "meaning": "dağınıklık (die)"
+    },
+    {
+        "word": "unsympathisch",
+        "meaning": "sevimsiz"
+    },
+    {
+        "word": "unten",
+        "meaning": "aşağıda"
+    },
+    {
+        "word": "unter",
+        "meaning": "altında"
+    },
+    {
+        "word": "Urlaub",
+        "meaning": "tatil (der)"
+    },
+    {
+        "word": "Vater",
+        "meaning": "baba (der)"
+    },
+    {
+        "word": "Verbindung",
+        "meaning": "bağlantı (die)"
+    },
+    {
+        "word": "verboten",
+        "meaning": "yasak"
+    },
+    {
+        "word": "verdienen",
+        "meaning": "kazanmak"
+    },
+    {
+        "word": "vereinbaren",
+        "meaning": "kararlaştırmak"
+    },
+    {
+        "word": "vergessen",
+        "meaning": "unutmak"
+    },
+    {
+        "word": "verheiratet",
+        "meaning": "evli"
+    },
+    {
+        "word": "Verkäufer",
+        "meaning": "satıcı, tezgahtar (der)"
+    },
+    {
+        "word": "Verkehr",
+        "meaning": "trafik (der)"
+    },
+    {
+        "word": "Verkehrsmittel",
+        "meaning": "taşıma aracı (das)"
+    },
+    {
+        "word": "vermieten",
+        "meaning": "kiraya vermek"
+    },
+    {
+        "word": "Vermieter",
+        "meaning": "ev sahibi (der)"
+    },
+    {
+        "word": "verschieben",
+        "meaning": "ertelemek"
+    },
+    {
+        "word": "verstehen",
+        "meaning": "anlamak"
+    },
+    {
+        "word": "Verwandte",
+        "meaning": "akraba (der)"
+    },
+    {
+        "word": "Vielen Dank",
+        "meaning": "çok teşekkürler"
+    },
+    {
+        "word": "vielleicht",
+        "meaning": "belki"
+    },
+    {
+        "word": "Viertel vor/nach ...",
+        "meaning": "çeyrek kala/geçe"
+    },
+    {
+        "word": "von ... bis",
+        "meaning": "-den...-kadar, von 3 bis 4 Uhr / saat 3'ten 4'e kadar"
+    },
+    {
+        "word": "vor",
+        "meaning": "önünde"
+    },
+    {
+        "word": "Vormittag",
+        "meaning": "öğleden önce (der)"
+    },
+    {
+        "word": "vorn",
+        "meaning": "önde"
+    },
+    {
+        "word": "Vorsicht",
+        "meaning": "dikkat (die)"
+    },
+    {
+        "word": "Wald",
+        "meaning": "orman (der)"
+    },
+    {
+        "word": "warm",
+        "meaning": "sıcak"
+    },
+    {
+        "word": "warten",
+        "meaning": "beklemek"
+    },
+    {
+        "word": "Warum?",
+        "meaning": "neden?"
+    },
+    {
+        "word": "Was...?",
+        "meaning": "ne?"
+    },
+    {
+        "word": "Wäsche",
+        "meaning": "çamaşır (die)"
+    },
+    {
+        "word": "Wasser",
+        "meaning": "su (das)"
+    },
+    {
+        "word": "Wecker",
+        "meaning": "çalar saat"
+    },
+    {
+        "word": "Weg",
+        "meaning": "yol (der)"
+    },
+    {
+        "word": "Wegbeschreibung",
+        "meaning": "yol tarifi (die)"
+    },
+    {
+        "word": "wehtun",
+        "meaning": "ağrımak"
+    },
+    {
+        "word": "Weihnachten",
+        "meaning": "Noel (das)"
+    },
+    {
+        "word": "Wein",
+        "meaning": "şarap (der)"
+    },
+    {
+        "word": "weiß",
+        "meaning": "beyaz"
+    },
+    {
+        "word": "weiterfahren",
+        "meaning": "yola devam etmek"
+    },
+    {
+        "word": "Welche...?",
+        "meaning": "Hangi...?; Welche Sprachen sprichst du? /Hangi diller konuşuyorsun?"
+    },
+    {
+        "word": "Welt",
+        "meaning": "dünya (die)"
+    },
+    {
+        "word": "wenden",
+        "meaning": "dönmek"
+    },
+    {
+        "word": "wenig",
+        "meaning": "az"
+    },
+    {
+        "word": "Wer?",
+        "meaning": "Kim?"
+    },
+    {
+        "word": "werden",
+        "meaning": "\"olmak, \"\"to be\"\" değil, İngilizce \"\"become\"\" fiili anlamında\""
+    },
+    {
+        "word": "Westen",
+        "meaning": "batı (der)"
+    },
+    {
+        "word": "Wetter",
+        "meaning": "\"hava (das), \"\"weather\"\" anlamında\""
+    },
+    {
+        "word": "wichtig",
+        "meaning": "önemli"
+    },
+    {
+        "word": "Wie geht's?",
+        "meaning": "Nasılsın?"
+    },
+    {
+        "word": "Wie oft?",
+        "meaning": "ne sıklıkta?"
+    },
+    {
+        "word": "Wie viele ...?",
+        "meaning": "Kaç tane...?; Wie viele Geschwister hast du? / Kaç tane kardeşin var?"
+    },
+    {
+        "word": "Wie?",
+        "meaning": "Nasıl?; Wie geht's dir? / Nasılsın?"
+    },
+    {
+        "word": "wieder",
+        "meaning": "tekrar"
+    },
+    {
+        "word": "Wiese",
+        "meaning": "çimen (die)"
+    },
+    {
+        "word": "Wind",
+        "meaning": "rüzgar (der)"
+    },
+    {
+        "word": "windig",
+        "meaning": "rüzgarlı"
+    },
+    {
+        "word": "Winter",
+        "meaning": "kış (der)"
+    },
+    {
+        "word": "wirklich",
+        "meaning": "gerçekten"
+    },
+    {
+        "word": "wirklich?",
+        "meaning": "gerçekten mi?"
+    },
+    {
+        "word": "wissen",
+        "meaning": "bilmek, düzensiz fiil! (ich weiß, du weißt, er weiß)"
+    },
+    {
+        "word": "Wo...?",
+        "meaning": "nerede...?"
+    },
+    {
+        "word": "Woche",
+        "meaning": "hafta (die)"
+    },
+    {
+        "word": "Wochenende",
+        "meaning": "haftasonu (das)"
+    },
+    {
+        "word": "Woher ...?",
+        "meaning": "Nereden ...?"
+    },
+    {
+        "word": "wohnen",
+        "meaning": "ikamet etmek"
+    },
+    {
+        "word": "Wohnung",
+        "meaning": "daire, apartman (die)"
+    },
+    {
+        "word": "Wohnzimmer",
+        "meaning": "salon, oturma odası (das)"
+    },
+    {
+        "word": "Wolke",
+        "meaning": "bulut (die)"
+    },
+    {
+        "word": "wollen",
+        "meaning": "istemek"
+    },
+    {
+        "word": "Wort",
+        "meaning": "kelime (das)"
+    },
+    {
+        "word": "Wörterbuch",
+        "meaning": "sözlük (das)"
+    },
+    {
+        "word": "Wunsch",
+        "meaning": "dilek (der)"
+    },
+    {
+        "word": "Wurst",
+        "meaning": "sosis (die)"
+    },
+    {
+        "word": "Zahn",
+        "meaning": "diş (der)"
+    },
+    {
+        "word": "Zeit",
+        "meaning": "zaman (die)"
+    },
+    {
+        "word": "Zeitung",
+        "meaning": "gazete (die)"
+    },
+    {
+        "word": "Zelt",
+        "meaning": "çadır (das)"
+    },
+    {
+        "word": "Zentrum",
+        "meaning": "merkez (die)"
+    },
+    {
+        "word": "Zimmer",
+        "meaning": "oda (das)"
+    },
+    {
+        "word": "Zitrone",
+        "meaning": "limon (die)"
+    },
+    {
+        "word": "zu Fuß",
+        "meaning": "yürüyerek"
+    },
+    {
+        "word": "zu Hause",
+        "meaning": "evde (kalıp)"
+    },
+    {
+        "word": "zufrieden",
+        "meaning": "memnun"
+    },
+    {
+        "word": "Zug",
+        "meaning": "tren (der)"
+    },
+    {
+        "word": "zuletzt",
+        "meaning": "en son"
+    },
+    {
+        "word": "zumachen",
+        "meaning": "kapatmak"
+    },
+    {
+        "word": "zurückfahren",
+        "meaning": "geri dönmek"
+    },
+    {
+        "word": "zurzeit",
+        "meaning": "şu ara"
+    },
+    {
+        "word": "zusammen, gemeinsam",
+        "meaning": "birlikte"
+    },
+    {
+        "word": "Zwiebel",
+        "meaning": "soğan (die)"
+    },
+    {
+        "word": "zwischen",
+        "meaning": "arasında"
+    },
+    
+    {
+        "word": "der Brechreiz",
+        "meaning": "mide bulantısı"
+    },
+    {
+        "word": "dumpf",
+        "meaning": "boğucu, belirsiz"
+    },
+    {
+        "word": "der Blutdruck",
+        "meaning": "kan basıncı, tansiyon"
+    },
+    {
+        "word": "der Schlaganfall",
+        "meaning": "strok, felç, inme"
+    },
+    {
+        "word": "der Schnupfen",
+        "meaning": "nezle"
+    },
+    {
+        "word": "die Weitsichtigkeit",
+        "meaning": "hipermetropluk"
+    },
+    {
+        "word": "das Anfallsleiden",
+        "meaning": "epilepsi, nöbet"
+    },
+    {
+        "word": "der Schwangerschaftsdiabetes",
+        "meaning": "Gestasyonel DM"
+    },
+    {
+        "word": "der Diensthabender",
+        "meaning": "Nöbetçi"
+    },
+    {
+        "word": "die Beschwerde",
+        "meaning": "şikayet, rahatsızlık"
+    },
+    {
+        "word": "übergeben",
+        "meaning": "kusmak"
+    },
+    {
+        "word": "der Bauch",
+        "meaning": "karın, mide"
+    },
+    {
+        "word": "der Bereich",
+        "meaning": "çevre, alan, bölge"
+    },
+    {
+        "word": "eindeutig",
+        "meaning": "açıkça, belli"
+    },
+    {
+        "word": "der Bauchnabel",
+        "meaning": "göbek"
+    },
+    {
+        "word": "unterhalb",
+        "meaning": "aşağısında, altında"
+    },
+    {
+        "word": "überlegen",
+        "meaning": "düşünüp taşınmak"
+    },
+    {
+        "word": "das Beschwerdebild",
+        "meaning": "yakınma / şikâyet tablosu"
+    },
+    {
+        "word": "häufig",
+        "meaning": "genellikle, sık sık"
+    },
+    {
+        "word": "vergleichen",
+        "meaning": "karşılaştırmak, mukayese etmek"
+    },
+    {
+        "word": "die Vermutung",
+        "meaning": "tanı, tahmin"
+    },
+    {
+        "word": "die Ambulanz",
+        "meaning": "Hastanenin ayaktan tedavi bölümü"
+    },
+    {
+        "word": "die Platzwunde",
+        "meaning": "açık yara"
+    },
+    {
+        "word": "das Sprunggelenk",
+        "meaning": "Ayak eklemi"
+    },
+    {
+        "word": "unklar",
+        "meaning": "belirsiz, müphem, net olmayan"
+    },
+    {
+        "word": "die Prellung",
+        "meaning": "incinme"
+    },
+    {
+        "word": "die Rippe",
+        "meaning": "kaburga kemiği, kosta"
+    },
+    {
+        "word": "der Stuhl",
+        "meaning": "gayta"
+    },
+    {
+        "word": "das Blut",
+        "meaning": "kan"
+    },
+    {
+        "word": "sich den Magen verderben",
+        "meaning": "midesini bozmak"
+    },
+    {
+        "word": "der Nudelsalat",
+        "meaning": "makarna salatası"
+    },
+    {
+        "word": "übel",
+        "meaning": "hasta, keyifsiz, hoş olmayan"
+    },
+    {
+        "word": "brechen",
+        "meaning": "kusmak"
+    },
+    {
+        "word": "schwindelig",
+        "meaning": "başı dönen"
+    },
+    {
+        "word": "nachlassen",
+        "meaning": "hafiflemek, dinmek, azalmak"
+    },
+    {
+        "word": "ziehend",
+        "meaning": "çeken"
+    },
+    {
+        "word": "schneidend",
+        "meaning": "kesici"
+    },
+    {
+        "word": "drückend",
+        "meaning": "baskı tarzında, boğucu"
+    },
+    {
+        "word": "brennend",
+        "meaning": "yanıcı"
+    },
+    {
+        "word": "komisch",
+        "meaning": "tuhaf, garip"
+    },
+    {
+        "word": "ausstrahlen",
+        "meaning": "bir bölgeye yayılmak"
+    },
+    {
+        "word": "der Leistenbereich",
+        "meaning": "inguinal bölge"
+    },
+    {
+        "word": "andauernd",
+        "meaning": "sürekli"
+    },
+    {
+        "word": "der Rücken",
+        "meaning": "sırt"
+    },
+    {
+        "word": "schwanger",
+        "meaning": "gebe, hamile"
+    },
+    {
+        "word": "Fieber messen",
+        "meaning": "ateş ölçmek"
+    },
+    {
+        "word": "stechend",
+        "meaning": "batıcı"
+    },
+    {
+        "word": "benötigen",
+        "meaning": "ihtiyaç duymak"
+    },
+    {
+        "word": "standardmäßig",
+        "meaning": "normal olarak"
+    },
+    {
+        "word": "die Vorerkrankung",
+        "meaning": "önceden var olan hastalık"
+    },
+    {
+        "word": "die Aussage",
+        "meaning": "ifade, bilgi, rapor"
+    },
+    {
+        "word": "der Blutfettwert",
+        "meaning": "kan lipid değeri"
+    },
+    {
+        "word": "der Blutzucker",
+        "meaning": "kan şekeri"
+    },
+    {
+        "word": "bestimmen",
+        "meaning": "saptamak"
+    },
+    {
+        "word": "das Sodbrennen",
+        "meaning": "mide yanması"
+    },
+    {
+        "word": "mütterlicherseits",
+        "meaning": "Anne tarafından"
+    },
+    {
+        "word": "die Fettwechselstörung",
+        "meaning": "yağ metabolizması bozukluğu"
+    },
+    {
+        "word": "verzichten",
+        "meaning": "vazgeçmek, çekilmek"
+    },
+    {
+        "word": "verschwinden",
+        "meaning": "yok olmak, ortadan kaybolmak"
+    },
+    {
+        "word": "ergeben",
+        "meaning": "ispat etmek, ortaya çıkarmak"
+    },
+    {
+        "word": "der Hustenanfall",
+        "meaning": "öksürük nöbeti, öksürük krizi"
+    },
+    {
+        "word": "die Hausgeburt",
+        "meaning": "evde doğum"
+    },
+    {
+        "word": "klagen",
+        "meaning": "şikayet etmek, yakınmak"
+    },
+    {
+        "word": "die Tablette",
+        "meaning": "hap, tablet"
+    },
+    {
+        "word": "die Schilddrüse",
+        "meaning": "tiroid bezi"
+    },
+    {
+        "word": "fließende Nase",
+        "meaning": "burun akıntısı"
+    },
+    {
+        "word": "das Augenjucken",
+        "meaning": "göz kaşıntısı"
+    },
+    {
+        "word": "die Atemprobleme",
+        "meaning": "solunum problemLERi"
+    },
+    {
+        "word": "die Luftnot",
+        "meaning": "solunum yetmezliği"
+    },
+    {
+        "word": "laufende Nose",
+        "meaning": "akan burun"
+    },
+    {
+        "word": "der Rhythmus",
+        "meaning": "ritim"
+    },
+    {
+        "word": "die Herzrhythmusstörung",
+        "meaning": "kardiyak aritmi"
+    },
+    {
+        "word": "die Neigung",
+        "meaning": "eğilim, meyil"
+    },
+    {
+        "word": "der Aussetzer",
+        "meaning": "tekleyen, kesilen"
+    },
+    {
+        "word": "abklären",
+        "meaning": "bir problemi çözmek, açıklığa kavuşturmak"
+    },
+    {
+        "word": "das Zäpfchen",
+        "meaning": "supozituar, fitil"
+    },
+    {
+        "word": "beruhigen",
+        "meaning": "sakinleştirmek"
+    },
+    {
+        "word": "komplikationslos",
+        "meaning": "komplikasyonsuz"
+    },
+    {
+        "word": "verlaufen",
+        "meaning": "geçip gitmek, geçmek"
+    },
+    {
+        "word": "zuliebe",
+        "meaning": "birinin hatırı için"
+    },
+    {
+        "word": "die Hypertonie",
+        "meaning": "hipertansiyon"
+    },
+    {
+        "word": "die Phobie",
+        "meaning": "fobi"
+    },
+    {
+        "word": "das Vorhofflimmern",
+        "meaning": "Atriyal fibrilasyon"
+    },
+    {
+        "word": "der Kaiserschnitt",
+        "meaning": "sezaryen"
+    },
+    {
+        "word": "das Muster",
+        "meaning": "numune, prototip"
+    },
+    {
+        "word": "aushalten",
+        "meaning": "dayanmak, tahammül etmek, katlanmak"
+    },
+    {
+        "word": "der Nachhauseweg",
+        "meaning": "eve dönül yolu"
+    },
+    {
+        "word": "die Behandlung",
+        "meaning": "tedavi"
+    },
+    {
+        "word": "einverstanden sein",
+        "meaning": "rızası olmak"
+    },
+    {
+        "word": "geschehen",
+        "meaning": "vuku bulmak, cereyan etmek"
+    },
+    {
+        "word": "besprechen",
+        "meaning": "bir konu üzerinde konuşmak"
+    },
+    {
+        "word": "abhören",
+        "meaning": "anlattırmak, dinlemek"
+    },
+    {
+        "word": "mittlere",
+        "meaning": "orta, ortalama"
+    },
+    {
+        "word": "wieder auftretend",
+        "meaning": "nükseden"
+    },
+    {
+        "word": "das Völlegefühl",
+        "meaning": "şişkinlik, fazla doyma hissi"
+    },
+    {
+        "word": "verbinden",
+        "meaning": "kombine etmek"
+    },
+    {
+        "word": "sich gut vertragen",
+        "meaning": "iyi geçinmek"
+    },
+    {
+        "word": "krampfartiger Schmerz",
+        "meaning": "kramp tarzında ağrı"
+    },
+    {
+        "word": "der Oberbauch",
+        "meaning": "epigastrik bölge, üst karın"
+    },
+    {
+        "word": "die Ausstrahlung",
+        "meaning": "yayılma, ışıma, radyasyon"
+    },
+    {
+        "word": "die Schulter",
+        "meaning": "omuz"
+    },
+    {
+        "word": "die Übelkeit",
+        "meaning": "mide bulantısı"
+    },
+    {
+        "word": "ständig",
+        "meaning": "sürekli, devamlı, daimi"
+    },
+    {
+        "word": "das Aufstoßen",
+        "meaning": "geğirmek"
+    },
+    {
+        "word": "komischer Geschmack im Mund",
+        "meaning": "ağızda tuhaf tat"
+    },
+    {
+        "word": "die Magengegend",
+        "meaning": "mide bölgesi"
+    },
+    {
+        "word": "das Brustbein",
+        "meaning": "Sternum"
+    },
+    {
+        "word": "die Appetitlosigkeit",
+        "meaning": "iştahsızlık"
+    },
+    {
+        "word": "die Einnahme",
+        "meaning": "alım, alma"
+    },
+    {
+        "word": "der Konsum",
+        "meaning": "tüketim"
+    },
+    {
+        "word": "körperlich",
+        "meaning": "bedensel"
+    },
+    {
+        "word": "das Vorgehen",
+        "meaning": "işlem, tetkik"
+    },
+    {
+        "word": "die Blutabnahme",
+        "meaning": "kan alma"
+    },
+    {
+        "word": "der Ultraschall",
+        "meaning": "USG"
+    },
+    {
+        "word": "das Röntgen",
+        "meaning": "röntgen"
+    },
+    {
+        "word": "der Anforderungsschein",
+        "meaning": "İstem belgesi"
+    },
+    {
+        "word": "das Labor",
+        "meaning": "laboratuvar"
+    },
+    {
+        "word": "der Laborbericht",
+        "meaning": "Laboratuvar sonucu, raporu"
+    },
+    {
+        "word": "das Zeichen",
+        "meaning": "işaret, belirti, bulgu"
+    },
+    {
+        "word": "unauffällig",
+        "meaning": "göze çarpmayan"
+    },
+    {
+        "word": "Röntgenaufnahme machen",
+        "meaning": "röntgen çekmek"
+    },
+    {
+        "word": "die Leber",
+        "meaning": "karaciğer"
+    },
+    {
+        "word": "die Auffälligkeit",
+        "meaning": "ayırt edicilik, anormallik"
+    },
+    {
+        "word": "erläutern",
+        "meaning": "açıklamak, izah etmek"
+    },
+    {
+        "word": "die Bestrebung",
+        "meaning": "çaba, gayret"
+    },
+    {
+        "word": "das Jahrzehnt",
+        "meaning": "on yıllık süre"
+    },
+    {
+        "word": "die Herausbildung",
+        "meaning": "oluşma, oluşum"
+    },
+    {
+        "word": "kommunikativ",
+        "meaning": "konuşkan, iletişimsel"
+    },
+    {
+        "word": "die Kompetenz",
+        "meaning": "yeterlilik"
+    },
+    {
+        "word": "die Bestandteil",
+        "meaning": "bileşen, unsur, öğe"
+    },
+    {
+        "word": "angehend",
+        "meaning": "yeni başlayan (gelişmekte olan)"
+    },
+    {
+        "word": "fest",
+        "meaning": "sabit, değişmez, sıkı, kesin"
+    },
+    {
+        "word": "etablieren",
+        "meaning": "kurmak, yerleştirmek"
+    },
+    {
+        "word": "verwenden",
+        "meaning": "sarf etmek, harcamak"
+    },
+    {
+        "word": "die Anweisung",
+        "meaning": "bildirim, açıklama"
+    },
+    {
+        "word": "befolgen",
+        "meaning": "riayet etmek, uymak"
+    },
+    {
+        "word": "infragestellen",
+        "meaning": "bir şeyin doğruluğuna inanmak"
+    },
+    {
+        "word": "zutreffen",
+        "meaning": "doğru olmak, yerinde olmak"
+    },
+    {
+        "word": "die Heilungsprozess",
+        "meaning": "iyileşme süreci"
+    },
+    {
+        "word": "förderlich",
+        "meaning": "yararlı, elverişli"
+    },
+    {
+        "word": "das Verständnis",
+        "meaning": "anlayış, duyarlılık, anlama yeteneği"
+    },
+    {
+        "word": "angehörig",
+        "meaning": "ait, mensup"
+    },
+    {
+        "word": "demnach",
+        "meaning": "demek ki, buna göre"
+    },
+    {
+        "word": "umso mehr",
+        "meaning": "daha fazla ya!"
+    },
+    {
+        "word": "anschließend",
+        "meaning": "ardından, müteakip"
+    },
+    {
+        "word": "der Fehler",
+        "meaning": "hata, kusur, yanlış"
+    },
+    {
+        "word": "suggestiv",
+        "meaning": "telkin edici"
+    },
+    {
+        "word": "geschlossen",
+        "meaning": "kapalı, kilitli"
+    },
+    {
+        "word": "möglicherweise",
+        "meaning": "belki, mümkündür"
+    },
+    {
+        "word": "die Erläuterung",
+        "meaning": "açıklama, aydınlatma"
+    },
+    {
+        "word": "der Befund",
+        "meaning": "Bulgu, durum"
+    },
+    {
+        "word": "die Abkürzung",
+        "meaning": "kısaltma"
+    },
+    {
+        "word": "der Eingriff",
+        "meaning": "cerrahi müdahale"
+    },
+    {
+        "word": "die Hüfte",
+        "meaning": "kalça"
+    },
+    {
+        "word": "meliert",
+        "meaning": "kırlaşmış saç"
+    },
+    {
+        "word": "erträglicher",
+        "meaning": "daha katlanılır"
+    },
+    {
+        "word": "tagsüber",
+        "meaning": "gündüzleri"
+    },
+    {
+        "word": "das Medikament",
+        "meaning": "ilaç"
+    },
+    {
+        "word": "flau",
+        "meaning": "bulantı"
+    },
+    {
+        "word": "die Nebenwirkung",
+        "meaning": "yan etki"
+    },
+    {
+        "word": "die Zuordnung",
+        "meaning": "sınıflandırma"
+    },
+    {
+        "word": "die Unfallchirurgie",
+        "meaning": "Travma cerrahisi"
+    },
+    {
+        "word": "der Husten",
+        "meaning": "öksürük"
+    },
+    {
+        "word": "der Umschlag",
+        "meaning": "zarf"
+    },
+    {
+        "word": "vorhin",
+        "meaning": "az önce"
+    },
+    {
+        "word": "weggehen",
+        "meaning": "uzaklaşmak, ayrılmak, gitmek"
+    },
+    {
+        "word": "der Reizhusten",
+        "meaning": "öksürük krizi"
+    },
+    {
+        "word": "der Herzschrittmacher",
+        "meaning": "Kalp pili"
+    },
+    {
+        "word": "nachher",
+        "meaning": "daha sonra"
+    },
+    {
+        "word": "umfallen",
+        "meaning": "yere yuvarlanmak"
+    },
+    {
+        "word": "vorverlegen",
+        "meaning": "öne almak"
+    },
+    {
+        "word": "hervorregend",
+        "meaning": "çok iyi"
+    },
+    {
+        "word": "die Krankenakte",
+        "meaning": "hasta evrakı"
+    },
+    {
+        "word": "anfordern",
+        "meaning": "talep etmek, istemek"
+    },
+    {
+        "word": "veranlassen",
+        "meaning": "bir şeyi yaptırmak"
+    },
+    {
+        "word": "die Grunderkrankung",
+        "meaning": "esas hastalık"
+    },
+    {
+        "word": "dahinterstecken",
+        "meaning": "arkasında gizli bir sebebi olmak"
+    },
+    {
+        "word": "das Aggregat",
+        "meaning": "cihaz"
+    },
+    {
+        "word": "der Lungenfunktionstest",
+        "meaning": "Solunum Fonksiyon Testi"
+    },
+    {
+        "word": "unruhig",
+        "meaning": "rahatsız"
+    },
+    {
+        "word": "deswegen",
+        "meaning": "bu yüzden"
+    },
+    {
+        "word": "absprechen",
+        "meaning": "sözleşmek, kararlaştırmak"
+    },
+    {
+        "word": "gelinderter Schmerz",
+        "meaning": "hafiflemiş ağrı"
+    },
+    {
+        "word": "lindern",
+        "meaning": "dindirmek, yatıştırmak"
+    },
+    {
+        "word": "das Nervenleiden",
+        "meaning": "sinir hastalığı"
+    },
+    {
+        "word": "vermerken",
+        "meaning": "not yazmak, kaydetmek"
+    },
+    {
+        "word": "nächtelang",
+        "meaning": "geceler boyunca"
+    },
+    {
+        "word": "herumlaufen",
+        "meaning": "amaçsızca gezmek, dolanmak"
+    },
+    {
+        "word": "benötigen",
+        "meaning": "ihtiyaç duymak"
+    },
+    {
+        "word": "die Tablette",
+        "meaning": "hap, tablet"
+    },
+    {
+        "word": "die Gabe",
+        "meaning": "ilaçta doz"
+    },
+    {
+        "word": "die Verordnung",
+        "meaning": "reçete, doktor tavsiyesi"
+    },
+    {
+        "word": "die Lunge",
+        "meaning": "akciğer"
+    },
+    {
+        "word": "Lunge hören",
+        "meaning": "akciğerleri dinlemek"
+    },
+    {
+        "word": "wesentlich",
+        "meaning": "temel, önemli, esas"
+    },
+    {
+        "word": "anschauen",
+        "meaning": "muayene etmek"
+    },
+    {
+        "word": "die Notiz",
+        "meaning": "kısa yazı, not"
+    },
+    {
+        "word": "unten stehend",
+        "meaning": "aşağıda duran"
+    },
+    {
+        "word": "das Untersuchungszimer",
+        "meaning": "muayene odası"
+    },
+    {
+        "word": "das Eigenblut",
+        "meaning": "kendine ait kan"
+    },
+    {
+        "word": "anschließend",
+        "meaning": "bundan sonra, müteakip"
+    },
+    {
+        "word": "sowieso",
+        "meaning": "aslında, esasen, nasıl olsa"
+    },
+    {
+        "word": "die Eisentablette",
+        "meaning": "demir ilacı"
+    },
+    {
+        "word": "die Blutkonserve",
+        "meaning": "ES"
+    },
+    {
+        "word": "kreuzen",
+        "meaning": "kan kroslamak"
+    },
+    {
+        "word": "weswegen",
+        "meaning": "ne sebepten?"
+    },
+    {
+        "word": "wunderbar",
+        "meaning": "harika, mükemmel"
+    },
+    {
+        "word": "die Weile",
+        "meaning": "kısa süre"
+    },
+    {
+        "word": "die Aufregung",
+        "meaning": "heyecan, telaş"
+    },
+    {
+        "word": "Blut entnehmen",
+        "meaning": "saklamak için kan almak"
+    },
+    {
+        "word": "ersparen",
+        "meaning": "biriktirmek, tasarruf etmek"
+    },
+    {
+        "word": "nachschauen",
+        "meaning": "yoklamak, gözden geçirmek"
+    },
+    {
+        "word": "der Gesprächseinstieg",
+        "meaning": "konuşmaya başlama"
+    },
+    {
+        "word": "skeptisch",
+        "meaning": "şüpheci, kuşkucu"
+    },
+    {
+        "word": "reagieren auf",
+        "meaning": "reaksiyon vermek"
+    },
+    {
+        "word": "transfundieren",
+        "meaning": "serum vermek"
+    },
+    {
+        "word": "die Aufbereitung",
+        "meaning": "hazır hâle getirme"
+    },
+    {
+        "word": "verunreinigen",
+        "meaning": "kirletmek, pisletmek"
+    },
+    {
+        "word": "die Blutentnahme",
+        "meaning": "kan alma"
+    },
+    {
+        "word": "die Kreislaufstörung",
+        "meaning": "dolaşım bozukluğu"
+    },
+    {
+        "word": "verwerfen",
+        "meaning": "reddetmek, geri çevirmek"
+    },
+    {
+        "word": "die Sichel",
+        "meaning": "orak"
+    },
+    {
+        "word": "die Niere",
+        "meaning": "böbrek"
+    },
+    {
+        "word": "belastbar",
+        "meaning": "dayanıklı, yük kaldırabilir"
+    },
+    {
+        "word": "die Vene",
+        "meaning": "toplardamar, ven"
+    },
+    {
+        "word": "das Pflegepersonal",
+        "meaning": "bakım personeli"
+    },
+    {
+        "word": "Essen verteilen",
+        "meaning": "yemek dağıtmak"
+    },
+    {
+        "word": "Medikamente richten",
+        "meaning": "ilaç hazırlamak"
+    },
+    {
+        "word": "Flüssigkeitsbilanz erstellen",
+        "meaning": "sıvı dengesi hesaplamak"
+    },
+    {
+        "word": "die Darmfunktion",
+        "meaning": "Barsak fonksiyonu"
+    },
+    {
+        "word": "blass",
+        "meaning": "solgun, sapsarı"
+    },
+    {
+        "word": "schwitzig",
+        "meaning": "terli"
+    },
+    {
+        "word": "das Schleppen",
+        "meaning": "çekerek sürüklemek"
+    },
+    {
+        "word": "sicherheitshalber",
+        "meaning": "emniyet, güvenlik için"
+    },
+    {
+        "word": "übertreiben",
+        "meaning": "abartmak, mübalağa etmek"
+    },
+    {
+        "word": "der Haken",
+        "meaning": "kanca, çengel"
+    },
+    {
+        "word": "herunterspielen",
+        "meaning": "bir olayı önemsiz göstermek"
+    },
+    {
+        "word": "verbergen",
+        "meaning": "gizlemek, üstünü örtmek"
+    },
+    {
+        "word": "stumm",
+        "meaning": "suskun, sessiz"
+    },
+    {
+        "word": "der Befehlsempfänger",
+        "meaning": "emir kulu"
+    },
+    {
+        "word": "zurückstecken",
+        "meaning": "eski hâline sokmak"
+    },
+    {
+        "word": "überfliegen",
+        "meaning": "göz gezdirmek"
+    },
+    {
+        "word": "verklagen",
+        "meaning": "birini dava etmek"
+    },
+    {
+        "word": "vermeidbar",
+        "meaning": "kaçınılabilir, önlenebilir"
+    },
+    {
+        "word": "gegenüberstehen",
+        "meaning": "muhalefet etmek"
+    },
+    {
+        "word": "die Glaubensgemeinschaft",
+        "meaning": "Dini cemaat"
+    },
+    {
+        "word": "Zeugen Jehovas",
+        "meaning": "Yehova Şahitleri"
+    },
+    {
+        "word": "kategorisch",
+        "meaning": "kesinlikle, koşulsuz olarak"
+    },
+    {
+        "word": "die Haltung",
+        "meaning": "düşünüş biçimi"
+    },
+    {
+        "word": "jeweilig",
+        "meaning": "her defasında olan"
+    },
+    {
+        "word": "der Einzelfall",
+        "meaning": "münferit vaka, istisnai durum"
+    },
+    {
+        "word": "die Schlagzeile",
+        "meaning": "manşet, başlık"
+    },
+    {
+        "word": "verbluten",
+        "meaning": "kan kaybından ölmek"
+    },
+    {
+        "word": "die Patientenverfügung",
+        "meaning": "tıbbi vasiyet"
+    },
+    {
+        "word": "unterlassen",
+        "meaning": "ihmal etmek, yapmamak"
+    },
+    {
+        "word": "die Hilfeleistung",
+        "meaning": "yardımda bulunma, kurtarma"
+    },
+    {
+        "word": "zugunsten von",
+        "meaning": "lehine"
+    },
+    {
+        "word": "das Gericht",
+        "meaning": "mahkeme"
+    },
+    {
+        "word": "lebensrettend",
+        "meaning": "hayat kurtaran"
+    },
+    {
+        "word": "verabreichen",
+        "meaning": "ilaç vermek"
+    },
+    {
+        "word": "die Begründung",
+        "meaning": "gerekçelendirme"
+    },
+    {
+        "word": "das Individuum",
+        "meaning": "birey, fert"
+    },
+    {
+        "word": "strafbar",
+        "meaning": "cezalandırılmayı gerektiren"
+    },
+    {
+        "word": "gelegentlich",
+        "meaning": "ara sıra, bazı bazı"
+    },
+    {
+        "word": "der Erhalt",
+        "meaning": "koruma, muhafaza"
+    },
+    {
+        "word": "das Berufsethos",
+        "meaning": "meslek ahlâkı"
+    },
+    {
+        "word": "die Gewissenfrage",
+        "meaning": "vicdan meselesi"
+    },
+    {
+        "word": "die Ärzteschaft",
+        "meaning": "Doktorlar Birliği"
+    },
+    {
+        "word": "die Ablehnung",
+        "meaning": "hakimin reddi"
+    },
+    {
+        "word": "jenseits",
+        "meaning": "öte yandan"
+    },
+    {
+        "word": "der Blutverlust",
+        "meaning": "kan kaybı"
+    },
+    {
+        "word": "lagern",
+        "meaning": "depolamak"
+    },
+    {
+        "word": "die Bandscheiben",
+        "meaning": "omurga"
+    },
+    {
+        "word": "auskühlen",
+        "meaning": "soğutmak"
+    },
+    {
+        "word": "die Steigerung",
+        "meaning": "yükselme, çoğalma, artma"
+    },
+    {
+        "word": "äußern",
+        "meaning": "söylemek, ifade etmek"
+    },
+    {
+        "word": "reißerisch",
+        "meaning": "sansasyonel"
+    },
+    {
+        "word": "die Fortbildung",
+        "meaning": "ileri eğitim"
+    },
+    {
+        "word": "die Leitlinie",
+        "meaning": "genel kural, yönetmelik"
+    },
+    {
+        "word": "gebräuchlich",
+        "meaning": "kullanışlı, pratik"
+    },
+    {
+        "word": "anfunken",
+        "meaning": "telsizle çağırmak"
+    },
+    {
+        "word": "die Messerstecherei",
+        "meaning": "bıçaklı kavga"
+    },
+    {
+        "word": "die Leitstelle",
+        "meaning": "kontrol merkezi"
+    },
+    {
+        "word": "der Umfang",
+        "meaning": "kapsam, genişlik"
+    },
+    {
+        "word": "springen",
+        "meaning": "atlamak"
+    },
+    {
+        "word": "die Religionszugehörigkeit",
+        "meaning": "dinsel kimlik"
+    },
+    {
+        "word": "der Unfallhergang",
+        "meaning": "kazanın oluşumu"
+    },
+    {
+        "word": "Eintreffzeitpunkt am Krankenhaus",
+        "meaning": "olayın hastaneye varış zamanı"
+    },
+    {
+        "word": "das Muster",
+        "meaning": "model, örnek, tip"
+    },
+    {
+        "word": "beatmet",
+        "meaning": "ventile ediliyor"
+    },
+    {
+        "word": "intubiert",
+        "meaning": "entübe"
+    },
+    {
+        "word": "zwingend",
+        "meaning": "zorlayıcı, mecbur edici"
+    },
+    {
+        "word": "erwähnen",
+        "meaning": "söz etmek ,bahsetmek"
+    },
+    {
+        "word": "der Unterschenkel",
+        "meaning": "alt bacak, baldır"
+    },
+    {
+        "word": "der Schädel",
+        "meaning": "kafatası"
+    },
+    {
+        "word": "das Hirn",
+        "meaning": "beyin"
+    },
+    {
+        "word": "ankündigen",
+        "meaning": "bir şeyi bildirmek, haber etmek"
+    },
+    {
+        "word": "das Stockwerk",
+        "meaning": "bina katı"
+    },
+    {
+        "word": "die Thoraxdrainage",
+        "meaning": "toraks tüpü"
+    },
+    {
+        "word": "der Verdacht",
+        "meaning": "kuşku, şüphe"
+    },
+    {
+        "word": "verständigen",
+        "meaning": "birini bir şeyden haberdar etmek, bilgi vermek"
+    },
+    {
+        "word": "wach",
+        "meaning": "uyanık"
+    },
+    {
+        "word": "ansprechbar",
+        "meaning": "sözlü cevap veren"
+    },
+    {
+        "word": "die Eifersucht",
+        "meaning": "kıskançlık"
+    },
+    {
+        "word": "das Drama",
+        "meaning": "dram, acıklı olay"
+    },
+    {
+        "word": "die Diverse",
+        "meaning": "çeşitli"
+    },
+    {
+        "word": "der Einstich",
+        "meaning": "oluk, bıçak deliği"
+    },
+    {
+        "word": "abbekommen",
+        "meaning": "payını almak"
+    },
+    {
+        "word": "die Somnolenz",
+        "meaning": "uyuklama"
+    },
+    {
+        "word": "nachfragen",
+        "meaning": "soruşturmak"
+    },
+    {
+        "word": "das Röntgengerät",
+        "meaning": "röntgen cihazı"
+    },
+    {
+        "word": "der Shockraum",
+        "meaning": "travma odası"
+    },
+    {
+        "word": "vorerst",
+        "meaning": "şimdilik, her şeyden önce"
+    },
+    {
+        "word": "abmelden",
+        "meaning": "ayrılacağını bildirmek, iptal etmek"
+    },
+    {
+        "word": "hereinbekommen",
+        "meaning": "bir şeyi teslim almak"
+    },
+    {
+        "word": "zögern",
+        "meaning": "tereddüt etmek, bekletmek"
+    },
+    {
+        "word": "verschieben",
+        "meaning": "ertelemek, sonraya bırakmak"
+    },
+    {
+        "word": "der Tubus",
+        "meaning": "tüp"
+    },
+    {
+        "word": "bereitstellen",
+        "meaning": "hazır bulundurmak"
+    },
+    {
+        "word": "die Gefährdung",
+        "meaning": "tehlikeye maruz kalma"
+    },
+    {
+        "word": "veranlassen",
+        "meaning": "neden olmak, sebep vermek"
+    },
+    {
+        "word": "die Lagekontrolle",
+        "meaning": "durum kontrolü"
+    },
+    {
+        "word": "vorliegen",
+        "meaning": "var olmak, mevcut olmak"
+    },
+    {
+        "word": "alkoholisiert",
+        "meaning": "alkollü"
+    },
+    {
+        "word": "die Leitplanke",
+        "meaning": "bariyer"
+    },
+    {
+        "word": "der Oberschenkel",
+        "meaning": "üst bacak, uyluk"
+    },
+    {
+        "word": "der Beifahrer",
+        "meaning": "şoförün yanında oturan"
+    },
+    {
+        "word": "die Schürfwunde",
+        "meaning": "sıyrık"
+    },
+    {
+        "word": "die Quetschwunde",
+        "meaning": "bere, yara"
+    },
+    {
+        "word": "der Oberarm",
+        "meaning": "ön kol"
+    },
+    {
+        "word": "die Halbseitenlähmung",
+        "meaning": "vücudun bir tarafının felç olması"
+    },
+    {
+        "word": "die Sinne",
+        "meaning": "duygu, anlayış"
+    },
+    {
+        "word": "die Parese",
+        "meaning": "parezi, kısmi felç"
+    },
+    {
+        "word": "das Fazialis",
+        "meaning": "fasiyal sinir"
+    },
+    {
+        "word": "die Sprachstörung",
+        "meaning": "konuşma bozukluğu"
+    },
+    {
+        "word": "die Entgleisung",
+        "meaning": "dil sürçmesi, bozukluk"
+    },
+    {
+        "word": "der Gynäkolog",
+        "meaning": "jinekolog"
+    },
+    {
+        "word": "die Rufbereitschaft",
+        "meaning": "nöbetçi görevli"
+    },
+    {
+        "word": "Auskunft geben",
+        "meaning": "bilgi vermek"
+    },
+    {
+        "word": "der Nebenbuhler",
+        "meaning": "rakip"
+    },
+    {
+        "word": "herausrutschen",
+        "meaning": "dışarı fırlamak, çıkmak"
+    },
+    {
+        "word": "das Eintreffen",
+        "meaning": "varış"
+    },
+    {
+        "word": "beurteilen",
+        "meaning": "bir şey hakkında fikir yürütmek"
+    },
+    {
+        "word": "die Körperfülle",
+        "meaning": "şişmanlık"
+    },
+    {
+        "word": "linksseitig",
+        "meaning": "sol tarafta, sol yanda"
+    },
+    {
+        "word": "die Rippe",
+        "meaning": "kaburga, kosta"
+    },
+    {
+        "word": "schildern",
+        "meaning": "canlı olarak anlatmak, tasvir etmek"
+    },
+    {
+        "word": "die Abnahme",
+        "meaning": "azalma"
+    },
+    {
+        "word": "das Atemgeräusch",
+        "meaning": "solunum sesi"
+    },
+    {
+        "word": "auskultieren",
+        "meaning": "oskültasyon yapmak"
+    },
+    {
+        "word": "die Krepitation",
+        "meaning": "krepitasyon"
+    },
+    {
+        "word": "die Sauerstoffsättigung",
+        "meaning": "Oksijen satürasyonu"
+    },
+    {
+        "word": "der Sauerstoff",
+        "meaning": "oksijen"
+    },
+    {
+        "word": "mit Informationen versorgen",
+        "meaning": "bilgi vermek"
+    },
+    {
+        "word": "die Übergabe",
+        "meaning": "devir teslim"
+    },
+    {
+        "word": "die Schaufeltrage",
+        "meaning": "ambulans sedyesi"
+    },
+    {
+        "word": "die Entleerung",
+        "meaning": "boşaltma"
+    },
+    {
+        "word": "unauffällig sein",
+        "meaning": "göze çarpmamak"
+    },
+    {
+        "word": "das Giemen",
+        "meaning": "ronküs"
+    },
+    {
+        "word": "das Kommando",
+        "meaning": "komut, order"
+    },
+    {
+        "word": "umlagern",
+        "meaning": "bir yerden başka yere aktarmak"
+    },
+    {
+        "word": "Defi anschließen",
+        "meaning": "defibrilatörü açmak"
+    },
+    {
+        "word": "schieben",
+        "meaning": "sürükleyerke taşımak, ittirmek"
+    },
+    {
+        "word": "durchlaufen",
+        "meaning": "filtre edilmek"
+    },
+    {
+        "word": "Betamungsgerät stellen",
+        "meaning": "ventilatörü açmak"
+    },
+    {
+        "word": "einliefern",
+        "meaning": "hastaneye yatırmak"
+    },
+    {
+        "word": "wahnsinnig",
+        "meaning": "deli gibi, çılgınca"
+    },
+    {
+        "word": "die Narkose",
+        "meaning": "anestezi"
+    },
+    {
+        "word": "der Knochenbruch",
+        "meaning": "kemik kırığı"
+    },
+    {
+        "word": "die Überwachung",
+        "meaning": "gözetleme"
+    },
+    {
+        "word": "um Himmels willen",
+        "meaning": "Allah aşkına!"
+    },
+    {
+        "word": "sich wundern",
+        "meaning": "hayret etmek, şaşırmak"
+    },
+    {
+        "word": "Worum geht es?",
+        "meaning": "Konu ne?"
+    },
+    {
+        "word": "die Herzinsuffienz",
+        "meaning": "kalp yetmezliği"
+    },
+    {
+        "word": "die Appendizitis",
+        "meaning": "appendisit"
+    },
+    {
+        "word": "trauernd",
+        "meaning": "matem tutan"
+    },
+    {
+        "word": "die Masern",
+        "meaning": "kızamık"
+    },
+    {
+        "word": "böse",
+        "meaning": "sinirli"
+    },
+    {
+        "word": "klagen",
+        "meaning": "yakınmak"
+    },
+    {
+        "word": "Treppe gehen",
+        "meaning": "merdiven çıkmak"
+    },
+    {
+        "word": "durchschnaufen",
+        "meaning": "derince solumak"
+    },
+    {
+        "word": "weitergehen",
+        "meaning": "devam etmek, ilerlemek"
+    },
+    {
+        "word": "geschwollen",
+        "meaning": "şiş, kabarık"
+    },
+    {
+        "word": "einreiben",
+        "meaning": "sürmek, ovalamak"
+    },
+    {
+        "word": "dazukommen",
+        "meaning": "eklemek, katılmak"
+    },
+    {
+        "word": "bergab",
+        "meaning": "yokuş aşağı, bayır aşağı"
+    },
+    {
+        "word": "überwinden",
+        "meaning": "üstesinden gelmek"
+    },
+    {
+        "word": "das Zeltlager",
+        "meaning": "çadır kampı"
+    },
+    {
+        "word": "die Blinddarmentzündung",
+        "meaning": "apandisit"
+    },
+    {
+        "word": "sich das Rauchen abgewöhnen",
+        "meaning": "sigarayı bırakmak"
+    },
+    {
+        "word": "gelassen",
+        "meaning": "sakin, soğukkanlı"
+    },
+    {
+        "word": "angstbesetzt",
+        "meaning": "korkunç, korku dolu"
+    },
+    {
+        "word": "verrichten",
+        "meaning": "ifa etmek, yerine getirmek"
+    },
+    {
+        "word": "die Fachrichtung",
+        "meaning": "uzmanlık bölümü"
+    },
+    {
+        "word": "zuordnen",
+        "meaning": "eşleştirmek"
+    },
+    {
+        "word": "langwierig",
+        "meaning": "uzun süren, çok zaman alan"
+    },
+    {
+        "word": "zuverlässige Daten",
+        "meaning": "inanılır veriler"
+    },
+    {
+        "word": "nahelegen",
+        "meaning": "birine bir şeyi tavsiye etmek"
+    },
+    {
+        "word": "verzeichnen",
+        "meaning": "kaydetmek, not etmek"
+    },
+    {
+        "word": "verselbständigen",
+        "meaning": "bağımsızlaşmak"
+    },
+    {
+        "word": "eigenständig",
+        "meaning": "bağımsız, kendi başına"
+    },
+    {
+        "word": "entzündlich",
+        "meaning": "iltihabi"
+    },
+    {
+        "word": "die Odyssee",
+        "meaning": "uzun ve maceralı yolculuk"
+    },
+    {
+        "word": "der Vortrag",
+        "meaning": "birifing, konuşma"
+    },
+    {
+        "word": "die Neuralgie",
+        "meaning": "nevralji"
+    },
+    {
+        "word": "die Schluckbeschwerden",
+        "meaning": "Yutma güçlüğü"
+    },
+    {
+        "word": "der Nacken",
+        "meaning": "ense, boyun"
+    },
+    {
+        "word": "plötzlich auftretend",
+        "meaning": "ani başlayan"
+    },
+    {
+        "word": "das Globusgefühl",
+        "meaning": "boğazında yumru hissi"
+    },
+    {
+        "word": "der Hals",
+        "meaning": "boğaz, gırtlak"
+    },
+    {
+        "word": "der Kiefer",
+        "meaning": "çene kemiği"
+    },
+    {
+        "word": "die Mandel",
+        "meaning": "bademcik"
+    },
+    {
+        "word": "die Entfernung",
+        "meaning": "uzaklaştırma, alma"
+    },
+    {
+        "word": "der Weisheitszahn",
+        "meaning": "yirmilik dişi"
+    },
+    {
+        "word": "zeitweise",
+        "meaning": "ara sıra, bazı bazı"
+    },
+    {
+        "word": "schmerzlindernd",
+        "meaning": "ağrı dindirici"
+    },
+    {
+        "word": "die Drehung",
+        "meaning": "döndürme"
+    },
+    {
+        "word": "eingehend",
+        "meaning": "ayrıntılı"
+    },
+    {
+        "word": "die Vorgeschichte",
+        "meaning": "bir şeyin öncesi, ön durum"
+    },
+    {
+        "word": "der Pflegefall",
+        "meaning": "bakıma muhtaç hasta"
+    },
+    {
+        "word": "hinausschieben",
+        "meaning": "ertelemek, geciktirmek"
+    },
+    {
+        "word": "umgangssprachlich",
+        "meaning": "günlük konuşma dili"
+    },
+    {
+        "word": "rasend",
+        "meaning": "son derece şiddetli"
+    },
+    {
+        "word": "sich zusetzen",
+        "meaning": "tıkanmak, rahatsız etmek"
+    },
+    {
+        "word": "wahnsinnig",
+        "meaning": "ölesiye, inanılmaz korkunç"
+    },
+    {
+        "word": "blitzartig",
+        "meaning": "aniden, şimşek gibi"
+    },
+    {
+        "word": "höllisch",
+        "meaning": "cehennem gibi"
+    },
+    {
+        "word": "grauenvoll",
+        "meaning": "dehşet verici, şiddetli"
+    },
+    {
+        "word": "aushalten",
+        "meaning": "dayanmak, tahammül etmek, katlanmak"
+    },
+    {
+        "word": "sich umbringen",
+        "meaning": "intihar etmek, kendi kendini yiyip bitirmek"
+    },
+    {
+        "word": "gegebenenfalls",
+        "meaning": "icabında, gerektiğinde"
+    },
+    {
+        "word": "die Entstehungsgeschichte",
+        "meaning": "oluşum hikayesi, geçmiş"
+    },
+    {
+        "word": "einbeziehen",
+        "meaning": "içine almak, dahil etmek"
+    },
+    {
+        "word": "explizit",
+        "meaning": "apaçık, kesinlikle"
+    },
+    {
+        "word": "die Bewaltigung",
+        "meaning": "becerme, başarma"
+    },
+    {
+        "word": "einordnen",
+        "meaning": "sıralamak, düzenlemek, sınıflandırmak"
+    },
+    {
+        "word": "das Machtwort",
+        "meaning": "buyruk, emir"
+    },
+    {
+        "word": "der Lendenwirbelbereich",
+        "meaning": "bel omur bölgesi"
+    },
+    {
+        "word": "sich verlagern",
+        "meaning": "yeri değişmek"
+    },
+    {
+        "word": "irgendwie",
+        "meaning": "herhangi bir şekilde, nedense"
+    },
+    {
+        "word": "seelisch",
+        "meaning": "ruhsal, manevi"
+    },
+    {
+        "word": "ausziehen",
+        "meaning": "taşınmak"
+    },
+    {
+        "word": "der Bruch",
+        "meaning": "kırık"
+    },
+    {
+        "word": "die Sauftour",
+        "meaning": "içki turu"
+    },
+    {
+        "word": "herankommen",
+        "meaning": "yaklaşmak, vakti gelmek"
+    },
+    {
+        "word": "das Nachbardorf",
+        "meaning": "komşu köy"
+    },
+    {
+        "word": "der Kettenraucher",
+        "meaning": "sigara tiryakisi"
+    },
+    {
+        "word": "tagtäglich",
+        "meaning": "her gün"
+    },
+    {
+        "word": "die Ermittlung",
+        "meaning": "soruşturma, araştırma"
+    },
+    {
+        "word": "ärtzlichen Rat einholen",
+        "meaning": "Hekim tavsiyesine başvurmak"
+    },
+    {
+        "word": "der Schein",
+        "meaning": "belge, kağıt"
+    },
+    {
+        "word": "konsiliarisch",
+        "meaning": "konsültan olarak"
+    },
+    {
+        "word": "der Schreiner",
+        "meaning": "marangoz"
+    },
+    {
+        "word": "der Betrieb",
+        "meaning": "atölye, tesis"
+    },
+    {
+        "word": "bemerkenswert",
+        "meaning": "kayda değer"
+    },
+    {
+        "word": "die Indolenz",
+        "meaning": "ilgisizlik, tembellik"
+    },
+    {
+        "word": "arg",
+        "meaning": "kötü"
+    },
+    {
+        "word": "der Alkoholabusus",
+        "meaning": "alkol suistimali"
+    },
+    {
+        "word": "rezidivierend",
+        "meaning": "yeniden oluşan"
+    },
+    {
+        "word": "beunruhigt sein",
+        "meaning": "endişe etmek, kaygılanmak"
+    },
+    {
+        "word": "zyanotisch",
+        "meaning": "siyanotik"
+    },
+    {
+        "word": "gedämpft",
+        "meaning": "kısık sesli, boğuk"
+    },
+    {
+        "word": "der Klopfschall",
+        "meaning": "çarpma sesi"
+    },
+    {
+        "word": "abgeschwächt",
+        "meaning": "hafiflemiş, azalmış"
+    },
+    {
+        "word": "das Atemgeräusch",
+        "meaning": "solunum sesi"
+    },
+    {
+        "word": "angeben",
+        "meaning": "bildirmek, söylemek"
+    },
+    {
+        "word": "anwendbar",
+        "meaning": "kullanışlı, uygulanabilir"
+    },
+    {
+        "word": "anlehnung an",
+        "meaning": "-e dayanarak"
+    },
+    {
+        "word": "hochwirksam",
+        "meaning": "yüksek tesirli"
+    },
+    {
+        "word": "mäßigen",
+        "meaning": "yatıştırmak"
+    },
+    {
+        "word": "dogmatisch",
+        "meaning": "olduğu gibi kabul edilen"
+    },
+    {
+        "word": "verordnen",
+        "meaning": "ilaç yazmak, reçete yazmak"
+    },
+    {
+        "word": "erforderlich",
+        "meaning": "gerekli, lüzumlu"
+    },
+    {
+        "word": "die Anspannung",
+        "meaning": "gerginlik, gerilim"
+    },
+    {
+        "word": "die Niedergeschlagenheit",
+        "meaning": "bitkinlik, yorgunluk"
+    },
+    {
+        "word": "beeinflussen",
+        "meaning": "tesir etmek"
+    },
+    {
+        "word": "die Verarbeitung",
+        "meaning": "verinin işlenmesi"
+    },
+    {
+        "word": "etablieren",
+        "meaning": "kurmak, yerleştirmek"
+    },
+    {
+        "word": "das Verfahren",
+        "meaning": "girişim, yol, yöntem"
+    },
+    {
+        "word": "die Einhaltung",
+        "meaning": "uyma, riayet etme, ifa etme"
+    },
+    {
+        "word": "klagen über",
+        "meaning": "... üzerine yakınmak"
+    },
+    {
+        "word": "der Leitpunkt",
+        "meaning": "temel nokta"
+    },
+    {
+        "word": "die Wohnumgebung",
+        "meaning": "oturulan bölge"
+    },
+    {
+        "word": "mit einbeziehen",
+        "meaning": "dahil etmek"
+    },
+    {
+        "word": "die Zunge",
+        "meaning": "dil"
+    },
+    {
+        "word": "der Stufenplan",
+        "meaning": "kademeli plan"
+    },
+    {
+        "word": "die These",
+        "meaning": "sav, tez, iddia"
+    },
+    {
+        "word": "gelungen",
+        "meaning": "başarılı"
+    },
+    {
+        "word": "emphatisch",
+        "meaning": "önemli, ehemmiyetli"
+    },
+    {
+        "word": "der Gesundungsprozess",
+        "meaning": "iyileşme süreci"
+    },
+    {
+        "word": "das Vertrauen",
+        "meaning": "güven, inanç"
+    },
+    {
+        "word": "unerlässlich",
+        "meaning": "vazgeçilmez, zorunlu"
+    },
+    {
+        "word": "der Behandlungserfolg",
+        "meaning": "tedavi başarısı"
+    },
+    {
+        "word": "das Zuhören",
+        "meaning": "dinleme, kulak verme"
+    },
+    {
+        "word": "mitwirken",
+        "meaning": "meyilli olmak, yatkın olmak"
+    },
+    {
+        "word": "das Herzrasen",
+        "meaning": "taşikardi"
+    },
+    {
+        "word": "angebracht sein",
+        "meaning": "uygun olmak, yakışmak, yerinde olmak"
+    },
+    {
+        "word": "durchaus",
+        "meaning": "büsbütün, tamamiyle"
+    },
+    {
+        "word": "auffangen",
+        "meaning": "ele geçirmek, zapt etmek"
+    },
+    {
+        "word": "die Wachsamkeit",
+        "meaning": "uyanıklık"
+    },
+    {
+        "word": "schlapp",
+        "meaning": "yorgun, bitkin"
+    },
+    {
+        "word": "antriebslos",
+        "meaning": "isteksiz, yorgun"
+    },
+    {
+        "word": "gelähmt",
+        "meaning": "felçli"
+    },
+    {
+        "word": "querschnittsgelähmt",
+        "meaning": "belden aşağısı felçli"
+    },
+    {
+        "word": "erblinden",
+        "meaning": "kör olmak"
+    },
+    {
+        "word": "breitbeinig",
+        "meaning": "Ayaklar açık pozisyonda"
+    },
+    {
+        "word": "abtasten",
+        "meaning": "incelemek, araştırmak"
+    },
+    {
+        "word": "sich beugen",
+        "meaning": "eğilmek, bükülmek"
+    },
+    {
+        "word": "das Druckgefühl",
+        "meaning": "basınç hissi"
+    },
+    {
+        "word": "der After",
+        "meaning": "Anüs, makat"
+    },
+    {
+        "word": "neigen",
+        "meaning": "meyilli olmak, yatkın olmak"
+    },
+    {
+        "word": "der Unterarm",
+        "meaning": "Ön kol"
+    },
+    {
+        "word": "abstützen",
+        "meaning": "desteklemek"
+    },
+    {
+        "word": "schummrig",
+        "meaning": "loş, yarı karanlık"
+    },
+    {
+        "word": "der Romberg-Versuch",
+        "meaning": "Beyinsel dengeleri inceleyen nörolojik muayene yöntemi"
+    },
+    {
+        "word": "die Hacke",
+        "meaning": "topuk"
+    },
+    {
+        "word": "die Sehne",
+        "meaning": "kiriş, tendon"
+    },
+    {
+        "word": "die Stelle",
+        "meaning": "yer, konum, sıra"
+    },
+    {
+        "word": "gleiten",
+        "meaning": "kaymak, süzülmek"
+    },
+    {
+        "word": "lose",
+        "meaning": "boşta, gevşek"
+    },
+    {
+        "word": "abhören",
+        "meaning": "dinlemek"
+    },
+    {
+        "word": "der Hodensack",
+        "meaning": "skrotum"
+    },
+    {
+        "word": "vorfinden",
+        "meaning": "bulmak (bir durumda, şekilde)"
+    },
+    {
+        "word": "die Ferse",
+        "meaning": "topuk"
+    },
+    {
+        "word": "verwirrt",
+        "meaning": "confused"
+    },
+    {
+        "word": "rau",
+        "meaning": "sert, kaba, pürüzlü"
+    },
+    {
+        "word": "faltig",
+        "meaning": "kırışık, buruşuk, kıvrımlı"
+    },
+    {
+        "word": "zeitlich und räumlich orientiert",
+        "meaning": "yer zaman oryantasyonu var"
+    },
+    {
+        "word": "vermindert",
+        "meaning": "azalmış"
+    },
+    {
+        "word": "im Regenfall",
+        "meaning": "genelde"
+    },
+    {
+        "word": "abweichen",
+        "meaning": "ayrılmak, sapmak"
+    },
+    {
+        "word": "der Zeitaufwand",
+        "meaning": "zaman ihtiyacı"
+    },
+    {
+        "word": "die Abfolge",
+        "meaning": "dizi, sıra, silsile"
+    },
+    {
+        "word": "die Absprache",
+        "meaning": "anlaşma, sözleşme"
+    },
+    {
+        "word": "die Dauer",
+        "meaning": "süre, müddet"
+    },
+    {
+        "word": "bedingen",
+        "meaning": "gerektirmek, sebep olmak"
+    },
+    {
+        "word": "verkürzen",
+        "meaning": "kısaltmak"
+    },
+    {
+        "word": "aufreißen",
+        "meaning": "( ağzını, gözünü ) açmak"
+    },
+    {
+        "word": "lästig",
+        "meaning": "rahatsız edici, sıkıntı verici"
+    },
+    {
+        "word": "scherzhaft",
+        "meaning": "eğlendirici, ciddi olmayan"
+    },
+    {
+        "word": "das Krankheitszeichen",
+        "meaning": "semptom"
+    },
+    {
+        "word": "der Schüttelfrost",
+        "meaning": "ateşli titreme nöbeti"
+    },
+    {
+        "word": "sich drehen",
+        "meaning": "dönmek, kıvrılmak"
+    },
+    {
+        "word": "einigermaßen",
+        "meaning": "oldukça"
+    },
+    {
+        "word": "die Darmspiegelung",
+        "meaning": "kolonoskopi"
+    },
+    {
+        "word": "die Szintigrafie",
+        "meaning": "sintigrafi"
+    },
+    {
+        "word": "die Strahlung",
+        "meaning": "enerji yayımı, ışınım"
+    },
+    {
+        "word": "abgegeben",
+        "meaning": "ortaya çıkan, salıverilen"
+    },
+    {
+        "word": "räumlich",
+        "meaning": "yerle ilgili, yer bakımından, mekansal"
+    },
+    {
+        "word": "der Herzfehler",
+        "meaning": "kalp hastalığı"
+    },
+    {
+        "word": "die Darstellung",
+        "meaning": "temsil, gösterim"
+    },
+    {
+        "word": "die Einstichstelle",
+        "meaning": "puncture site"
+    },
+    {
+        "word": "Druckverband anlegen",
+        "meaning": "baskılı bandaj yapmak"
+    },
+    {
+        "word": "die Armbanduhr",
+        "meaning": "kol saati"
+    },
+    {
+        "word": "die Schekkarte",
+        "meaning": "çek kartı"
+    },
+    {
+        "word": "die Kernspintomografie",
+        "meaning": "MR"
+    },
+    {
+        "word": "das Gewebe",
+        "meaning": "doku"
+    },
+    {
+        "word": "enstanden",
+        "meaning": "meydana gelen, oluşan"
+    },
+    {
+        "word": "die Beurteilung",
+        "meaning": "değerlendirme"
+    },
+    {
+        "word": "krankhaft",
+        "meaning": "hasta, sağlıksız"
+    },
+    {
+        "word": "aussenden",
+        "meaning": "yayımlamak, yaymak, çıkarmak"
+    },
+    {
+        "word": "anregen",
+        "meaning": "hareketlendirmek, teşvik etmek"
+    },
+    {
+        "word": "erzeugen",
+        "meaning": "meydana getirmek, oluşturmak"
+    },
+    {
+        "word": "das Wechselfeld",
+        "meaning": "titreşim alanı"
+    },
+    {
+        "word": "der Alarmknopf",
+        "meaning": "alarm düğmesi"
+    },
+    {
+        "word": "verabreichen",
+        "meaning": "(ilaç) vermek"
+    },
+    {
+        "word": "die Röhre",
+        "meaning": "ince boru"
+    },
+    {
+        "word": "der Gegenstand",
+        "meaning": "şey, madde"
+    },
+    {
+        "word": "das Abführmittel",
+        "meaning": "müshil"
+    },
+    {
+        "word": "das Plenum",
+        "meaning": "genel kurul toplantısı"
+    },
+    {
+        "word": "gerinnungshemmend",
+        "meaning": "antikoagülan"
+    },
+    {
+        "word": "absetzen",
+        "meaning": "ilaç stoplamak"
+    },
+    {
+        "word": "eindringlich",
+        "meaning": "etkili, tesirli"
+    },
+    {
+        "word": "ärgerlich",
+        "meaning": "can sıkıcı, nahoş"
+    },
+    {
+        "word": "das Volkornbrot",
+        "meaning": "çavdar ekmeği, kepekli ekmek"
+    },
+    {
+        "word": "der Vortrag",
+        "meaning": "bir önceki gün"
+    },
+    {
+        "word": "schwer verdaulich",
+        "meaning": "zor sindirilen"
+    },
+    {
+        "word": "der Beutel",
+        "meaning": "poşet, torba"
+    },
+    {
+        "word": "eklig",
+        "meaning": "iğrenç, tiksindirici"
+    },
+    {
+        "word": "der Zettel",
+        "meaning": "not yazılı kağıt"
+    },
+    {
+        "word": "mitgeben",
+        "meaning": "götürmesi için bir şey vermek"
+    },
+    {
+        "word": "aufsetzen",
+        "meaning": "oturmak"
+    },
+    {
+        "word": "einklemmen",
+        "meaning": "boğmak, sıkıştırmak"
+    },
+    {
+        "word": "hinlegen",
+        "meaning": "uzanmak, yazmak"
+    },
+    {
+        "word": "die Vorgehensweise",
+        "meaning": "yol ve yöntem biçimi"
+    },
+    {
+        "word": "das Arzneimittel",
+        "meaning": "ilaç"
+    },
+    {
+        "word": "freisetzen",
+        "meaning": "açığa çıkarmak, salmak"
+    },
+    {
+        "word": "der Auslöser",
+        "meaning": "sebep, tetikleyici"
+    },
+    {
+        "word": "vertretten",
+        "meaning": "bir düşünceyi savunmak"
+    },
+    {
+        "word": "üblicherweise",
+        "meaning": "bilindiği üzere, alışıldığı gibi"
+    },
+    {
+        "word": "anfordernd",
+        "meaning": "talep eden"
+    },
+    {
+        "word": "die Dringlichkeit",
+        "meaning": "aciliyet"
+    },
+    {
+        "word": "die Sachkunde",
+        "meaning": "konu hakkında bilgilenme"
+    },
+    {
+        "word": "die Durchleuchtung",
+        "meaning": "röntgen çekme"
+    },
+    {
+        "word": "rechtfertigen",
+        "meaning": "haklı çıkarmak, haklı göstermek"
+    },
+    {
+        "word": "nächtlich",
+        "meaning": "geceleri olan"
+    },
+    {
+        "word": "der Nachweis",
+        "meaning": "demirbaş eşya listesi"
+    },
+    {
+        "word": "erteilen",
+        "meaning": "(izin) vermek, (ders) vermek"
+    },
+    {
+        "word": "verfügen über",
+        "meaning": "bir şeye sahip olmak, elinde bulundurmak"
+    },
+    {
+        "word": "beispielhaft",
+        "meaning": "örnek nitelikte"
+    },
+    {
+        "word": "die Unterschrift",
+        "meaning": "imza"
+    },
+    {
+        "word": "die Bandbreite",
+        "meaning": "Bant Genişliği"
+    },
+    {
+        "word": "ablegen",
+        "meaning": "soyunmak, çıkarmak"
+    },
+    {
+        "word": "die Flüssigkeitsaufnahme",
+        "meaning": "sıvı alımı"
+    },
+    {
+        "word": "nüchtern",
+        "meaning": "karnı aç, midesi boş"
+    },
+    {
+        "word": "der Erwerb",
+        "meaning": "edinim, elde etme"
+    },
+    {
+        "word": "aussagekräftig",
+        "meaning": "etkili ifade"
+    },
+    {
+        "word": "Ischämischer Schlaganfall",
+        "meaning": "iskemik SVO"
+    },
+    {
+        "word": "assoziieren mit",
+        "meaning": "... ile bağlamak, çağrıştırmak"
+    },
+    {
+        "word": "die Gehirnerschütterung",
+        "meaning": "konküzyon"
+    },
+    {
+        "word": "die Hirnhautentzündung",
+        "meaning": "menenjit"
+    },
+    {
+        "word": "das Schleudertrauma",
+        "meaning": "Whiplash injury"
+    },
+    {
+        "word": "der Schwindel",
+        "meaning": "baş dönmesi"
+    },
+    {
+        "word": "das Stottern",
+        "meaning": "kekemelik"
+    },
+    {
+        "word": "der Mundwirkel",
+        "meaning": "ağız köşesi"
+    },
+    {
+        "word": "das Taubheitsgefühl",
+        "meaning": "uyuşma hissi, uyuşukluk hissi"
+    },
+    {
+        "word": "lallen",
+        "meaning": "dili dolanmak, pelteklemek, kekelemek"
+    },
+    {
+        "word": "nicken",
+        "meaning": "başını sallamak"
+    },
+    {
+        "word": "kneifen",
+        "meaning": "çimdiklemek"
+    },
+    {
+        "word": "klappen",
+        "meaning": "işi yolunda olmak, uygun gelmek"
+    },
+    {
+        "word": "die Überlegung",
+        "meaning": "fikir, planlama, tasarı"
+    },
+    {
+        "word": "die Lähmung",
+        "meaning": "felç olma"
+    },
+    {
+        "word": "zurückbilden",
+        "meaning": "kötüleşmek"
+    },
+    {
+        "word": "das Gesichtsfeld",
+        "meaning": "görme alanı"
+    },
+    {
+        "word": "der Krampanfall",
+        "meaning": "Kramp tutması"
+    },
+    {
+        "word": "schief",
+        "meaning": "meyilli, eğri"
+    },
+    {
+        "word": "zudrücken",
+        "meaning": "sıkıştırmak, sıkmak"
+    },
+    {
+        "word": "umsichtig",
+        "meaning": "dikkatli, uyanık, tedbirli"
+    },
+    {
+        "word": "das Gefäß",
+        "meaning": "damar"
+    },
+    {
+        "word": "verschlossen",
+        "meaning": "tıkalı"
+    },
+    {
+        "word": "lieb",
+        "meaning": "değerli, sevgili"
+    },
+    {
+        "word": "bedrängen",
+        "meaning": "bunaltmak, birine baskı yapmak"
+    },
+    {
+        "word": "derartig",
+        "meaning": "bu gibi, böyle, bu tür"
+    },
+    {
+        "word": "das Faktenwissen",
+        "meaning": "gerçekleri bilme"
+    },
+    {
+        "word": "der Gang",
+        "meaning": "süreç, gelişim, ilerleme"
+    },
+    {
+        "word": "die Erhebung",
+        "meaning": "araştırma, soruşturma"
+    },
+    {
+        "word": "fröhlich",
+        "meaning": "neşeli, keyifli"
+    },
+    {
+        "word": "teilnahmlos",
+        "meaning": "ilgisiz"
+    },
+    {
+        "word": "lebendig",
+        "meaning": "enerjik, hayat dolu"
+    },
+    {
+        "word": "abwesend",
+        "meaning": "dalgın"
+    },
+    {
+        "word": "starr",
+        "meaning": "hareketsiz, kaskatı, sert"
+    },
+    {
+        "word": "empfinden",
+        "meaning": "hissetmek, öyle bulmak"
+    },
+    {
+        "word": "verziehen",
+        "meaning": "biçimini bozmak, değiştirmek"
+    },
+    {
+        "word": "sich bemühen um",
+        "meaning": "çaba göstermek, uğraşmak"
+    },
+    {
+        "word": "die Gesichtszüge",
+        "meaning": "yüz hatları"
+    },
+    {
+        "word": "der Revolverheld",
+        "meaning": "sahte kabadayı"
+    },
+    {
+        "word": "wahrnehmen",
+        "meaning": "algılamak, değerlendirmek"
+    },
+    {
+        "word": "die Schriftprobe",
+        "meaning": "yazı örneği"
+    },
+    {
+        "word": "die Beweglichkeit",
+        "meaning": "hareketlilik"
+    },
+    {
+        "word": "vormachen",
+        "meaning": "örnek olarak göstermek"
+    },
+    {
+        "word": "gewährleisten",
+        "meaning": "garanti etmek, yerine getirmek,, sağlamak"
+    },
+    {
+        "word": "die Überwachung",
+        "meaning": "kontrol, denetim"
+    },
+    {
+        "word": "die Distanziertheit",
+        "meaning": "uzaklık"
+    },
+    {
+        "word": "sich verbergen",
+        "meaning": "gizlenmek, saklanmak"
+    },
+    {
+        "word": "das Bilderrätsel",
+        "meaning": "resimli bulmaca"
+    },
+    {
+        "word": "der Ziegenpeter",
+        "meaning": "kabakulak hastalığı"
+    },
+    {
+        "word": "die Windpocken",
+        "meaning": "su çiçeği"
+    },
+    {
+        "word": "das Betnässen",
+        "meaning": "uykuda yatağa işemek"
+    },
+    {
+        "word": "die Mandelentzündung",
+        "meaning": "tonsillit"
+    },
+    {
+        "word": "die Blähung",
+        "meaning": "gaz şişkinliği"
+    },
+    {
+        "word": "der Scharlach",
+        "meaning": "kızıl hastalığı"
+    },
+    {
+        "word": "ansteckend",
+        "meaning": "bulaşıcı, enfeksiyöz"
+    },
+    {
+        "word": "geschwollene Lymphknoten",
+        "meaning": "şişmiş lenf nodu"
+    },
+    {
+        "word": "der Hautausschlag",
+        "meaning": "cilt döküntüsü"
+    },
+    {
+        "word": "die Himbeere",
+        "meaning": "ahududu, frambuaz"
+    },
+    {
+        "word": "die Heiserkeit",
+        "meaning": "Ses kısıklığı"
+    },
+    {
+        "word": "das Fieberzäpfchen",
+        "meaning": "ateş düşürücü fitil"
+    },
+    {
+        "word": "feuerrot",
+        "meaning": "ateş kırmızısı, kıpkızıl"
+    },
+    {
+        "word": "der Fleck",
+        "meaning": "leke"
+    },
+    {
+        "word": "versiert",
+        "meaning": "tecrübeli, deneyimli"
+    },
+    {
+        "word": "der Säugling",
+        "meaning": "süt çocuğu"
+    },
+    {
+        "word": "die Auffassung",
+        "meaning": "anlayış, mentalite"
+    },
+    {
+        "word": "anfügen",
+        "meaning": "eklemek, ilave etmek"
+    },
+    {
+        "word": "apropos",
+        "meaning": "konu burdan açılmışken"
+    },
+    {
+        "word": "abschätzen",
+        "meaning": "değerlendirmek, kıymet biçmek, tahmin etmek"
+    },
+    {
+        "word": "die Anerkennung",
+        "meaning": "takdir, övgü"
+    },
+    {
+        "word": "sich zuwenden",
+        "meaning": "kendini adamak"
+    },
+    {
+        "word": "verheimlichen",
+        "meaning": "gizlemek, belli etmemek"
+    },
+    {
+        "word": "ernst nehmen",
+        "meaning": "ciddiye almak"
+    },
+    {
+        "word": "die Ehrlichkeit",
+        "meaning": "dürüstlük, doğruluk"
+    },
+    {
+        "word": "ausnahmslos",
+        "meaning": "istisnasız"
+    },
+    {
+        "word": "die Erziehungsberechtigte",
+        "meaning": "çocuğun vasisi"
+    },
+    {
+        "word": "die Spritze",
+        "meaning": "iğne, enjeksiyon"
+    },
+    {
+        "word": "die Nadel",
+        "meaning": "iğne"
+    },
+    {
+        "word": "piken",
+        "meaning": "batırmak"
+    },
+    {
+        "word": "vormachen",
+        "meaning": "birine bir şeyi göstermek, öğretmek"
+    },
+    {
+        "word": "die Trotzphase",
+        "meaning": "asilik dönemi"
+    },
+    {
+        "word": "die Aufforderung",
+        "meaning": "ısrarlı çağrı, talep"
+    },
+    {
+        "word": "besoffen",
+        "meaning": "zil zurna sarhoş"
+    },
+    {
+        "word": "wehren sich gegen etwas",
+        "meaning": "bir şeye karşı koymak"
+    },
+    {
+        "word": "der Schmerzreiz",
+        "meaning": "ağrılı uyaran"
+    },
+    {
+        "word": "die Modeerscheinung",
+        "meaning": "moda görünüm"
+    },
+    {
+        "word": "die Einwanderung",
+        "meaning": "bir yere göç etme"
+    },
+    {
+        "word": "die Voraussetzung",
+        "meaning": "koşul, varsayım"
+    },
+    {
+        "word": "die Adipositas",
+        "meaning": "şişmanlık"
+    },
+    {
+        "word": "die Karies",
+        "meaning": "diş çürüğü"
+    },
+    {
+        "word": "zugutekommen",
+        "meaning": "birine/birşeye yaramak"
+    },
+    {
+        "word": "der Keuchhusten",
+        "meaning": "boğmaca"
+    },
+    {
+        "word": "der Scharlach",
+        "meaning": "kızıl"
+    },
+    {
+        "word": "die Vorsorgeuntersuchung",
+        "meaning": "tedbir muayenesi"
+    },
+    {
+        "word": "das Gerücht",
+        "meaning": "dedikodu, söylenti"
+    },
+    {
+        "word": "die Masern",
+        "meaning": "kızamık"
+    },
+    {
+        "word": "besiegen",
+        "meaning": "(hastalığı) yenmek"
+    },
+    {
+        "word": "der Wahrheitsgehalt",
+        "meaning": "gerçeklik payı"
+    },
+    {
+        "word": "längst",
+        "meaning": "çoktandır, epeydir"
+    },
+    {
+        "word": "sich berufen auf",
+        "meaning": "...'e işaret etmek, ile ilişkilendirmek"
+    },
+    {
+        "word": "wovor",
+        "meaning": "neden, ne hakkında?"
+    },
+    {
+        "word": "widerlegen",
+        "meaning": "aksini ispat etmek, yanlışlığını kanıtlamak"
+    },
+    {
+        "word": "die Zielsetzung",
+        "meaning": "hedefleme, hedef koyma"
+    },
+    {
+        "word": "vorbeugen",
+        "meaning": "koruyucu önlem almak"
+    },
+    {
+        "word": "der Impfpass",
+        "meaning": "aşı karnesi"
+    },
+    {
+        "word": "geringfügig",
+        "meaning": "ufak, önemsiz"
+    },
+    {
+        "word": "die Verlagung",
+        "meaning": "yerini değiştirmek"
+    },
+    {
+        "word": "die Spannung",
+        "meaning": "gerginlik"
+    },
+    {
+        "word": "die Verwirrtheit",
+        "meaning": "şaşkınlık, afallama"
+    },
+    {
+        "word": "ablösen",
+        "meaning": "bir şeyin yerine geçmek, görevi devralmak"
+    },
+    {
+        "word": "einsehbar",
+        "meaning": "incelenebilir"
+    },
+    {
+        "word": "vermuten",
+        "meaning": "tahmin etmek, ummak"
+    },
+    {
+        "word": "die Redezeit",
+        "meaning": "konuşma zamanı"
+    },
+    {
+        "word": "gegebenfalls",
+        "meaning": "lüzumu hâlinde"
+    },
+    {
+        "word": "die Anorndnung",
+        "meaning": "talimat, emir"
+    },
+    {
+        "word": "bestätigen",
+        "meaning": "doğrulamak"
+    },
+    {
+        "word": "nachdenklich stimmen",
+        "meaning": "düşünceye daldırmak"
+    },
+    {
+        "word": "bezogen",
+        "meaning": "oranlı"
+    },
+    {
+        "word": "die Ernsthaftigkeit",
+        "meaning": "ciddiyet, vahamet"
+    },
+    {
+        "word": "die Tätigkeit",
+        "meaning": "görev, faaliyet, iş"
+    },
+    {
+        "word": "entlassen",
+        "meaning": "taburcu etmek"
+    },
+    {
+        "word": "abwarten",
+        "meaning": "sonuçlarını beklemek"
+    },
+    {
+        "word": "der Eindruck",
+        "meaning": "izlenim, intiba"
+    },
+    {
+        "word": "verwirrt sein",
+        "meaning": "kafası karışık, şaşkın olmak"
+    },
+    {
+        "word": "die Exsikkose",
+        "meaning": "dehidratasyon"
+    },
+    {
+        "word": "dranhängen",
+        "meaning": "iliştirmek, eklemek"
+    },
+    {
+        "word": "loswerden",
+        "meaning": "bir şeyden kurtulmak"
+    },
+    {
+        "word": "der Blasenkatheter",
+        "meaning": "idrar sondası"
+    },
+    {
+        "word": "engagiert",
+        "meaning": "kararlı"
+    },
+    {
+        "word": "der Schein",
+        "meaning": "belge, kağıt"
+    },
+    {
+        "word": "die Brausentablette",
+        "meaning": "efervesan tablet"
+    },
+    {
+        "word": "die Patientenverfügung",
+        "meaning": "tıbbi vasiyet"
+    },
+    {
+        "word": "durchgehen",
+        "meaning": "gözden geçirmek"
+    },
+    {
+        "word": "die Verwaltung",
+        "meaning": "yönetim kurulu, idare"
+    },
+    {
+        "word": "der Personalbedarf",
+        "meaning": "personel ihtiyacı"
+    },
+    {
+        "word": "die Öffentlichkeitsarbeit",
+        "meaning": "halkla ilişkiler"
+    },
+    {
+        "word": "die Gehaltsabrechnung",
+        "meaning": "maaş bordrosu"
+    },
+    {
+        "word": "der Einkauf",
+        "meaning": "satın alma, alışveriş"
+    },
+    {
+        "word": "die Hauswirtschaft",
+        "meaning": "ev idaresi, ev ekonomisi"
+    },
+    {
+        "word": "der Pflegedienst",
+        "meaning": "bakım hizmeti, servisi"
+    },
+    {
+        "word": "der Beauftragter",
+        "meaning": "sorumlu, görevli"
+    },
+    {
+        "word": "die Notaufnahme",
+        "meaning": "acil servis"
+    },
+    {
+        "word": "der Normbereich",
+        "meaning": "normal aralık, sınır"
+    },
+    {
+        "word": "der Protonpumpenhemmer",
+        "meaning": "PPI"
+    },
+    {
+        "word": "durchgängig",
+        "meaning": "kesintisiz, durmadan"
+    },
+    {
+        "word": "behalten",
+        "meaning": "alıkoymak, saklamak"
+    },
+    {
+        "word": "das Wasserlassen",
+        "meaning": "idrara çıkma"
+    },
+    {
+        "word": "die Darreichungsform",
+        "meaning": "ilacın kullanım şekli"
+    },
+    {
+        "word": "tropfen",
+        "meaning": "damlatmak"
+    },
+    {
+        "word": "das Gel",
+        "meaning": "jel"
+    },
+    {
+        "word": "die Salbe",
+        "meaning": "krem, merhem"
+    },
+    {
+        "word": "die Kapsel",
+        "meaning": "kapsül"
+    },
+    {
+        "word": "die Gabe",
+        "meaning": "ilaçta doz"
+    },
+    {
+        "word": "desinfizieren",
+        "meaning": "dezenfekte etmek"
+    },
+    {
+        "word": "scluchkweise trinken",
+        "meaning": "yudum yudum içmek"
+    },
+    {
+        "word": "mitgeben",
+        "meaning": "yanında götürmesi için vermek"
+    },
+    {
+        "word": "verdünnt",
+        "meaning": "seyreltilmiş, sulandırılmış"
+    },
+    {
+        "word": "die Verlegung",
+        "meaning": "yer değiştirme, nakil"
+    },
+    {
+        "word": "aufwendig",
+        "meaning": "çok masraflı"
+    },
+    {
+        "word": "unverdünnt",
+        "meaning": "seyreltilmemiş"
+    },
+    {
+        "word": "herbitten",
+        "meaning": "birini yanına çağırmak"
+    },
+    {
+        "word": "extra",
+        "meaning": "kasten, isteyerek, hususi"
+    },
+    {
+        "word": "die Behandlung",
+        "meaning": "tedavi"
+    },
+    {
+        "word": "zurzeit",
+        "meaning": "şu sıralar"
+    },
+    {
+        "word": "erledigen",
+        "meaning": "ifa etmek, yerine getirmek"
+    },
+    {
+        "word": "übergeben",
+        "meaning": "kusmak"
+    },
+    {
+        "word": "aufzählen",
+        "meaning": "teker teker bahsetmek, sıralamak"
+    },
+    {
+        "word": "auftreten",
+        "meaning": "meydana çıkmak"
+    },
+    {
+        "word": "der Brechreiz",
+        "meaning": "mide bulantısı"
+    },
+    {
+        "word": "das Krankheitsbild",
+        "meaning": "semptom"
+    },
+    {
+        "word": "die Festlegung",
+        "meaning": "kararlaştırma, sabitleme"
+    },
+    {
+        "word": "die Erläuterung",
+        "meaning": "izah, açıklama, aydınlatma"
+    },
+    {
+        "word": "der Stauschlauch",
+        "meaning": "turnike (kanama durdurma için)"
+    },
+    {
+        "word": "das Röhrchen",
+        "meaning": "küçük boru"
+    },
+    {
+        "word": "die Verständnisfrage",
+        "meaning": "kavrama sorusu"
+    },
+    {
+        "word": "sichten",
+        "meaning": "muayene etmek, incelemek"
+    },
+    {
+        "word": "die Angehörige",
+        "meaning": "akraba, eş dost"
+    },
+    {
+        "word": "die Feinnadelpunktion",
+        "meaning": "ince iğne ile ponksiyon"
+    },
+    {
+        "word": "ausgeprägt",
+        "meaning": "bariz, dikkat çekici"
+    },
+    {
+        "word": "erbrechen",
+        "meaning": "kusmak"
+    },
+    {
+        "word": "blähen",
+        "meaning": "gaz çıkarmak"
+    },
+    {
+        "word": "vermindert",
+        "meaning": "azaltılmış, azalmış"
+    },
+    {
+        "word": "der Druckschmerz",
+        "meaning": "dokununca ağrı"
+    },
+    {
+        "word": "schuld",
+        "meaning": "suçlu, sorumlu"
+    },
+    {
+        "word": "die Schnittstelle",
+        "meaning": "ara yüz, kesişme noktası"
+    },
+    {
+        "word": "die Wertschätzung",
+        "meaning": "takdir etme"
+    },
+    {
+        "word": "die Haftung",
+        "meaning": "sorumluluk, mükellefiyet"
+    },
+    {
+        "word": "reibungslos",
+        "meaning": "sorunsuz, zorluk çıkarmadan"
+    },
+    {
+        "word": "die Auffassung",
+        "meaning": "mentalite, anlayış"
+    },
+    {
+        "word": "abheften",
+        "meaning": "dosyalamak, klasörlemek"
+    },
+    {
+        "word": "vorhanden",
+        "meaning": "elde, mevcut"
+    },
+    {
+        "word": "das Darmgeräusch",
+        "meaning": "barsak sesi"
+    },
+    {
+        "word": "anpassen",
+        "meaning": "ayarlamak"
+    },
+    {
+        "word": "erniedrigen",
+        "meaning": "indirmek, alçaltmak"
+    },
+    {
+        "word": "der Gegenstand",
+        "meaning": "şey, madde"
+    },
+    {
+        "word": "der Infusionsständer",
+        "meaning": "serum askısı"
+    },
+    {
+        "word": "das Spray",
+        "meaning": "sprey"
+    },
+    {
+        "word": "die Erstversorgung",
+        "meaning": "ilk yardım"
+    },
+    {
+        "word": "die Übergebe",
+        "meaning": "devir teslim"
+    },
+    {
+        "word": "der Leitfaden",
+        "meaning": "Guideline"
+    },
+    {
+        "word": "erscheinen",
+        "meaning": "görünmek, gözükmek"
+    },
+    {
+        "word": "der Angstschweiß",
+        "meaning": "ecel teri"
+    },
+    {
+        "word": "der Kittel",
+        "meaning": "iş önlüğü"
+    },
+    {
+        "word": "die Utensilien",
+        "meaning": "alet edevat"
+    },
+    {
+        "word": "ungerecht",
+        "meaning": "adaletsiz, haksız"
+    },
+    {
+        "word": "motzen",
+        "meaning": "dırdır etmek, şikâyetlenmek"
+    },
+    {
+        "word": "kollegial",
+        "meaning": "bir meslektaşa yakışır biçimde davranmak"
+    },
+    {
+        "word": "tippen",
+        "meaning": "tahmin etmek"
+    },
+    {
+        "word": "rotfleckig",
+        "meaning": "kırmızı lekeli"
+    },
+    {
+        "word": "das Brett",
+        "meaning": "tahta"
+    },
+    {
+        "word": "die Aufregung",
+        "meaning": "heyecan, telaş"
+    },
+    {
+        "word": "verständigen",
+        "meaning": "birini bir şeyden haberdar etmek, bilgi vermek"
+    },
+    {
+        "word": "durchstellen",
+        "meaning": "telefonu aktarmak"
+    },
+    {
+        "word": "die Einheit",
+        "meaning": "birim"
+    },
+    {
+        "word": "hochkommen",
+        "meaning": "iyileşmek"
+    },
+    {
+        "word": "das Exanthem",
+        "meaning": "cilt kızarması, egzantem"
+    },
+    {
+        "word": "stichpunktartig",
+        "meaning": "önemli noktaları kapsayan"
+    },
+    {
+        "word": "sachlich",
+        "meaning": "gerçek, hakiki, nesnel"
+    },
+    {
+        "word": "betreuend",
+        "meaning": "bakan, ilgilenen"
+    },
+    {
+        "word": "unwirksam",
+        "meaning": "önemsiz, etkisiz"
+    },
+    {
+        "word": "erschweren",
+        "meaning": "zorlaştırmak"
+    },
+    {
+        "word": "blass",
+        "meaning": "sapsarı, beti benzi atmış"
+    },
+    {
+        "word": "der Schaumstoff",
+        "meaning": "köpük, sünger, tampon"
+    },
+    {
+        "word": "sistieren",
+        "meaning": "durdurmak, engellemek"
+    },
+    {
+        "word": "fürchterlich",
+        "meaning": "son derece, korkunç"
+    },
+    {
+        "word": "MENSCHEN IM BERUF MEDIZIN - 9",
+        "meaning": ""
+    },
+    {
+        "word": "die Frühschicht",
+        "meaning": "sabah vardiyası"
+    },
+    {
+        "word": "hereinlaufen",
+        "meaning": "içeri koşmak"
+    },
+    {
+        "word": "die Matratze",
+        "meaning": "somya, yatak"
+    },
+    {
+        "word": "annehmen",
+        "meaning": "varsaymak"
+    },
+    {
+        "word": "sich schieben",
+        "meaning": "ittirmek"
+    },
+    {
+        "word": "einteilen",
+        "meaning": "sınıflandırmak, derecelendirmek"
+    },
+    {
+        "word": "die Einrichtung",
+        "meaning": "müessese, donanım"
+    },
+    {
+        "word": "spülen",
+        "meaning": "yıkamak, lavaj yapmak"
+    },
+    {
+        "word": "die Tropenkrankheit",
+        "meaning": "tropikal hastalık"
+    },
+    {
+        "word": "die Dehiszenz",
+        "meaning": "(doku) ayrılması, açılması"
+    },
+    {
+        "word": "die Narbe",
+        "meaning": "yara izi"
+    },
+    {
+        "word": "revidieren",
+        "meaning": "gözden geçirmek, tamir etmek"
+    },
+    {
+        "word": "die Pforte",
+        "meaning": "kapı"
+    },
+    {
+        "word": "die Extirpation",
+        "meaning": "eksizyon"
+    },
+    {
+        "word": "die Schutzmaßnahme",
+        "meaning": "koruyucu önlem"
+    },
+    {
+        "word": "auskennen",
+        "meaning": "bir şey hakkında tam bilgiye sahip olmak"
+    },
+    {
+        "word": "die Achselhöhle",
+        "meaning": "koltuk altı"
+    },
+    {
+        "word": "die Gesäßfalte",
+        "meaning": "kıç kırışığı"
+    },
+    {
+        "word": "bedeutsam",
+        "meaning": "anlamlı, önemli"
+    },
+    {
+        "word": "die Widerstandsfähigkeit",
+        "meaning": "dirençlilik, dayanıklılık"
+    },
+    {
+        "word": "die Trockenheit",
+        "meaning": "kuruluk"
+    },
+    {
+        "word": "die Pflegeartikel",
+        "meaning": "bakım malzemesi"
+    },
+    {
+        "word": "verweisen",
+        "meaning": "işaret etmek, dikkatini çekmek"
+    },
+    {
+        "word": "hin und wieder",
+        "meaning": "arada sırada"
+    },
+    {
+        "word": "der Waschlappen",
+        "meaning": "banyo lifi"
+    },
+    {
+        "word": "die Wäscherei",
+        "meaning": "çamaşırhane"
+    },
+    {
+        "word": "übernächtigt",
+        "meaning": "uyku sersemi"
+    },
+    {
+        "word": "der Hubschrauber",
+        "meaning": "helikopter"
+    },
+    {
+        "word": "der Keim",
+        "meaning": "mikrop"
+    },
+    {
+        "word": "die Verbrühung",
+        "meaning": "haşlanma ile oluşan bül"
+    },
+    {
+        "word": "die Unterbringung",
+        "meaning": "hastayı yatırma"
+    },
+    {
+        "word": "wiederherstellen",
+        "meaning": "kurtarmak, iyileştirmek"
+    },
+    {
+        "word": "wilkürlich",
+        "meaning": "başına buyruk"
+    },
+    {
+        "word": "der Übergang",
+        "meaning": "geçiş, değişim"
+    },
+    {
+        "word": "die Verweildauer",
+        "meaning": "kalış süresi"
+    },
+    {
+        "word": "der Golfschläger",
+        "meaning": "golf sopası"
+    },
+    {
+        "word": "der Klappspatel",
+        "meaning": "laringoskop bleydi"
+    },
+    {
+        "word": "das Kissen",
+        "meaning": "yastık"
+    },
+    {
+        "word": "die Absaugung",
+        "meaning": "aspiratör"
+    },
+    {
+        "word": "der Kehlkopf",
+        "meaning": "larenks"
+    },
+    {
+        "word": "verzahnt",
+        "meaning": "yakın bağlantılı, dişlinin çarkı"
+    },
+    {
+        "word": "erweitert",
+        "meaning": "genişletilmiş"
+    },
+    {
+        "word": "eigenmächtig",
+        "meaning": "izin almadan, kafasına göre"
+    },
+    {
+        "word": "die Ertwöhnung",
+        "meaning": "(ventilatörden) ayırma"
+    },
+    {
+        "word": "vornehmen",
+        "meaning": "yapmaya niyet etmek"
+    },
+    {
+        "word": "distanziert",
+        "meaning": "mesafeli"
+    },
+    {
+        "word": "die Gepflogenheit",
+        "meaning": "gelenek, âdet"
+    },
+    {
+        "word": "die Ferse",
+        "meaning": "topuk"
+    },
+    {
+        "word": "wundern",
+        "meaning": "hayret etmek, şaşmak"
+    },
+    {
+        "word": "zupfen",
+        "meaning": "hafifçe çekmek"
+    },
+    {
+        "word": "das Bettlaken",
+        "meaning": "yatak çarşafı"
+    },
+    {
+        "word": "mühsam",
+        "meaning": "meşakkatli"
+    },
+    {
+        "word": "einfallen",
+        "meaning": "aniden aklına gelmek, çağrıştırmak"
+    },
+    {
+        "word": "bösartig",
+        "meaning": "malign, kötü huylu"
+    },
+    {
+        "word": "abstellen",
+        "meaning": "ventilatörden ayırmak, ventilatörü durdurmak"
+    },
+    {
+        "word": "das Testament",
+        "meaning": "Vasiyet"
+    },
+    {
+        "word": "beerdigen",
+        "meaning": "defnetmek, toprağa vermek"
+    },
+    {
+        "word": "die Vorsorgevollmacht",
+        "meaning": "tedbir vekaletnamesi"
+    },
+    {
+        "word": "das Vorgehen",
+        "meaning": "yaklaşım"
+    },
+    {
+        "word": "in Würde",
+        "meaning": "onurlu, haysiyetli"
+    },
+    {
+        "word": "quälen",
+        "meaning": "acı çektirmek, işkence etmek"
+    },
+    {
+        "word": "der Tiefschlaf",
+        "meaning": "derin uyku"
+    },
+    {
+        "word": "unweigerlich",
+        "meaning": "muhakkak, kesin, mutlaka"
+    },
+    {
+        "word": "umbringen",
+        "meaning": "öldürmek, katletmek"
+    },
+    {
+        "word": "der Schlauch",
+        "meaning": "hortum, boru"
+    },
+    {
+        "word": "provozieren",
+        "meaning": "kışkırtmak, provoke etmek"
+    },
+    {
+        "word": "rechtferigen",
+        "meaning": "kendini veya bir şeyi savunmak"
+    },
+    {
+        "word": "ersichtlich",
+        "meaning": "anlaşılır, belli"
+    },
+    {
+        "word": "spiegeln",
+        "meaning": "görüntüsünü vermek, yansımak"
+    },
+    {
+        "word": "hierdurch",
+        "meaning": "bu yüzden"
+    },
+    {
+        "word": "der Anspruch",
+        "meaning": "hak, talep"
+    },
+    {
+        "word": "unbefriegend",
+        "meaning": "yetersiz, tatmin etmeyen"
+    },
+    {
+        "word": "nochempfinden",
+        "meaning": "empati yapmak"
+    },
+    {
+        "word": "die Tochtergeschwulst",
+        "meaning": "metastaz"
+    },
+    {
+        "word": "vermehrt",
+        "meaning": "artarak, daha çok"
+    },
+    {
+        "word": "ausgeprägt",
+        "meaning": "göze batan, bariz, dikkat çekici"
+    },
+    {
+        "word": "die Eingliederungshilfe",
+        "meaning": "uyum yardımı"
+    },
+    {
+        "word": "entwürdigend",
+        "meaning": "küçük düşürücü, aşağılayıcı"
+    },
+    {
+        "word": "die Wiederbelebung",
+        "meaning": "reanimasyon, hayata döndürme"
+    },
+    {
+        "word": "der Greis",
+        "meaning": "ihtiyar"
+    },
+    {
+        "word": "das Selbstbestimmungsrecht",
+        "meaning": "özerklik hakkı"
+    },
+    {
+        "word": "die Klarheit",
+        "meaning": "şeffaflık, açıklık"
+    },
+    {
+        "word": "die Verweigerung",
+        "meaning": "reddetme, kabul etmeme"
+    },
+    {
+        "word": "die Vermutung",
+        "meaning": "varsayım, sanı, tahmin"
+    },
+    {
+        "word": "der Handlungsspielraum",
+        "meaning": "inisiyatif"
+    },
+    {
+        "word": "schwammig",
+        "meaning": "her yere çekilebilen"
+    },
+    {
+        "word": "pauschal",
+        "meaning": "genel"
+    },
+    {
+        "word": "dahinvegetieren",
+        "meaning": "bitkisel hayata girmek"
+    },
+    {
+        "word": "unwürdig",
+        "meaning": "uygun olmayan, yakışıksız"
+    },
+    {
+        "word": "beziehen auf ...",
+        "meaning": "... ile ilişkilendirmek"
+    },
+    {
+        "word": "verfassen",
+        "meaning": "yazmak, kaleme almak"
+    },
+    {
+        "word": "ohnmächtig",
+        "meaning": "baygın, güçsüz"
+    },
+    {
+        "word": "sozusagen",
+        "meaning": "sözüm ona, güya, sanki"
+    },
+    {
+        "word": "erträglich",
+        "meaning": "katlanılır, dayanılır"
+    },
+    {
+        "word": "die Bettlägerigkeit",
+        "meaning": "yatalaklık"
+    },
+    {
+        "word": "präzise",
+        "meaning": "açık, belirgin, belli"
+    },
+    {
+        "word": "gelinde gesagt",
+        "meaning": "en hafif tabirle"
+    },
+    {
+        "word": "desolat",
+        "meaning": "feci, kötü, darmadağın"
+    },
+    {
+        "word": "übrig",
+        "meaning": "geriye kalan"
+    },
+    {
+        "word": "anmerken",
+        "meaning": "belli olmak"
+    },
+    {
+        "word": "verdorben",
+        "meaning": "bozulmuş, kokmuş"
+    },
+    {
+        "word": "sich zu jemandem gesellen",
+        "meaning": "birisinin yanına katılmak"
+    },
+    {
+        "word": "wohnhaft",
+        "meaning": "devamlı ikamet eden, sakin"
+    },
+    {
+        "word": "reizlose Wunde",
+        "meaning": "kapanmış yara"
+    },
+    {
+        "word": "die Beschwerdefreiheit",
+        "meaning": "şikâyetsizlik"
+    },
+    {
+        "word": "der Faden",
+        "meaning": "İplik"
+    },
+    {
+        "word": "tastbar",
+        "meaning": "dokunulabilir"
+    },
+    {
+        "word": "die Fortführung",
+        "meaning": "devam etitrme, sürdürme"
+    },
+    {
+        "word": "vorherrschend",
+        "meaning": "baskın, egemen, genel"
+    },
+    {
+        "word": "ungeliebt",
+        "meaning": "sevimsiz"
+    },
+    {
+        "word": "die Tischkante",
+        "meaning": "masa kenarı"
+    },
+    {
+        "word": "die Großzehe",
+        "meaning": "ayak baş parmağı"
+    },
+    {
+        "word": "die Befunderhebung",
+        "meaning": "bulguların incelenmesi"
+    },
+    {
+        "word": "die Steinplatte",
+        "meaning": "döşeme taşı"
+    },
+    {
+        "word": "stürzen",
+        "meaning": "düşmek, devrilmek"
+    },
+    {
+        "word": "faktisch",
+        "meaning": "edimsel, gerçekten"
+    },
+    {
+        "word": "Damit ist gemeint",
+        "meaning": "bununla kastedilen şudur"
+    },
+    {
+        "word": "die Wortwahl",
+        "meaning": "kelime seçimi"
+    },
+    {
+        "word": "die Einkommenverhältnisse",
+        "meaning": "gelir düzeyi durumları"
+    },
+    {
+        "word": "die Funktionsaufnahme",
+        "meaning": "fonksiyon kaydı"
+    },
+    {
+        "word": "das Gutachten",
+        "meaning": "bilirkişi raporu"
+    },
+    {
+        "word": "dir Rückfrage",
+        "meaning": "açıklama isteme, karşı soru"
+    },
+    {
+        "word": "das Unwohlsein",
+        "meaning": "huzursuzluk, keyifsizlik"
+    },
+    {
+        "word": "zur Verfügung stehen",
+        "meaning": "birinin emrinde olmak"
+    },
+    {
+        "word": "fieberhaft",
+        "meaning": "ateşli"
+    },
+    {
+        "word": "juristisch",
+        "meaning": "hukuki"
+    },
+    {
+        "word": "ausreden",
+        "meaning": "sözünü bitirmek"
+    },
+    {
+        "word": "skizzieren",
+        "meaning": "ana hatlarıyla açıklamak, taslağını yapmak"
+    },
+    {
+        "word": "das Vorwissen",
+        "meaning": "ön bilgi, önceden bilme"
+    },
+    {
+        "word": "die Einstellung",
+        "meaning": "tutum, zihniyet"
+    },
+    {
+        "word": "der Gefühlsausbruch",
+        "meaning": "duygusal patlama"
+    },
+    {
+        "word": "die Wut",
+        "meaning": "öfke, kızgınlık"
+    },
+    {
+        "word": "das Schweigen",
+        "meaning": "sessizlik"
+    },
+    {
+        "word": "die Teilnarkose",
+        "meaning": "rejyonel anestezi"
+    },
+    {
+        "word": "der Tubus",
+        "meaning": "tüp"
+    },
+    {
+        "word": "mitbekommen",
+        "meaning": "fark etmek, hissetmek"
+    },
+    {
+        "word": "ankleben",
+        "meaning": "yapıştırmak, tutturmak"
+    },
+    {
+        "word": "die Kanüle",
+        "meaning": "iğne"
+    },
+    {
+        "word": "zerstochen",
+        "meaning": "delik deşik edilmiş"
+    },
+    {
+        "word": "die Mühe",
+        "meaning": "zahmet, çaba, elimizden gelen"
+    },
+    {
+        "word": "die Luftröhre",
+        "meaning": "Trakea"
+    },
+    {
+        "word": "die Brustwirbelsäule",
+        "meaning": "torakal vertebra"
+    },
+    {
+        "word": "der Mageninhalt",
+        "meaning": "mide içi"
+    },
+    {
+        "word": "tasten",
+        "meaning": "palpe etmek"
+    },
+    {
+        "word": "mitkriegen",
+        "meaning": "hissetmek, duymak"
+    },
+    {
+        "word": "die Zahnschäden",
+        "meaning": "diş hasarı"
+    },
+    {
+        "word": "der Zettel",
+        "meaning": "not yazılı kâğıt"
+    },
+    {
+        "word": "tüchtig",
+        "meaning": "yetenekli"
+    },
+    {
+        "word": "heiser",
+        "meaning": "boğuk ses, kısık ses"
+    },
+    {
+        "word": "die Stimmbänder",
+        "meaning": "ses telLERi"
+    },
+    {
+        "word": "herausnehmen",
+        "meaning": "çıkarmak, içinden almak, sökmek"
+    },
+    {
+        "word": "die Speiseröhe",
+        "meaning": "özofagus"
+    },
+    {
+        "word": "zurückfließen",
+        "meaning": "geriye akmak"
+    },
+    {
+        "word": "die Einstichstelle",
+        "meaning": "giriş yeri"
+    },
+    {
+        "word": "die Gerinnung",
+        "meaning": "pıhtılaşma"
+    },
+    {
+        "word": "der Bluterguss",
+        "meaning": "hemoraji, kan oturması"
+    },
+    {
+        "word": "die Magenspiegelung",
+        "meaning": "mide endoskopisi"
+    },
+    {
+        "word": "die Gallenblasenentfernung",
+        "meaning": "kolesistektomi"
+    },
+    {
+        "word": "das Blutbild",
+        "meaning": "kan tahlili"
+    },
+    {
+        "word": "die Mundschleimhaut",
+        "meaning": "Oral mukoza"
+    },
+    {
+        "word": "der Haarausfall",
+        "meaning": "saç dökülmesi"
+    },
+    {
+        "word": "die Muskelschwäche",
+        "meaning": "kas güçsüzlüğü"
+    },
+    {
+        "word": "die Neigung",
+        "meaning": "yatkınlık, meyil, eğilim"
+    },
+    {
+        "word": "die Blutarmut",
+        "meaning": "anemi"
+    },
+    {
+        "word": "der Samen",
+        "meaning": "sperm"
+    },
+    {
+        "word": "der Keim",
+        "meaning": "bakteri, mikrop"
+    },
+    {
+        "word": "die Blutbahn",
+        "meaning": "kan dolaşımı"
+    },
+    {
+        "word": "die Sedierung",
+        "meaning": "sedasyon"
+    },
+    {
+        "word": "benachbart",
+        "meaning": "komşu, bitişik, yakınında"
+    },
+    {
+        "word": "die Gallengänge",
+        "meaning": "safra yolları"
+    },
+    {
+        "word": "anschwellen",
+        "meaning": "şişmek"
+    },
+    {
+        "word": "der Strahlenschaden",
+        "meaning": "radyasyon hasarı"
+    },
+    {
+        "word": "der Hautausschlag",
+        "meaning": "deri döküntüsü"
+    },
+    {
+        "word": "vereinzelt",
+        "meaning": "tek tük, çok seyrek"
+    },
+    {
+        "word": "die Nachblutung",
+        "meaning": "tekrar kanama"
+    },
+    {
+        "word": "die Verbrennung",
+        "meaning": "yanık"
+    },
+    {
+        "word": "die Undichtigkeit",
+        "meaning": "sızıntı, kaçak"
+    },
+    {
+        "word": "die Verstopfung",
+        "meaning": "tıkanma, kabızlık"
+    },
+    {
+        "word": "aufklaffen",
+        "meaning": "açmak"
+    },
+    {
+        "word": "das Delikt",
+        "meaning": "ceza gerektiren eylem"
+    },
+    {
+        "word": "die Einwilligang",
+        "meaning": "muvakafat, onay, rıza"
+    },
+    {
+        "word": "die Unversehrtheit",
+        "meaning": "sağlamlık"
+    },
+    {
+        "word": "eigenverantwortlich",
+        "meaning": "öz sorumluluk"
+    },
+    {
+        "word": "eingedrangen",
+        "meaning": "zorlanmış, nüfuz edilmiş"
+    },
+    {
+        "word": "rechtswidrig",
+        "meaning": "hukuka aykırı"
+    },
+    {
+        "word": "der Notstand",
+        "meaning": "zorunluluk, olağanüstü durum"
+    },
+    {
+        "word": "verankern",
+        "meaning": "bağlamak, sağlama almak"
+    },
+    {
+        "word": "ordnungsgemäß",
+        "meaning": "nizami, kurallara uygun"
+    },
+    {
+        "word": "gleichermaßen",
+        "meaning": "aynı şekilde"
+    },
+    {
+        "word": "übertrieben",
+        "meaning": "abartılı, aşırı, mübalağalı"
+    },
+    {
+        "word": "gewaltsam",
+        "meaning": "zorla"
+    },
+    {
+        "word": "rechtfertigend",
+        "meaning": "mazaret göstermek"
+    },
+    {
+        "word": "der Belang",
+        "meaning": "menfaat, yarar, çıkar"
+    },
+    {
+        "word": "unantastbar",
+        "meaning": "dokunulamaz"
+    },
+    {
+        "word": "der Bandscheibenvorfall",
+        "meaning": "bel fıtığı"
+    },
+    {
+        "word": "das Vorhofflimmern",
+        "meaning": "atriyal fibrilasyon"
+    },
+    {
+        "word": "mündig",
+        "meaning": "reşit, ergin"
+    },
+    {
+        "word": "minderjährig",
+        "meaning": "reşit olmayan"
+    },
+    {
+        "word": "mitbestimmen",
+        "meaning": "birlikte karar vermek"
+    },
+    {
+        "word": "durchforsten",
+        "meaning": "detaylı araştırmak"
+    },
+    {
+        "word": "die Gewissheit",
+        "meaning": "kesinlik, farkında olma"
+    },
+    {
+        "word": "fündig werden",
+        "meaning": "bulmak"
+    },
+    {
+        "word": "die Bezeichnung",
+        "meaning": "tabir, tanımlama"
+    },
+    {
+        "word": "hinsichtlich",
+        "meaning": "... bakımından, hususunda"
+    },
+    {
+        "word": "eine Entscheidung mittragen",
+        "meaning": "bir kararı kabullenmek"
+    },
+    {
+        "word": "die Fachwelt",
+        "meaning": "mesleki çevre"
+    },
+    {
+        "word": "der Folgeschaden",
+        "meaning": "dolaylı zarar"
+    },
+    {
+        "word": "die Trauer",
+        "meaning": "üzüntü, matem, yas"
+    },
+    {
+        "word": "durchsprechen",
+        "meaning": "konuyu etraflıca tartışmak"
+    },
+    {
+        "word": "die Bindehaut",
+        "meaning": "konjonktiva"
+    },
+    {
+        "word": "das Muskelgewebe",
+        "meaning": "kas dokusu"
+    },
+    {
+        "word": "die Verabreichung",
+        "meaning": "verme"
+    },
+    {
+        "word": "unmittelbar",
+        "meaning": "direkt, aracısız"
+    },
+    {
+        "word": "das Kochsalz",
+        "meaning": "NaCl"
+    },
+    {
+        "word": "die Maßeinheiten",
+        "meaning": "ölçü birimleri"
+    },
+    {
+        "word": "die Ablagerung",
+        "meaning": "tümör"
+    },
+    {
+        "word": "vorbeugen",
+        "meaning": "koruyucu önlem almak"
+    },
+    {
+        "word": "angezeigt sein",
+        "meaning": "gerekmek, icap etmek"
+    },
+    {
+        "word": "die Bundesbehörde",
+        "meaning": "federal makam"
+    },
+    {
+        "word": "die Zulassung",
+        "meaning": "ruhsat, onaylama"
+    },
+    {
+        "word": "die Erfassung",
+        "meaning": "kayıt"
+    },
+    {
+        "word": "angegliedert",
+        "meaning": "bağlanmış"
+    },
+    {
+        "word": "dergleichen",
+        "meaning": "bu gibi, buna benzer"
+    },
+    {
+        "word": "das Nachschlagewerk",
+        "meaning": "açıp kaynak kitaba bakma"
+    },
+    {
+        "word": "virulent",
+        "meaning": "hastalığa yol açıcı"
+    },
+    {
+        "word": "wegdenken",
+        "meaning": "artık olmayacağını düşünmek, yok olduğunu düşünmek"
+    },
+    {
+        "word": "abschließend",
+        "meaning": "sonunda, bitirirken"
+    },
+    {
+        "word": "die Auflage",
+        "meaning": "koşul, şart"
+    },
+    {
+        "word": "das Haftungsrecht",
+        "meaning": "sorumluluk hukuku"
+    },
+    {
+        "word": "sich vergewissern",
+        "meaning": "aklı yatmak"
+    },
+    {
+        "word": "haftbar",
+        "meaning": "sorumlu, mükellef"
+    },
+    {
+        "word": "widersprechen",
+        "meaning": "aksini iddia etmek"
+    },
+    {
+        "word": "bewerten",
+        "meaning": "değerlendirmek, değer vermek"
+    },
+    {
+        "word": "der Nachdruck",
+        "meaning": "vurgu, önem, değer"
+    },
+    {
+        "word": "die Unaufmerksamkeit",
+        "meaning": "dikkatsizlik"
+    },
+    {
+        "word": "der Eintrag",
+        "meaning": "kayıt, tescil, veri"
+    },
+    {
+        "word": "paraphrasieren",
+        "meaning": "açıklamak"
+    },
+    {
+        "word": "arg",
+        "meaning": "kuvvetli, kötü, ağır"
+    },
+    {
+        "word": "beißen",
+        "meaning": "ısırmak"
+    },
+    {
+        "word": "womöglich",
+        "meaning": "muhtemelen"
+    },
+    {
+        "word": "das Kribbeln",
+        "meaning": "karıncalanma"
+    },
+    {
+        "word": "die Verstimmung",
+        "meaning": "duygudurum bozukluğu"
+    },
+    {
+        "word": "spicken",
+        "meaning": "donatmak"
+    },
+    {
+        "word": "abweichen",
+        "meaning": "değişik olmak, farklı olmak"
+    },
+    {
+        "word": "der Kader",
+        "meaning": "uzman kadro"
+    },
+    {
+        "word": "der Primarius",
+        "meaning": "der Chefarzt"
+    },
+    {
+        "word": "das Spital",
+        "meaning": "hastane, klinik"
+    },
+    {
+        "word": "die Ampulle",
+        "meaning": "tüp"
+    },
+    {
+        "word": "die Mehrfachnennung",
+        "meaning": "çoktan seçmeli"
+    },
+    {
+        "word": "die Überschneidung",
+        "meaning": "kesişme örtüşme"
+    },
+    {
+        "word": "überweisen an",
+        "meaning": "(hastayı) sevk etmek"
+    },
+    {
+        "word": "die Anlaufstelle",
+        "meaning": "ilk başvurulacak yer"
+    },
+    {
+        "word": "die Fahrerei",
+        "meaning": "uzun ve yorucu taşıt yolculuğu"
+    },
+    {
+        "word": "das Sodbrennen",
+        "meaning": "mide yanması"
+    },
+    {
+        "word": "benennen",
+        "meaning": "adlandırmak, isimlendirmek"
+    },
+    {
+        "word": "das Bohren",
+        "meaning": "delme, burgulama"
+    },
+    {
+        "word": "hämmern",
+        "meaning": "çekiçle dövmek"
+    },
+    {
+        "word": "zuschnüren",
+        "meaning": "ip ile bağlamak"
+    },
+    {
+        "word": "vorstellbar",
+        "meaning": "tasavvur edilebilir"
+    },
+    {
+        "word": "sich ekeln",
+        "meaning": "tiksinmek"
+    },
+    {
+        "word": "zuschnallen",
+        "meaning": "tokalayarak kapamak"
+    },
+    {
+        "word": "schweißgebot aufwachen",
+        "meaning": "kan ter içinde uyanmak"
+    },
+    {
+        "word": "reichlich",
+        "meaning": "oldukça, fazlasıyla"
+    },
+    {
+        "word": "meistern",
+        "meaning": "beherrschen"
+    },
+    {
+        "word": "das Sexualleben",
+        "meaning": "cinsel hayat"
+    },
+    {
+        "word": "der Zulieferbetrieb",
+        "meaning": "yan sanayı işletmesi"
+    },
+    {
+        "word": "Mist bauen",
+        "meaning": "hata yapmak"
+    },
+    {
+        "word": "die Vorerkrankung",
+        "meaning": "mizaç, yapı"
+    },
+    {
+        "word": "der Selbstmord",
+        "meaning": "intihar"
+    },
+    {
+        "word": "die Schwermut",
+        "meaning": "depresyon, iç sıkıntısı"
+    },
+    {
+        "word": "die Niedergeschlagenheit",
+        "meaning": "bitkinlik, çökkünlük"
+    },
+    {
+        "word": "das Röhrchen",
+        "meaning": "ince küçük boru"
+    },
+    {
+        "word": "schnellstmöglich",
+        "meaning": "en hızlı şekilde"
+    },
+    {
+        "word": "der Kot",
+        "meaning": "dışkı, gayta"
+    },
+    {
+        "word": "beengend",
+        "meaning": "sıkıcı, sıkıştırıcı, darlayıcı"
+    },
+    {
+        "word": "klopfend",
+        "meaning": "çarpan, tıklayan"
+    },
+    {
+        "word": "die Verzweiflung",
+        "meaning": "çaresizlik, ümitsizlik"
+    },
+    {
+        "word": "ankündigen",
+        "meaning": "haber vermek"
+    },
+    {
+        "word": "zulassen",
+        "meaning": "izin vermek"
+    },
+    {
+        "word": "die Bereitschaft",
+        "meaning": "eğilim, bekleme, niyetli olma"
+    },
+    {
+        "word": "forsch",
+        "meaning": "cesur, yiğit"
+    },
+    {
+        "word": "sich zusammenreißen",
+        "meaning": "kendine hakim olmak, kendini toplamak"
+    },
+    {
+        "word": "sich aufregen",
+        "meaning": "sinirlenmek (heyecanlanmak)"
+    },
+    {
+        "word": "sauer sein",
+        "meaning": "kızgın olmak"
+    },
+    {
+        "word": "streuen",
+        "meaning": "yayılmak, metastaz yapmak"
+    },
+    {
+        "word": "die Tochtergeschwulst",
+        "meaning": "metastaz"
+    },
+    {
+        "word": "die Zufuhr",
+        "meaning": "sağlama, tedarik etme"
+    },
+    {
+        "word": "verbergen",
+        "meaning": "saklamak, örtmek"
+    },
+    {
+        "word": "eruieren",
+        "meaning": "araştırıp ortaya çıkarmak"
+    },
+    {
+        "word": "die Nachsicht",
+        "meaning": "hoşgörü, müsamaha"
+    },
+    {
+        "word": "glaubwürdig",
+        "meaning": "güvenilir, inanılır"
+    },
+    {
+        "word": "präzisieren",
+        "meaning": "açık bir şekilde belirtmek, daha kesin tanımlamak"
+    },
+    {
+        "word": "zurückgreifen",
+        "meaning": "yeniden ele almak"
+    },
+    {
+        "word": "auswerten",
+        "meaning": "değerlendirmek, faydalanmak"
+    },
+    {
+        "word": "aneinander vorbeireden",
+        "meaning": "aynı şeylerden konuşmak"
+    },
+    {
+        "word": "explizit",
+        "meaning": "apaçık"
+    },
+    {
+        "word": "der Unmut",
+        "meaning": "hoşnutsuzluk, can sıkıntısı"
+    },
+    {
+        "word": "unerträglich",
+        "meaning": "dayanılmaz, katlanılmaz"
+    },
+    {
+        "word": "das Sieb",
+        "meaning": "filtre, süzme"
+    },
+    {
+        "word": "ahnen",
+        "meaning": "önceden sezmek"
+    },
+    {
+        "word": "die Selbstvorwurf",
+        "meaning": "kendini suçlama"
+    },
+    {
+        "word": "einbeziehen",
+        "meaning": "dahil etmek, eklemek"
+    },
+    {
+        "word": "besagen",
+        "meaning": "anlamına gelmek"
+    },
+    {
+        "word": "maßgeblich",
+        "meaning": "önemli derecede, oldukça"
+    },
+    {
+        "word": "die Anschauung",
+        "meaning": "fikir, bakış açısı"
+    },
+    {
+        "word": "das Blickfeld",
+        "meaning": "görüş alanı"
+    },
+    {
+        "word": "der Operationstisch",
+        "meaning": "ameliyat masası"
+    },
+    {
+        "word": "die Operationsleuchte",
+        "meaning": "ameliyat ışığı"
+    },
+    {
+        "word": "schneiden",
+        "meaning": "ameliyat etmek"
+    },
+    {
+        "word": "erraten",
+        "meaning": "tahmin etmek, keşfetmek"
+    },
+    {
+        "word": "das Skalpell",
+        "meaning": "bisturi, neşter"
+    },
+    {
+        "word": "reichen",
+        "meaning": "sunmak, vermek"
+    },
+    {
+        "word": "die Gummipuppe",
+        "meaning": "lasitk bebek"
+    },
+    {
+        "word": "die Sprachregelung",
+        "meaning": "dilsel düzenleme"
+    },
+    {
+        "word": "zögerlich",
+        "meaning": "çekingen"
+    },
+    {
+        "word": "zurückführen",
+        "meaning": "sebebe dayandırmak"
+    },
+    {
+        "word": "münden",
+        "meaning": "bir sonuca götürmek"
+    },
+    {
+        "word": "abgleichen",
+        "meaning": "eşleştirmek, ayarlamak"
+    },
+    {
+        "word": "die Zählkontrolle",
+        "meaning": "sayma denetimi"
+    },
+    {
+        "word": "die Schleife",
+        "meaning": "düğüm, ilmik"
+    },
+    {
+        "word": "die Übergabe",
+        "meaning": "devir teslim"
+    },
+    {
+        "word": "die Schürze",
+        "meaning": "önlük"
+    },
+    {
+        "word": "ablegen",
+        "meaning": "çıkarmak, soyunmak"
+    },
+    {
+        "word": "die Personalschleuse",
+        "meaning": "personele mahsus giriş"
+    },
+    {
+        "word": "einnicken",
+        "meaning": "içi geçmek, uyuklamak"
+    },
+    {
+        "word": "das Kreuz",
+        "meaning": "çarpı işareti"
+    },
+    {
+        "word": "gelinde gesagt",
+        "meaning": "en hafif tabiriyle"
+    },
+    {
+        "word": "die Vernarbung",
+        "meaning": "yara izi"
+    },
+    {
+        "word": "zügig",
+        "meaning": "akıntılı, cereyanlı"
+    },
+    {
+        "word": "die Schraube",
+        "meaning": "vida"
+    },
+    {
+        "word": "immerhin",
+        "meaning": "hiç olmazsa, en azından"
+    },
+    {
+        "word": "der Kasack",
+        "meaning": "kazak"
+    },
+    {
+        "word": "die Tischmanieren",
+        "meaning": "masada davranış"
+    },
+    {
+        "word": "die Schilddrüsen",
+        "meaning": "tiroid bezLERi"
+    },
+    {
+        "word": "die Mandel",
+        "meaning": "tonsil, bademcik"
+    },
+    {
+        "word": "engmaschig",
+        "meaning": "dar aralıklı, sık sık"
+    },
+    {
+        "word": "verzögern",
+        "meaning": "gecikmek, rötar yapmak"
+    },
+    {
+        "word": "der Turnus",
+        "meaning": "vardiya, nöbet"
+    },
+    {
+        "word": "die Steckdose",
+        "meaning": "priz"
+    },
+    {
+        "word": "kongruent",
+        "meaning": "örtüşen, uyumlu"
+    },
+    {
+        "word": "die Begebenheit",
+        "meaning": "olay, vaka"
+    },
+    {
+        "word": "die Blutstillung",
+        "meaning": "kanamayı durdurma"
+    },
+    {
+        "word": "wiederkehrend",
+        "meaning": "periyodik olarak tekrarlanan"
+    },
+    {
+        "word": "unbeabsichtig",
+        "meaning": "kasti olmayan, istemden oluşan"
+    },
+    {
+        "word": "der Hohlnadel",
+        "meaning": "kan alma iğnesi"
+    },
+    {
+        "word": "abmildern",
+        "meaning": "hafifletmek, etkisini azaltmak"
+    },
+    {
+        "word": "die Durchgangsarzt",
+        "meaning": "iş kazası doktoru"
+    },
+    {
+        "word": "die Berufsgenossenschaft",
+        "meaning": "meslek sendikası"
+    },
+    {
+        "word": "ausleiten",
+        "meaning": "atılmasını sağlamak"
+    },
+    {
+        "word": "begatellisieren",
+        "meaning": "küçümsemek, önemsememek"
+    },
+    {
+        "word": "die Begrifflichkeit",
+        "meaning": "soyutluk"
+    },
+    {
+        "word": "verehrter Herr!",
+        "meaning": "saygıdğer beyefendi"
+    },
+    {
+        "word": "verdeutlichen",
+        "meaning": "aydınlatmak, izah etmek"
+    },
+    {
+        "word": "die Vorgehensweise",
+        "meaning": "yol ve yöntem biçimi"
+    },
+    {
+        "word": "massieren",
+        "meaning": "ovalamak, ovmak"
+    },
+    {
+        "word": "ausspülen",
+        "meaning": "suyla yıkayıp temizlemek"
+    },
+    {
+        "word": "abtöten",
+        "meaning": "yok etmek, öldürmek"
+    },
+    {
+        "word": "ausschwemmen",
+        "meaning": "sulamak"
+    },
+    {
+        "word": "der Müllsack",
+        "meaning": "çöp torbası"
+    },
+    {
+        "word": "das Ereignis",
+        "meaning": "olay, hadise, vaka"
+    },
+    {
+        "word": "ausschließen",
+        "meaning": "hariç bırakmak, dışında tutmak"
+    },
+    {
+        "word": "fehlerhaft",
+        "meaning": "hatalı, kusurlu"
+    },
+    {
+        "word": "anklagen",
+        "meaning": "dava açmak, suçlamak"
+    },
+    {
+        "word": "der Vorwurf",
+        "meaning": "suçlama, isnat"
+    },
+    {
+        "word": "erklärtermaßen",
+        "meaning": "beyan edildiği şekilde"
+    },
+    {
+        "word": "anstoßen",
+        "meaning": "itmek"
+    },
+    {
+        "word": "die Fortbildungsveranstaltung",
+        "meaning": "eğitimi geliştirme konferansı"
+    },
+    {
+        "word": "der Meldebogen",
+        "meaning": "bildirim formu"
+    },
+    {
+        "word": "die Verwechslung",
+        "meaning": "birbirine karıştırma, benzetme"
+    },
+    {
+        "word": "großartig",
+        "meaning": "harika, şahane"
+    },
+    {
+        "word": "der Zufall",
+        "meaning": "tesadüf, beklenmedik hâl"
+    },
+    {
+        "word": "sanktionieren",
+        "meaning": "yaptırımda bulunmak"
+    },
+    {
+        "word": "die Selbstreflektion",
+        "meaning": "kendi durumunu değerlendirme"
+    },
+    {
+        "word": "zurechtmachen",
+        "meaning": "hazırlamak"
+    },
+    {
+        "word": "folgenlos",
+        "meaning": "bir sonuca yol açmayan"
+    },
+    {
+        "word": "beschönigen",
+        "meaning": "ayıbını örtmek, maskelemek"
+    },
+    {
+        "word": "gestehen",
+        "meaning": "itiraf etmek"
+    },
+    {
+        "word": "vorübergehend",
+        "meaning": "geçici"
+    },
+    {
+        "word": "schwerfallen",
+        "meaning": "ağır gelmek, zor gelmek"
+    },
+    {
+        "word": "sich ergeben",
+        "meaning": "dert yanmak"
+    },
+    {
+        "word": "auffindbar",
+        "meaning": "arayıp bulunabilir"
+    },
+    {
+        "word": "zeitnahe",
+        "meaning": "yakın zaman içinde"
+    },
+    {
+        "word": "der Zwischenfall",
+        "meaning": "beklenmedik olay"
+    },
+    {
+        "word": "das Entsetzen",
+        "meaning": "dehşet, korku"
+    },
+    {
+        "word": "unerheblich",
+        "meaning": "cüzi, değersiz, önemsiz"
+    },
+    {
+        "word": "der Schadenersatz",
+        "meaning": "tazminat"
+    },
+    {
+        "word": "die Scham",
+        "meaning": "utanma duygusu"
+    },
+    {
+        "word": "gebührend",
+        "meaning": "gerektiği gibi"
+    },
+    {
+        "word": "entgegenbringen",
+        "meaning": "ilgi göstermek"
+    },
+    {
+        "word": "der Vormarsch",
+        "meaning": "ilerleme, ilerleyiş"
+    },
+    {
+        "word": "attestieren",
+        "meaning": "rapor etmek, tasdiklemek"
+    },
+    {
+        "word": "nachvollziehen",
+        "meaning": "kendini karşı tarafın yerine koyabilmek"
+    },
+    {
+        "word": "der Reinigungskraft",
+        "meaning": "temizlikçi"
+    },
+    {
+        "word": "die Schleimhaut",
+        "meaning": "mukoza"
+    },
+    {
+        "word": "die Schutzkappe",
+        "meaning": "koruma kapağı"
+    },
+    {
+        "word": "das Versehen",
+        "meaning": "dikkatsizlik, hata"
+    },
+    {
+        "word": "bedauerlicherweise",
+        "meaning": "maalesef, ne yazık ki"
+    },
+    {
+        "word": "üblicherweise",
+        "meaning": "genellikle, alışıldığı üzere"
+    },
+    {
+        "word": "dienstlich",
+        "meaning": "işle ilgili"
+    },
+    {
+        "word": "herauslegen",
+        "meaning": "vermek, ödemek"
+    },
+    {
+        "word": "der Eintrag",
+        "meaning": "veri, kayıt, tescil"
+    },
+    {
+        "word": "die Korrespondenz",
+        "meaning": "mektuplaşma, yazışma"
+    },
+    {
+        "word": "verfassen",
+        "meaning": "kaleme almak, yazmak"
+    },
+    {
+        "word": "die Arbeitnehmerfreizügigkeit",
+        "meaning": "işçilerin serbest dolaşımı"
+    },
+    {
+        "word": "die Ausübung",
+        "meaning": "icra etme, uygulama"
+    },
+    {
+        "word": "der Nachweis",
+        "meaning": "ispat, kanıt"
+    },
+    {
+        "word": "einreichen",
+        "meaning": "arz etmek, sunmak"
+    },
+    {
+        "word": "die Urkunde",
+        "meaning": "yazılı belge"
+    },
+    {
+        "word": "die Unterbringung",
+        "meaning": "konaklatma"
+    },
+    {
+        "word": "das Anforderungsprofil",
+        "meaning": "iş niteliği, şartları"
+    },
+    {
+        "word": "der Bestandteil",
+        "meaning": "bileşen, öğe, parça"
+    },
+    {
+        "word": "die Erwerbstätigkeit",
+        "meaning": "bir işte çalışma"
+    },
+    {
+        "word": "der Anlass",
+        "meaning": "sebep, münasebet"
+    },
+    {
+        "word": "ankündigen",
+        "meaning": "önceden bildirmek, beyan etmek"
+    },
+    {
+        "word": "die Basismaßnahmen",
+        "meaning": "temel önlem"
+    },
+    {
+        "word": "absterben",
+        "meaning": "yavaş yavaş duyarlılığını yitirmek"
+    },
+    {
+        "word": "die Kaltschweißigkeit",
+        "meaning": "soğuk terleme"
+    },
+    {
+        "word": "der Kiefer",
+        "meaning": "çene kemiği"
+    },
+    {
+        "word": "blass",
+        "meaning": "solgun, sapsarı"
+    },
+    {
+        "word": "gräulich",
+        "meaning": "dehşet verici, korkunç"
+    },
+    {
+        "word": "sistieren",
+        "meaning": "durdurmak, engellemek"
+    },
+    {
+        "word": "die Vermeidung",
+        "meaning": "kaçınma, sakınma"
+    },
+    {
+        "word": "verabreichen",
+        "meaning": "(ilaç) vermek"
+    },
+    {
+        "word": "die Abschirmung",
+        "meaning": "korunma, muhafaza"
+    },
+    {
+        "word": "eruieren",
+        "meaning": "araştırıp meydana çıkarmak"
+    },
+    {
+        "word": "der Sturz",
+        "meaning": "düşme, devrilme"
+    },
+    {
+        "word": "die Rasselgeräusche",
+        "meaning": "ral"
+    },
+    {
+        "word": "die Rücksprache",
+        "meaning": "detaylı görüşme"
+    },
+    {
+        "word": "die Entwässerung",
+        "meaning": "kurutma, direnaj"
+    },
+    {
+        "word": "diesbezüglich",
+        "meaning": "bu konuda, bu hususta"
+    },
+    {
+        "word": "herabgesetzt",
+        "meaning": "azalmış, indirilmiş"
+    },
+    {
+        "word": "verweisen",
+        "meaning": "işaret etmek, atıfta bulunmak"
+    },
+    {
+        "word": "weglassen",
+        "meaning": "artık kullanmamak"
+    },
+    {
+        "word": "die Beweglichkeit",
+        "meaning": "hareketlilik"
+    },
+    {
+        "word": "aufweisen",
+        "meaning": "arz etmek, sunmak"
+    },
+    {
+        "word": "die Manschette",
+        "meaning": "(tansiyon aleti) manşon"
+    },
+    {
+        "word": "das Regelwerk",
+        "meaning": "yasa"
+    },
+    {
+        "word": "die Trennschärfe",
+        "meaning": "ayırma kuvveti"
+    },
+    {
+        "word": "die Spielsucht",
+        "meaning": "kumar bağımlılığı"
+    },
+    {
+        "word": "widersprüchlich",
+        "meaning": "tutarsız, çelişkili"
+    },
+    {
+        "word": "jeglich",
+        "meaning": "her, tüm"
+    },
+    {
+        "word": "wachrufen",
+        "meaning": "canlandırmak, uyandırmak"
+    },
+    {
+        "word": "die Belehrung",
+        "meaning": "nasihat, eğitme"
+    },
+    {
+        "word": "Gebrauch machen",
+        "meaning": "kullanmak, yararlanmak"
+    },
+    {
+        "word": "suchtkrank",
+        "meaning": "bağımlı, düşkün"
+    },
+    {
+        "word": "der Gesichtspunkt",
+        "meaning": "bakış açısı"
+    },
+    {
+        "word": "die Devise",
+        "meaning": "hayat felsefesi, şiar"
+    },
+    {
+        "word": "bedrücken",
+        "meaning": "baskı yapmak, bunaltmak"
+    },
+    {
+        "word": "der Ansatz",
+        "meaning": "yaklaşım"
+    },
+    {
+        "word": "die Spanne",
+        "meaning": "fark, açıklık, marj"
+    },
+    {
+        "word": "das Zwiegespräch",
+        "meaning": "ikili görüşme"
+    },
+    {
+        "word": "der Widerstand",
+        "meaning": "direnç, rezistans"
+    },
+    {
+        "word": "Etikett versehen",
+        "meaning": "etiketlemek, damgalamak"
+    },
+    {
+        "word": "die Besorgnis",
+        "meaning": "endişe, kaygı, korku"
+    },
+    {
+        "word": "ängstigen",
+        "meaning": "korkutmak, endişeye düşürmek"
+    },
+    {
+        "word": "die Gunst",
+        "meaning": "iltifat"
+    },
+    {
+        "word": "inwiefern",
+        "meaning": "ne dereceye kadar"
+    },
+    {
+        "word": "herbeiführen",
+        "meaning": "sebebiyet vermek"
+    },
+    {
+        "word": "der Bewertungsgrundsatz",
+        "meaning": "değerlendirme temeli"
+    },
+    {
+        "word": "der Kassenarzt",
+        "meaning": "sigorta doktoru"
+    },
+    {
+        "word": "die Ausgestaltung",
+        "meaning": "geliştirme, ilerletme"
+    },
+    {
+        "word": "die Fertigkeit",
+        "meaning": "kabiliyet, beceri"
+    },
+    {
+        "word": "erworben",
+        "meaning": "edinilmiş, kazanılmış"
+    },
+    {
+        "word": "interpretieren",
+        "meaning": "yorumlamak, anlam çıkarmak"
+    },
+    {
+        "word": "das Wahlfach",
+        "meaning": "seçmeli ders"
+    },
+    {
+        "word": "die Lehrstuhlinhaberin",
+        "meaning": "profesör kadrosu sahibesi"
+    },
+    {
+        "word": "befristet",
+        "meaning": "süreli, vadeli"
+    },
+    {
+        "word": "die Arztdichte",
+        "meaning": "doktor sıklğı"
+    },
+    {
+        "word": "mittelfristig",
+        "meaning": "orta vadeli"
+    },
+    {
+        "word": "entschärfen",
+        "meaning": "zararsız hale getirmek"
+    },
+    {
+        "word": "vonnöten",
+        "meaning": "gerekli, lazım"
+    },
+    {
+        "word": "einhergehen",
+        "meaning": "bir şeyle beraber cereyan etmek"
+    },
+    {
+        "word": "die Annahme",
+        "meaning": "varsayım, tahmin"
+    },
+    {
+        "word": "veranlassen",
+        "meaning": "sağlamak, teşvik etmek"
+    },
+    {
+        "word": "der Leistungsempfänger",
+        "meaning": "yardım alan"
+    },
+    {
+        "word": "die Stichprobe",
+        "meaning": "örneklem"
+    },
+    {
+        "word": "schleudern",
+        "meaning": "savurmak, kaldırıp atmak"
+    },
+    {
+        "word": "am Folgetag",
+        "meaning": "ertesi gün"
+    },
+    {
+        "word": "das Vollgefühl",
+        "meaning": "fazla doyma hissi"
+    },
+    {
+        "word": "abheilen",
+        "meaning": "tamamen iyileşmek"
+    },
+    {
+        "word": "die Klammer",
+        "meaning": "ortopedik çivi"
+    }
+
+]

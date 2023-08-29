@@ -48,7 +48,7 @@ export default function LoginScreen() {
                     marginRight:50,
                     marginTop :20,
                     marginBottom:20
-                }}>
+                }}/>
         <Button title="Login" onPress={handleLogin}/>
 
 {/* .......................................Forget password ........................ */}
