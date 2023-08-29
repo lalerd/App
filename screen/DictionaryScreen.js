@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, StyleSheet, FlatList, TouchableOpacity } from 'react-native';
 import { Modalize } from 'react-native-modalize';
-import Icon from 'react-native-vector-icons/FontAwesome'; // veya başka bir ikon kütüphanesi
+import Icon from 'react-native-vector-icons/FontAwesome';
 
 import dictionaryData from './words.json';
 
